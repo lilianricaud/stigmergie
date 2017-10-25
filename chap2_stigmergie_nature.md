@@ -131,6 +131,6 @@ Les chercheurs ont identifiés de nombreux cas de système vivant qui montrent d
 
 **REF** Francis Heyl
 
-
+Y a t-il des exemples de stigmergie dans nos organisations ? Pourrait on appliquer ce modèle pour nous coordonner ? 
 
 
