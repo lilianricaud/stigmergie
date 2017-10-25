@@ -1,6 +1,6 @@
 # Stigmergie humaine
 
-## Quelques exemples de coordination stigmergique 
+## Quelques exemples de coordination stigmergique dans nos sociétés
 
 Sentier
 
@@ -45,3 +45,5 @@ Avec l’arrivée de membres supplémentaires, plus de personnes feront l’exp�
 La communication entre les nœuds d’un système s’établit sur la base du besoin. La transparence permet à l’information de circuler librement entre les différents nœuds, mais une relation formelle ou une méthode de communication n’est ni nécessaire ni souhaitable. Le partage d’information est guidé par l’information elle-même, pas par les relations personnelles. Si une donnée est pertinente pour plusieurs nœuds elle sera immédiatement transmise à tous, aucune rencontre formelle entre des personnes officielles/légitimes n’est nécessaire.
 
 N’importe quel nœud peut disparaître sans affecter le réseau, et les fonctionnalités subsistantes nécessaires peuvent être récupérées par d’autres. Les nœuds qui s’aperçoivent qu’ils travaillent sur les mêmes taches sont susceptible de s’associer, ou bien certains seront rendus obsolètes par le manque d’usage. De nouveaux nœuds sont créés seulement pour remplir un nouveau besoin ou fournir une meilleure fonctionnalité; il est inefficace que la même tache soit exécutée deux fois et cela n’arrive que quand un deuxième groupe trouve une méthode alternative que le premier groupe ne souhaite pas adopter. Dans ce cas, le meilleur système gagnera plus de soutien de la part du groupe d’usagers et l’autre système disparaitra ou restera comme une alternative précieuse. N’importe quel utilisateur peut contribuer au nœud qui correspond le mieux à leurs intérêts et leur capacités ou contribuer à plusieurs nœuds.
+
+
