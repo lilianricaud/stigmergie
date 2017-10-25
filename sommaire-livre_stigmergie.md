@@ -15,7 +15,7 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 
 1776 mots 7 pages
 
-## Chapitre 2 Comment se coordonnent les insectes sociaux ?
+## Chapitre 2: Comment se coordonnent les insectes sociaux ?
 
 1258 mots: 5 pages
 
