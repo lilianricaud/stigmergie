@@ -4,8 +4,29 @@
 
 Sentier
 
+<!---
 
-## Article Heather Marsh
+Chemin tracé par l’usage. Résultant du choix conscient ou inconscient de nombreuses personnes, il est
+au plus proche des besoins des utilisateurs finaux.
+
+Chemin conçu par l’« expert »: soumis à des contraintes externes à l’utilisateur final (coût, sens esthétique et aprioris de l’architecte ou des commanditaires du projet), il« fonctionne » mais n’est pas optimal car il force les usagers à s’adapter.
+
+--->
+
+![bg original 100%](images/desire-path-cc-by-sa-opensourceway.jpg)
+
+Les cairns fonctionnent de la même manière
+
+
+## Coordination stigmergique dans les organisations humaines
+
+Article Heather Marsh
+
+une très grande partie de ce travail a été inspiré par l'article "Stigmergy" écrit par Heather Marsh. Je n'insisterai jamais assez sur l'importance de lire cet article brillant.
+
+https://georgiebc.wordpress.com/2012/12/24/stigmergy-2/
+
+traduction française: http://www.lilianricaud.com/travail-en-reseau/la-stigmergie-un-nouvelle-modele-de-gouvernance-collaborative/
 
 Dans le schéma de la stigmergie ci-dessous, tous les travailleurs ont une autonomie complète pour créer comme ils le souhaitent; le pouvoir du groupe d’utilisateurs réside dans sa capacité à accepter ou rejeter le travail. Comme il n’y a pas de personne désignée pour accomplir une tâche, les usagers sont libres de créer une alternative s’ils n’aiment pas ce qui est proposé. Les travailleurs sont libres de créer sans prendre en compte l’acceptation ou le rejet; dans le schéma ci-dessous des travaux peuvent être acceptés par le groupe le plus important, une alternative par un autre groupe d’usagers, une autre uniquement par un petit groupe, et parfois le travailleur sera seul avec sa propre vision des choses. Dans tous les cas, les travailleurs restent libres de créer comme ils l’entendent.
 
