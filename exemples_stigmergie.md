@@ -67,7 +67,7 @@ S’il y a communication directe entre certains petits groupes de participants, 
     https://fr.wikipedia.org/wiki/Cours_en_ligne_ouvert_et_massif
 
  
-Le forum ouvert
+## Le forum ouvert
 
 Le forum ouvert (en anglais « Open Space Technology » est un format de rencontre basée sur l’auto-organisation, la créativité et la liberté d’expression, l’objectif est de créer un climat favorisant l’initiative et l’apprentissage.
 
@@ -81,7 +81,7 @@ Lire:
 
     Mise à jour 26/05/14: ajout de nouveaux exemples
 
-Twitter dopé par ses utilisateurs
+## Twitter dopé par ses utilisateurs
 
 Savez vous que de nombreuses innovations sur la plateforme de Twitter n’ont pas initiés pas l’entreprise, mais par les utilisateurs et développeurs externes ?
 
@@ -117,7 +117,7 @@ Notez que Ushahidi s’est propagé de façon spontanée et a été depuis été
 Plus sur Ushahidi comme système stigmergique dans cet article très intéressant: Stigmergic self-organization and the improvisation of Ushahidi
 
  
-Des organisations fonctionnant sur un modèle d’hétérarchie
+## Des organisations fonctionnant sur un modèle d’hétérarchie
 
 A explorer aussi pour ceux qui veulent aller plus loin, le concept d’hétérarchie, qui se rapproche du concept de stigmergie. Selon Wikipédia:
 
