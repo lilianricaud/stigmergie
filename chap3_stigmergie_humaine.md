@@ -1,5 +1,12 @@
 # Stigmergie humaine
 
+## Quelques exemples de coordination stigmergique 
+
+Sentier
+
+
+## Article Heather Marsh
+
 Dans le schéma de la stigmergie ci-dessous, tous les travailleurs ont une autonomie complète pour créer comme ils le souhaitent; le pouvoir du groupe d’utilisateurs réside dans sa capacité à accepter ou rejeter le travail. Comme il n’y a pas de personne désignée pour accomplir une tâche, les usagers sont libres de créer une alternative s’ils n’aiment pas ce qui est proposé. Les travailleurs sont libres de créer sans prendre en compte l’acceptation ou le rejet; dans le schéma ci-dessous des travaux peuvent être acceptés par le groupe le plus important, une alternative par un autre groupe d’usagers, une autre uniquement par un petit groupe, et parfois le travailleur sera seul avec sa propre vision des choses. Dans tous les cas, les travailleurs restent libres de créer comme ils l’entendent.
 
 a stigmergie n’est ni compétitive ni collaborative dans le sens communément admis du terme. Avec la stigmergie, une idée initiale est donnée librement, et le projet est conduit par l’idée, pas par une personnalité ou un groupe de personnalités. Aucun individu n’a besoin de permission (modèle compétitif) ou de consensus (modèle coopératif) pour proposer une idée ou initier un projet. Il n’y a pas besoin de discuter ou de voter une idée, si une idée est intéressante ou nécessaire, elle va susciter de l’intérêt. L’intérêt viendra de personnes activement impliquées dans le système et qui auront la volonté de fournir les efforts pour porter le projet plus loin. Cela ne viendra pas de votes vides de personnes qui n’ont qu’un tout petit peu d’intérêt ou d’implication dans le projet . Tant que le projet est soutenu ou rejeté sur la base d’efforts contributifs et non pas sur des votes vides, la contribution de personnes engagées dans l’idée aura plus de poids. La stigmergie met aussi les individus en situation de contrôler leur propre travail, ils n’ont pas besoin de la permission du groupe pour leur dire avec quelle méthode travailler ou à quelle partie contribuer.
