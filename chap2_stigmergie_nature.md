@@ -80,6 +80,18 @@ Collectivement, les fourmis ont tellement bien résolé l'optimisation de parcou
 ![](images/stigmergie-fourmiliere.png)
 
 
+
+## la stigmergie c'est ...
+
+ 
+- un mécanisme de coordination indirecte: contrairement à nos organisations humaines ou la plupart de nos actions se font via une communication directe, la stigmergie se fait indirectement via les traces laissés dans l'environnement
+- une boucle de rétro-action: une action laisse une trace qui elle-même induit une action
+- un système auto-organisé: chacun individu est autonome, le comportement global émerge de manière auto-organisé
+- un mécanisme orienté sur l'action et le choix individuel 
+- un mécanisme qui produit des structures complexes sans avoir besoin de plan, de contrôle ou même de communication directe entre les agents.
+
+
+
 ## La stigmergie produit des structures complexes
 
 Des chercheurs ont chercher à mieux comprendre le travail des fourmis. Pour cela, ils ont rempli de béton une fourmilière pour pouvoir la déterrer et visualiser sa structure habituellement invisible.
