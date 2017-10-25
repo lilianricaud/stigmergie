@@ -83,13 +83,13 @@ Collectivement, les fourmis ont tellement bien résolé l'optimisation de parcou
 
 ## la stigmergie c'est ...
 
- 
+<!---
 - un mécanisme de coordination indirecte: contrairement à nos organisations humaines ou la plupart de nos actions se font via une communication directe, la stigmergie se fait indirectement via les traces laissés dans l'environnement
 - une boucle de rétro-action: une action laisse une trace qui elle-même induit une action
 - un système auto-organisé: chacun individu est autonome, le comportement global émerge de manière auto-organisé
 - un mécanisme orienté sur l'action et le choix individuel 
 - un mécanisme qui produit des structures complexes sans avoir besoin de plan, de contrôle ou même de communication directe entre les agents.
-
+--->
 
 
 ## La stigmergie produit des structures complexes
@@ -124,6 +124,7 @@ Les chercheurs ont identifiés de nombreux cas de système vivant qui montrent d
 - bancs de poissons
 - chasse en meute
 
+**REF** Francis Heyl
 
 ## Définition Heather Marsh
 
