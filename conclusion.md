@@ -1,3 +1,41 @@
+# conclusion
+
+En résumé ... *la stigmergie, c'est*
+
+
+
+--- 
+##  un mecanisme de coordination indirecte
+
+--- 
+## un système auto-organisé
+
+---
+
+## une boucle : action -> trace -> action -> ...
+
+--- 
+
+## une méthode de collaboration à grande échelle
+
+---
+
+## un mécanisme centré sur l'action et le choix individuel 
+
+---
+
+## un mécanisme produisant des structures complexes
+
+---
+
+## un phénomène émergent (ou pas)
+
+---
+
+## un moyen de produire des logiciels, des évènements, de changer le monde ...
+
+
+
 # La nécessité d’un changement de paradigme
 
 Un paradigme est une représentation du monde, une manière de voir les choses, un modèle cohérent de vision du monde qui repose sur une base définie (matrice disciplinaire, modèle théorique ou courant de pensée). (…) Le paradigme au sens collectif est un système de représentations largement accepté dans un domaine particulier. (Wikipédia)
