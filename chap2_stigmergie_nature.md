@@ -51,11 +51,9 @@ Selon Wikipedia :
 Pour mieux comprendre ce mécanisme, il est intéressant de voir comment les fourmis se coordonnent pour trouver leur nourriture.
 
 ![Par Mehmet Karatay — Travail personnel, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2179109](images/safari_ants.jpg)
-Image:
 
 
-
-## Les fourmis championne de l'optimisation de trajets
+## Les fourmis championnes de l'optimisation de trajets
 
 L'image ci dessous décrit de manière scématique les étapes de la recherche d'une source de nourriture par une colonie de fourmis.
 
@@ -89,6 +87,13 @@ Collectivement, les fourmis ont tellement bien résolé l'optimisation de parcou
 - un système auto-organisé: chacun individu est autonome, le comportement global émerge de manière auto-organisé
 - un mécanisme orienté sur l'action et le choix individuel 
 - un mécanisme qui produit des structures complexes sans avoir besoin de plan, de contrôle ou même de communication directe entre les agents.
+
+## Définition Heather Marsh
+
+La stigmergie est un mécanisme de coordination indirecte entre agents ou actions. Le principe est qu’une trace laissée par une action dans l’environnement stimule l’accomplissement de l’action suivante, que ce soit par le même agent ou un agent différent.
+
+De cette façon, les actions suivantes tendent à se et renforcer et bâtir sur l’existant, ce qui conduit à l’émergence spontanée d’une activité d’apparence cohérente et systématique. La stigmergie est une forme d’auto-organisation. Elle produit des structures complexes sans avoir besoin de plan, de contrôle ou même de communication directe entre les agents. – Wikipédia.
+
 --->
 
 
@@ -126,10 +131,6 @@ Les chercheurs ont identifiés de nombreux cas de système vivant qui montrent d
 
 **REF** Francis Heyl
 
-## Définition Heather Marsh
 
-La stigmergie est un mécanisme de coordination indirecte entre agents ou actions. Le principe est qu’une trace laissée par une action dans l’environnement stimule l’accomplissement de l’action suivante, que ce soit par le même agent ou un agent différent.
-
-De cette façon, les actions suivantes tendent à se et renforcer et bâtir sur l’existant, ce qui conduit à l’émergence spontanée d’une activité d’apparence cohérente et systématique. La stigmergie est une forme d’auto-organisation. Elle produit des structures complexes sans avoir besoin de plan, de contrôle ou même de communication directe entre les agents. – Wikipédia.
 
 
