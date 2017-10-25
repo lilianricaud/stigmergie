@@ -20,9 +20,7 @@ Les cairns fonctionnent de la même manière
 
 ## Coordination stigmergique dans les organisations humaines
 
-Article Heather Marsh
-
-une très grande partie de ce travail a été inspiré par l'article "Stigmergy" écrit par Heather Marsh. Je n'insisterai jamais assez sur l'importance de lire cet article brillant.
+A quoi ressemblerait une organisation qui se coordonnerait avec des mécanismes de stigmergie. C'est ce que décrit Heather Marsh dans un article brillant. Je n'insisterai jamais assez sur l'importance de lire cet article brillant et précurseur. Une grande partie de ce qui écrit ici est issue d'une traduction de cet article:
 
 https://georgiebc.wordpress.com/2012/12/24/stigmergy-2/
 
@@ -35,6 +33,7 @@ a stigmergie n’est ni compétitive ni collaborative dans le sens communément 
 La personne qui a eu l’idée initiale peut effectuer ou non des tâches pour avancer le projet. La promotion de l’idée se fait par le volontariat, par un groupe enthousiasmé par l’idée; cela peut être ou peut être pas ceux qui la mettront en oeuvre. Il n’est pas nécessaire de chercher des fonds et des soutiens; si une idée est bonne elle recevra le soutien requis. (en pratique, ce n’est pas encore vrai, car il y a peu de gens qui ont du temps libre à offrir à de projets basés sur le volontariat, la plupart étant enchainés à un travail rendu obligatoire par le système financier existant. De plus nous vivons encore dans un système basé sur les personnes/personnalités où seuls les personnalités les plus fortes sont entendues). Le secret et la compétition ne sont pas nécessaire car une fois qu’une idée est donnée, celle ci et tous les nouveaux développements appartiennent à ceux qui choisissent de travailler dessus. N’importe qui peut proposer un travail, l’idée ne peut pas mourir ou être mis en pause par des personnes; l’acceptation ou le rejet concerne le travail fait, et non pas la personne qui l’a fait. Toutes les idées sont acceptées ou rejetées en fonction des besoins du système.
 
 La responsabilité et les droits du système sont entre les mains du groupe des utilisateurs dans son intégralité, pas seulement les créateurs. Il n’y a pas de raison que les personnes quittent le système pour des questions de conflits de personnes comme il n’y a pas besoin de communication au delà de l’accomplissement des tâches et qu’il y a habituellement beaucoup d’activités relevant d’une autonomie complète. Comme personne n’est propriétaire/possède le système, il n’y pas de nécessité de créer un groupe concurrent afin de faire évoluer la propriété du système vers un autre groupe.
+
 La stigmergie laisse peu d’espace aux agents provocateurs car seuls les besoins du système sont pris en compte. Quiconque agissant contre les fonctionnalités du système est beaucoup plus facile à voir et à empêcher d’agir que quelqu’un qui bloque les avancées avec des discussions sans fin et le développement de conflits de personnes. Parce que le système est la propriété de tous, il n’y a pas non plus de leader à viser.
 Nœuds
 
@@ -46,4 +45,13 @@ La communication entre les nœuds d’un système s’établit sur la base du be
 
 N’importe quel nœud peut disparaître sans affecter le réseau, et les fonctionnalités subsistantes nécessaires peuvent être récupérées par d’autres. Les nœuds qui s’aperçoivent qu’ils travaillent sur les mêmes taches sont susceptible de s’associer, ou bien certains seront rendus obsolètes par le manque d’usage. De nouveaux nœuds sont créés seulement pour remplir un nouveau besoin ou fournir une meilleure fonctionnalité; il est inefficace que la même tache soit exécutée deux fois et cela n’arrive que quand un deuxième groupe trouve une méthode alternative que le premier groupe ne souhaite pas adopter. Dans ce cas, le meilleur système gagnera plus de soutien de la part du groupe d’usagers et l’autre système disparaitra ou restera comme une alternative précieuse. N’importe quel utilisateur peut contribuer au nœud qui correspond le mieux à leurs intérêts et leur capacités ou contribuer à plusieurs nœuds.
 
+## Productions humaine d'artéfacts via la stigmergie
 
+On pensait jusqu'ici que nos sociétés humains produisaient par des mécanismes décrits au chapitre 1.
+Si comme nous l'avons vu au début de ce chapitre il y a des exemples de stigmergie chez l'humain, il ne s'agit pas de constructions élaborées.
+
+Pourtant celles ci existent. Dans une thèse de doctorat, des chercheurs ont montré que la production de logiciel libre mais aussi Wikipédia possédait des mécanismes de types stigmergique.
+
+
+
+(**REF** Stigmergic Collaboration, A Theoretical Framework for Mass Collaboration, Mark Elliot, 2007; Why is Open Access Development so Successful? Stigmergic organization and the economics of information, Francis Heylighen, 2007)
