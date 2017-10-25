@@ -67,8 +67,10 @@ Dans l'étape 2) les fourmis empruntent indifféremment les 4 chemins possibles,
 
 Au final à l'tape 3) les fourmis empruntent le chemin le plus court, les portions longues des autres chemins voient la piste de phéromones s'évaporer.
 
+Comme les termites, les fourmis utilisent l’environnement comme support de communication : elles échangent indirectement de l’information en déposant des phéromones, le tout décrivant l’état de leur « travail ». 
 
-Comme les termites, les fourmis utilisent l’environnement comme support de communication : elles échangent indirectement de l’information en déposant des phéromones, le tout décrivant l’état de leur « travail ». L’information échangée a une portée locale, seule une fourmi située à l’endroit où les phéromones ont été déposées y a accès.
+<!---L’information échangée a une portée locale, seule une fourmi située à l’endroit où les phéromones ont été déposées y a accès. Un aspect clé est donc que les traces doivent être perceptibles
+--->
 
 (**REF**: https://fr.wikipedia.org/wiki/Algorithme_de_colonies_de_fourmis)
 
@@ -99,10 +101,10 @@ Les tunnels sont conçus de façon optimales pour assurer une bonne ventilation 
 On dirait que la structure a été conçue par un architecte génial, mais tout a été fait par l’intelligence collective de la colonie qui se comporte comme un super-organisme.
 
 Pourtant toutes les fourmis ne sont pas actives, une récente étude américaine a révélé qu'au sein d'une colonie de fourmis, près de la moitié est en général inactive.
-Read more at http://www.atlantico.fr/decryptage/verite-fourmis-60-entre-elles-sont-grosses-paresseuses-qui-ne-font-rien-et-est-pas-tout-jean-luc-mercier-2228365.html#ziOO23gfqhYZG6pp.99: http://www.atlantico.fr/decryptage/verite-fourmis-60-entre-elles-sont-grosses-paresseuses-qui-ne-font-rien-et-est-pas-tout-jean-luc-mercier-2228365.html
 
+(**REF**http://www.atlantico.fr/decryptage/verite-fourmis-60-entre-elles-sont-grosses-paresseuses-qui-ne-font-rien-et-est-pas-tout-jean-luc-mercier-2228365.html)
 
-Il est donc bien important de comprendre que la stigmergie produit des structures d'une incroyable complexité et finement adaptée.
+Il est donc bien important de comprendre que la stigmergie n'est pas un phénomène anecdotique, mais un mécanisme puissant capable de produire des structures d'une incroyable complexité et très finement adaptée.
 
 
 
