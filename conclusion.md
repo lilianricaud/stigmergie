@@ -40,3 +40,30 @@ J’aimerai donc proposer une définition du terme coopération ouverte qui va d
     La coopération ouverte est une méthode de travail collaboratif basée sur des principes d’autorisation a priori et de controle a posteriori.
 
 Il s’agit ni plus ni moins de cette «nouvelle approche» de la coopération dont parle Jean-Michel Cornu dans son livre, mais il me semble que cette définition simple et très synthétique permet d’expliquer plus facilement aux personnes non sensibilisées le processus à l’oeuvre dans les communautés en ligne et la différence fondamentale avec le travail collaboratif traditionnel.
+
+
+## Aller plus loin
+
+## Un langage de patterns pour la stigmergie
+
+Si les principes dégagés sont utiles, quand on se penche sur la mise en application, on sent qu'il manque des choses pour faciliter la mise en oeuvre. Depuis plusieurs années j'étudie la méthode des langage de patterns, initiallement développée par l'architecte américain Christopher Alexander et je l'applique de plus en plus en tous mes projets.
+
+J'ai ainsi commencé à reformuler les principes et ingrédients de la stigergie sous forme de langage de patterns, travail pour l'instant uniquement en anglais et qui a vocation à être amélioré par itérations sucessives.
+
+- www.multibao.org/#lilianricaud/patterns/stigmergy
+
+
+## Un groupe de recherche et de discussion sur la stigmergie
+
+Afin d'approfondir les discussions autour du sujet, j'ai ouvert une liste de discussion dédiée au sujet.
+
+Pour que le contenu généré lors de ces discussions puisse lui même être utilisé de manière stigmergique
+je propose quelque règles/recommandations qui respecte les principes qui permettent la stigmergie:
+- ouverture a priori: la liste est ouverte (inscriptions + lisibilité des messages)
+- licence libre: les participants qui s'inscrivent à la liste acceptent que les contenus postés soient sous licence CC-BY-SA
+- controle à posteriori: la modération des messages se fait a posteriori
+- règles simples: celui qui dit fait, loi des deux pieds
+- objectif prépondérant: faire avancer la réflexion sur la stigmergie pour aboutir des résultats opérationnels/pratiques/concrets.
+- croissance organique: cela grandira si cela doit grandir et plusieurs travaux en parallèle sont possibles.
+
+Pour vous inscrire: 
