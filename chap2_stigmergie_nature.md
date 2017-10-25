@@ -55,7 +55,7 @@ Image:
 
 
 
-## Exemple de la stigmergie chez les fourmis
+## Les fourmis championne de l'optimisation de trajets
 
 L'image ci dessous décrit de manière scématique les étapes de la recherche d'une source de nourriture par une colonie de fourmis.
 
@@ -72,7 +72,9 @@ Comme les termites, les fourmis utilisent l’environnement comme support de com
 <!---L’information échangée a une portée locale, seule une fourmi située à l’endroit où les phéromones ont été déposées y a accès. Un aspect clé est donc que les traces doivent être perceptibles
 --->
 
-(**REF**: https://fr.wikipedia.org/wiki/Algorithme_de_colonies_de_fourmis)
+Collectivement, les fourmis ont tellement bien résolé l'optimisation de parcours que chercheurs et informaticiens ont copié le mécanisme pour optimiser les temps de parcours entre plusieurs points, allant même jusqu'à créer de fourmis virtuelles et simuler leur comportement pour trouver la meilleure solution.
+
+(**REF**:Algorithme de colonies de fourmis https://fr.wikipedia.org/wiki/Algorithme_de_colonies_de_fourmis)
 
 
 ![](images/stigmergie-fourmiliere.png)
@@ -80,23 +82,17 @@ Comme les termites, les fourmis utilisent l’environnement comme support de com
 
 ## La stigmergie produit des structures complexes
 
-La vidéo ci-dessous montre une fourmilière déterrée par des chercheurs après avoir été remplie de béton pour figer sa structure. Le résultat est à couper le souffle.
+Des chercheurs ont chercher à mieux comprendre le travail des fourmis. Pour cela, ils ont rempli de béton une fourmilière pour pouvoir la déterrer et visualiser sa structure habituellement invisible.
+
+Le résultat est à couper le souffle.
 
 https://www.youtube.com/watch?v=lFg21x2sj-M
 
-
-
-
-
-![bg original ](images/stigmergie-fourmiliere-2.png)
-
-
-La stigmergie produit des structures complexes
-
+![@melanie: redessiner une version N/B](images/stigmergie-fourmiliere-2.png)
 
 La structure couvre 50 mètres carrés, descend à 8 mètres de profondeur et lors de sa conception a nécessité le déplacement de 40 tonnes de terre.
 
-Les tunnels sont conçus de façon optimales pour assurer une bonne ventilation mais aussi la route la plus courte,  la structure comportant de véritables  « autoroutes » souterraines et des routes plus petites, connectant des chambres principales, des fosses à ordures, et des « jardins à champignons » où la température et l’humidité sont contrôlées et où les fourmis nourrissent de feuilles broyées un  mycélium qu’elles récoltent ensuite.
+Les tunnels sont conçus de façon optimales pour assurer une bonne ventilation mais aussi les routes les plus courtes,  la structure comportant de véritables  « autoroutes » souterraines ainsi que des routes plus petites, l'ensemble connectant des chambres principales, des fosses à ordures, et des « jardins à champignons » où la température et l’humidité sont contrôlées et où les fourmis nourrissent de feuilles broyées un  mycélium qu’elles récoltent ensuite.
 
 On dirait que la structure a été conçue par un architecte génial, mais tout a été fait par l’intelligence collective de la colonie qui se comporte comme un super-organisme.
 
@@ -110,6 +106,8 @@ Il est donc bien important de comprendre que la stigmergie n'est pas un phénom�
 
 ### Stigmergie chez les animaux
 
+Les chercheurs ont identifiés de nombreux cas de système vivant qui montrent des comportement de type stigmergique dans la nature.
+
 - oiseaux
 - bancs de poissons
 - chasse en meute
@@ -121,12 +119,4 @@ La stigmergie est un mécanisme de coordination indirecte entre agents ou action
 
 De cette façon, les actions suivantes tendent à se et renforcer et bâtir sur l’existant, ce qui conduit à l’émergence spontanée d’une activité d’apparence cohérente et systématique. La stigmergie est une forme d’auto-organisation. Elle produit des structures complexes sans avoir besoin de plan, de contrôle ou même de communication directe entre les agents. – Wikipédia.
 
-## Définition de la stigmergie par Wikipédia :
 
-    La stigmergie est une méthode de communication indirecte dans un environnement émergent auto-organisé, où les individus communiquent entre eux en modifiant leur environnement.
-
-    La stigmergie a d’abord été observée dans la nature – les fourmis communiquent en déposant des phéromones derrière elles, pour que d’autres fourmis puissent suivre la piste jusqu’à la nourriture ou la colonie suivant les besoins, ce qui constitue un système stigmergique.
-
-    Des phénomènes similaires sont visibles chez d’autres espèces d’insectes sociaux comme les termites, qui utilisent des phéromones pour construire de grandes et complexes structures de terre à l’aide d’une simple règle décentralisée.
-
-    Chaque termite ramasse un peu de boue autour de lui, y incorporant des phéromones, et la dépose par terre. Comme les termites sont attirés par l’odeur, ils déposent plus souvent leur paquet là où d’autres l’ont déjà déposé, ce qui forme des piliers, des arches, des tunnels et des chambres.
