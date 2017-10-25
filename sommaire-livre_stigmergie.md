@@ -24,23 +24,27 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 
 Dans un système basé sur l’action, la discussion est rarement nécessaire, car l’opinion de ceux qui ne font pas le travail a probablement peu de valeur, sauf dans le cas ou un conseil est sollicité auprès d’une personne experte et de confiance.
 
-## Peut on mettre en oeuvre la stigmergie ?
+## Chapitre 4: Peut on mettre en oeuvre la stigmergie ?
 
 Principes de mise en oeuvre
 
-## Les communs
-
 ## Exemples
 
-### Traduction stigmergique 
-
-Comment l'article d'heather marsh s'est lui même traduit spontanément en plusieurs langues.
-
-
-
-## Théorie des systèmes complexes
+relus à la lumière de la grille de principe (matrice)
 
 ## Applications pratiques
 
 asso
 ateliers: méthode SKA
+
+### Traduction stigmergique 
+
+Comment l'article d'heather marsh s'est lui même traduit spontanément en plusieurs langues.
+
+## Annexe
+
+### Les communs
+
+### Théorie des systèmes complexes
+
+
