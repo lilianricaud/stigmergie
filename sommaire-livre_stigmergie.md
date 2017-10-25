@@ -19,21 +19,14 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 
 1258 mots: 5 pages
 
-## stigmergie dans la nature
-
-### Stigmergie chez les insectes
-
-### Stigmergie chez les animaux
-
-- oiseaux
-- bancs de poissons
-- chasse en meute
 
 ## Chapitre 3: stigmergie dans les système humains
 
 Dans un système basé sur l’action, la discussion est rarement nécessaire, car l’opinion de ceux qui ne font pas le travail a probablement peu de valeur, sauf dans le cas ou un conseil est sollicité auprès d’une personne experte et de confiance.
 
-## Principes de mise en oeuvre
+## Peut on mettre en oeuvre la stigmergie ?
+
+Principes de mise en oeuvre
 
 ## Les communs
 
