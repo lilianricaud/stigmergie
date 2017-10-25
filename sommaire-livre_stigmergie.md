@@ -37,9 +37,7 @@ relus à la lumière de la grille de principe (matrice)
 asso
 ateliers: méthode SKA
 
-### Traduction stigmergique 
 
-Comment l'article d'heather marsh s'est lui même traduit spontanément en plusieurs langues.
 
 ## Annexe
 
