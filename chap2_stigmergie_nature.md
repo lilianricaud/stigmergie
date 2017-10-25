@@ -123,7 +123,7 @@ Il est donc bien important de comprendre que la stigmergie n'est pas un phénom�
 
 ### Stigmergie chez les animaux
 
-Les chercheurs ont identifiés de nombreux cas de système vivant qui montrent des comportement de type stigmergique dans la nature.
+Les chercheurs ont identifiés de nombreux cas de systèmes vivants qui montrent des comportement de type stigmergique dans la nature.
 
 - oiseaux
 - bancs de poissons
