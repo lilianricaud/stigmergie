@@ -2,15 +2,19 @@
 
 # article Principes de mise en oeuvre
 
+## Quelques défintions
 
-Je parlerai d’environnement pour décrire l‘espace de travail qui peut être physique et/ou virtuel. Certains auteurs préfèrent parler de milieu (medium en anglais).
+Avant d'aller plus loin, je voudrais préciser quelques termes qui seront utilisés par la suite.
 
-Je parlerai d’agents, à savoir les acteurs qui effectuent un travail ou une action dans le système stigmergique. Notez qu’un agent peut être une personne mais aussi une organisation.
+Je parlerai d’ENVIRONNEMENT pour décrire l‘espace de travail qui peut être physique et/ou virtuel. Certains auteurs préfèrent parler de milieu (medium en anglais).
 
-Par organisation j’entends n’importe quel groupe humain structuré que ce soit une entreprise, une association, une institution, ces organisations pouvant elles mêmes fonctionner sur un modèle hiérarchique ou de consensus.
+Je parlerai d’AGENTS, à savoir les acteurs qui effectuent un travail ou une action dans le système stigmergique. Notez qu’un agent peut être une personne mais aussi une organisation.
 
-Enfin les noeuds sont les groupes de travail regroupant un nombre plus ou moins grand d’agents autour d’une tache. Un noeud peut se cliver en différentes branches qui, bien que travaillant sur la même tache, utilisent deux approches différentes en parallèle.
-Principes de mise en oeuvre
+Par ORGANISATION j’entends n’importe quel groupe humain structuré que ce soit une entreprise, une association, une institution, ces organisations pouvant elles mêmes fonctionner sur un modèle hiérarchique ou de consensus.
+
+Enfin les NOEUDS sont les groupes de travail regroupant un nombre plus ou moins grand d’agents autour d’une tache. Un noeud peut se cliver en différentes branches qui, bien que travaillant sur la même tache, utilisent deux approches différentes en parallèle.
+
+## Principes de mise en oeuvre
 
 La mise en œuvre de mécanismes de coopération de type stigmergie au sein d’une organisation humaine est une notion récente que nous essayons encore de comprendre.
 
