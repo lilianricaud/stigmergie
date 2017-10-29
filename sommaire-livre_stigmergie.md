@@ -19,27 +19,32 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 
 1258 mots: 5 pages
 
+## Chapitre 3: La stigmergie
 
-## Chapitre 3: stigmergie dans les système humains
+présentation du travail des chercheurs sur le sujet et d'exemples de stigmergie dans la nature 
+
+## Chapitre 4: La stigmergie dans les systèmes humains
 
 Dans un système basé sur l’action, la discussion est rarement nécessaire, car l’opinion de ceux qui ne font pas le travail a probablement peu de valeur, sauf dans le cas ou un conseil est sollicité auprès d’une personne experte et de confiance.
 
-## Chapitre 4: Peut on mettre en oeuvre la stigmergie ?
+a partir de la défintion de wikipédia et la description de heather marsh, nous regardons des exemples de stigmrgie
+
+## Chapitre 5: Peut on mettre en oeuvre la stigmergie ?
 
 Principes de mise en oeuvre
 
-## Exemples
 
-relus à la lumière de la grille de principe (matrice)
-
-ou bien cités avant la présentation des 12 principes
-
-## Applications pratiques
+## Chapitre 6: Applications pratiques
 
 asso
 ateliers: méthode SKA
 
 
+## Chapitre 7: Exemples d'organisations ?
+
+relus à la lumière de la grille de principe (matrice)
+
+ou bien cités avant la présentation des 12 principes ?
 
 ## Annexe
 
