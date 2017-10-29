@@ -48,41 +48,54 @@ Entre les deux, les péhromones déposées par les fourmis, persistent un certai
 --->
 
 
-
 La visibilité des traces ou leur capacité à être perçues est influencée par la topologie du milieu: selon que les traces sont visibles ou diffusées de façon large ou restreinte elle pourront être perçues par tous les agents ou seulement une partie d’entre eux .
 
 Pour résumer une chose à retenir:
 
-1er principe: les actions doivent laisser des **traces perceptibles** par certains agents
+1er principe: les actions doivent laisser des **traces perceptibles** par certains agents.
 
-## Principes 2: Ouverture: Transparence et accessibilité des données a priori
+## Principes 2: large ouverture a priori
 
-Ceci suppose une grande transparence. Si l’information est cachée ou difficilement accessible aucun processus d’auto-organisation spontanée ne pourra se faire.
+Si l’information est cachée ou difficilement accessible aucun processus d’auto-organisation spontanée ne pourra se faire.
 
-Au contraire il est même important de réfléchir à comment rendre visible les traces du travail pour faciliter la participation spontanée.
+Au contraire il est même important de réfléchir aux moyens de rendre visible les traces du travail pour faciliter la participation spontanée. 
+
+Rendre les traces perceptibles dans un système humain nécessite une grande transparence et une grande ouverture. 
 
 Si les termes d’innovation ouverte ou de co-création sont de plus en plus à la mode, bien souvent il s’agit simplement pour les organisations qui  emploient ces termes de partager quelques données choisies et sur lesquelles elles souhaitent obtenir des retours de leurs utilisateurs.
 
 Ceci est une vision très limitée de l’innovation ouverte et de la co-création.
 
-Dans une vrai démarche d’ouverture type open data, l’intérêt est de voir fleurir des initiatives qu’on n’avait pas forcément prévue au départ (c’est même là tout l’intérêt!).
+Dans une vrai démarche de stigmergie l’intérêt est de voir fleurir des initiatives qu’on n’avait pas forcément prévue au départ.
 
 Cela ne veut pas dire qu’il faut tout ouvrir ou tout montrer, mais en tout cas on ne peut plus rester entre soi derrière ses murs et tout vouloir contrôler, au risque de casser l’émergence de toute auto-organisation stigmergique et de perdre tous les bénéfices potentiels.
 
 Mieux vaut donc une approche de large ouverture a priori et ne protéger/cacher que le strict nécessaire.
 
-2ème principe: large ouverture a priori
-Usage de licences libres
+2ème principe: **large ouverture a priori**
+
+## Principe 3: Usage de licences libres
 
 Si dans le passé les brevets servaient à soutenir l’innovation, aujourd’hui ils sont trop souvent utilisés de manière abusive et constituent de plus en plus un frein à l’innovation.
 
 Pour bénéficier d’un effet stigmergie il est indispensable de réduire les barrières au passage à l’acte. Si un contenu est verrouillé et qu’une autorisation préalable est nécessaire, toute innovation spontanée sera impossible.
 
+
+<!--- rappel sur les licence libres 
+
+Le web a su inventer des moyens de favoriser le partage de connaissances. A l'inverse du copyright classique et des brevets, interdisent et limites les usages sans autorisation du créateur, les licences libres sont des contrats juridiques qui viennent compléter le droit d'auteur pour autoriser certains usages. Certaines de licences permettent de partager et/ou de modifier, en citant l'auteur ou pour un usage commercial...
+
+le livre que vous
+
+--->
+
 Cette liberté est importante est ce n’est pas un hasard si plusieurs des logiciels les plus importants du web sont des logiciels libres (à titre d’exemple WordPress fait fonctionner plus de 70 millions de sites web, soit presque 20% du web, tandis que Linux sert à faire fonctionner plus d’un tiers des serveurs web, mais aussi plus de la moitié des smartphones).
-Utiliser, étudier, distribuer, améliorer: les quatre libertés du logiciel libre
+
+<!--- image
 
 Utiliser, étudier, distribuer, améliorer: les quatre libertés du logiciel libre
 
+--->
  
 
 Notez bien que les « vraies » licences libres autorisent toute réutilisation et modification y compris commerciale. En effet, une licence « semi-libre » qui restreint l’usage commercial est aussi un grand frein à la valorisation de contenu et qui peut même tuer la vie d’un réseau. A ce sujet, voir:
