@@ -31,7 +31,11 @@ a partir de la défintion de wikipédia et la description de heather marsh, nous
 
 ## Chapitre 5: Peut on mettre en oeuvre la stigmergie ?
 
+6384 mots = 25 pages
+
 Principes de mise en oeuvre
+
+## Chapitre 6: Wikipédia comme système stigmergique
 
 
 ## Chapitre 6: Applications pratiques
