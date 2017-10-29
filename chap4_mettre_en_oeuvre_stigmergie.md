@@ -195,7 +195,6 @@ Ce qui nous amène a un autre point clé, l’auto attribution des taches, à sa
 
 ### Croissance organique, division en noeuds et branches parallèles
 
-
 Comme le dit Heather Marsh,
 
     La stigmergie encourage la fragmentation en différents noeuds plutôt que le modèle entrepreneurial traditionnel d’acquisition et d’expansion sans fin. Parce que chaque individu n’est responsable que de son propre travail, et que personne ne peut diriger un groupe de contributeurs, l’expansion signifie plus de travail pour l’individu et une perspective d’auto-limitation.
