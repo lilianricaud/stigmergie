@@ -127,17 +127,7 @@ Si cette approche peut amener des gains à court terme, sur le long terme elle e
 
 3ème principe: usage de **licences libres**
 
-## Des mécanisme de contrôle a posteriori
 
-J’ai parlé précédemment d’ouverture a priori, elle même très liée aux principes de transparence, de licences libres (décrites plus haut) et l’autonomie des agents (décrite plus bas). A ceci s’ajoute la nécessité d’un contrôle a posteriori pour les entreprises ou autres organisations qui ont un but précis à atteindre.
-
-Pour un écosystème comme le monde du logiciel libre ou les Shan Zhai (voir les exemples d’organisation stigmergiques), il n’y a pas de but à atteindre pour l’écosystème lui même et le système peut partir dans toutes les directions.
-
-En revanche pour une entreprise ou une communauté comme Wikipédia, il y a besoin d’un contrôle a posteriori pour garantir une certaine qualité dans le résultat ou une échéance particulière.
-
-Contrairement aux modèles de hiérarchie ou de consensus qui sont tout deux des modèles avec contrôle a priori et autorisation a posteriori, la stigmergie est un modèle avec autorisation a priori et contrôle a posteriori.
-
-4ème principe: **mécanismes de contrôle a posteriori**
 
 ## Agents nombreux et divers
 
@@ -168,21 +158,24 @@ Or, une personne souffrant d’un handicap dans un domaine peut par ailleurs êt
 
 Ce qui nous amène a un autre point clé, l’auto allocation des taches, à savoir le fait que les agents choisissent eux mêmes où s’impliquer.
 
-5ème principe: grand nombre et grande diversité des agents
+5ème principe: **agents nombreux et divers**
+
+
+
+## Auto-organisation
+
 « Open allocation » = autonomie des agents et équipes émergentes
 
 Que ce soit le responsable hiérarchique ou le groupe qui décide, dans les modèles classiques on a tendance à définir des taches et à designer des personnes pour les faire rentrer dans ces taches prédéfinies.
 
 Deux problèmes de cette approche:
 
-    il est impossible pour un individu ou un petit groupe de décideurs de prévoir toute les taches nécessaires ou qui seraient importantes
-    pré-définir en amont des taches force ensuite les agents à rentrer dans les cases et à s’adapter à la tache au lieu d’adapter la tache à leur façon de faire
+- il est impossible pour un individu ou un petit groupe de décideurs de prévoir toute les taches nécessaires ou qui seraient importantes
+- pré-définir en amont des taches force ensuite les agents à rentrer dans les cases et à s’adapter à la tache au lieu d’adapter la tache à leur façon de faire
 
 En stigmergie les agents sont libres de choisir où se positionner et sur quelle taches se greffer. Ce libre choix a pour intérêt que chacun va spontanément se positionner là où il connait le mieux le sujet, où il se sent plus adapté, plus en phase avec le projet et où ses compétences seront les plus utiles.
 
-stigmergie schema
-
- 
+<!--- stigmergie schema --->
 
 Dans le forum ouvert, c’est la fameuse « loi des deux pieds », où les personnes sont libres de faire usage de leurs pieds pour se rendre dans un endroit plus productif ou plus intéressant à leurs yeux.
 
@@ -194,7 +187,9 @@ Plusieurs entreprises utilisent déja cette « auto-allocation » (en anglais «
 Voyez aussi les paragraphes sur Valve et Github, deux entreprises qui utilisent ce mode de fonctionnement dans l’article Coopération stigmergique (1/2): des exemples d’organisations.
 
 6ème principe: auto-allocation des taches
-Croissance organique et division en noeuds
+
+### croissance organique, division en noeuds et branches parallèles
+
 
 Comme le dit Heather Marsh,
 
@@ -212,7 +207,19 @@ Quand un groupe grandit, le nombre d’interactions potentielles entre les parti
 
 Quand les individus sont libres de s’organiser, ils ont naturellement tendance à recréer des petits groupes de travail où tout le monde se connait et où l’interaction et la discussion sont faciles.
 
-7ème principe: croissance organique et division en noeuds
+7ème principe: **croissance organique, division en noeuds et branches parallèles**
+
+## Des mécanisme de contrôle a posteriori
+
+J’ai parlé précédemment d’ouverture a priori, elle même très liée aux principes de transparence, de licences libres (décrites plus haut) et l’autonomie des agents (décrite plus bas). A ceci s’ajoute la nécessité d’un contrôle a posteriori pour les entreprises ou autres organisations qui ont un but précis à atteindre.
+
+Pour un écosystème comme le monde du logiciel libre ou les Shan Zhai (voir les exemples d’organisation stigmergiques), il n’y a pas de but à atteindre pour l’écosystème lui même et le système peut partir dans toutes les directions.
+
+En revanche pour une entreprise ou une communauté comme Wikipédia, il y a besoin d’un contrôle a posteriori pour garantir une certaine qualité dans le résultat ou une échéance particulière.
+
+Contrairement aux modèles de hiérarchie ou de consensus qui sont tout deux des modèles avec contrôle a priori et autorisation a posteriori, la stigmergie est un modèle avec autorisation a priori et contrôle a posteriori.
+
+4ème principe: **mécanismes de contrôle a posteriori**
 
 ## Mécanisme de gestion des taches essentielles
 
