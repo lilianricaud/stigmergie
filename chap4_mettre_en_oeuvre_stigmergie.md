@@ -226,7 +226,8 @@ Même s’il ne parlait pas de stigmergie à proprement parler, ses réflexions 
 A ce sujet, lire: La coopération, nouvelles approches – synthèse mindmap: résumé du livre de référence de Jean-Michel cornu sur les nouveaux modèles coopératifs et de travail en réseau.
 
 8ème principe: gérer les taches critiques
-Accepter les projets parallèles (fork/branches)
+
+## Accepter les projets parallèles (fork/branches)
 
 Un fork ou embranchement est la scission d’un projet (un noeud) en 2 (ou plus) entités distinctes qui évoluent en parallèle. Cette notion vient du monde du logiciel libre.
 
@@ -251,7 +252,8 @@ C’est la même chose dans l’écosystème Linux où plusieurs versions co-exi
 Une organisation stigmergique devrait donc prendre en compte et accepter le fait que plusieurs projets a priori « concurrents » puisse avoir le droit de co-exister du moment que des agents choisissent de les porter. Mieux elle devrait essayer de faciliter le développement de telles branches. (des outils et pratiques peuvent faciliter cela, ce qui sera le sujet d’un prochain article).
 
 9ème principe: accepter et faciliter les branches de projets développés en parallèle
-Des règles d’interaction simples
+
+## Des règles d’interaction simples
 
 Dans les sociétés d’insectes sociaux, la complexité et l’auto-organisation émergent de règles simples de comportement en réponse à un signal présent dans l’environnement (par exemple pour les termites « je fais des boules de boue en ajoutant des phéromones et si je trouve une boule de boue similaire, je pose la mienne à coté »).
 
@@ -264,7 +266,8 @@ S’il faut apprendre un tas de règlements compliqués, la barrière au passage
 De plus avec un grand nombre et une grande diversité d’agents, des règles compliquées nécessiterai de prévoir de nombreux cas de figures et rendrait les choses impossibles. C’est ce qui a tendance à se passer dans les organisations vieillissantes qui ont tendance à se scléroser sous le poids de leur propres règles et à devenir de véritables usines à gaz.
 
 10ème principe: des règles d’interaction simples
-Intention commune / Objectifs prépondérants
+
+## Intention commune / Objectifs prépondérants
 
 Dernier principe évoqué, mais peut être l’un des plus important.
 
@@ -281,23 +284,24 @@ Lire:
     http://p2pfoundation.net/Superordinate_Goal
 
 11ème principe: intention commune autour d’un objectif prépondérant
-L’exemple de Wikipedia comme organisation stigmergique
+
+## L’exemple de Wikipedia comme organisation stigmergique
 
 Dans cette partie, je prends l’exemple de Wikipédia pour montrer de façon pratique comment ces principes sont à l’œuvre dans le fonctionnement de Wikipédia.
-Objectif prépondérant
+
+### Objectif prépondérant
 
 La vision de la Wikimédia foundation est un bel exemple d’objectif prépondérant:
 
-    « Imagine a world in which every single human being can freely share in the sum of all knowledge. That’s our commitment. » — Wikimedia Foundation’s Vision. .
+> « Imagine a world in which every single human being can freely share in the sum of all knowledge. That’s our commitment. » — Wikimedia Foundation’s Vision. .
 
-     
-
-    « Imaginez un monde dans lequel chaque être humain peut librement obtenir et partager des connaissances. Ceci est notre engagement. » – Vision de la Wikimedia foundation
+> « Imaginez un monde dans lequel chaque être humain peut librement obtenir et partager des connaissances. Ceci est notre engagement. » – Vision de la Wikimedia foundation
 
     Ceci se fait notamment à travers le projet Wikipédia qui a pour objectif d’offrir un contenu libre, objectif et vérifiable que chacun peut modifier et améliorer, sans nécessité de s’enregistrer. Tous les articles de Wikipédia sont un travail en progression qui peut être modifié et amélioré par tout le monde.
 
 Puissante et inspirante, c’est cette vision partagée qui rassemble tous les bénévoles Wikipédia autour d’un objectif commun.
-Règles simples
+
+### Règles simples
 
 Wikipédia possède quelques règles simples, mais essentielles qui régissent le projet et sa gouvernance:
 
@@ -323,17 +327,16 @@ un lien en rouge signale que la page lié n’existe pas encore. Le fait que le 
 
 En créant ce lien en amont alors que la page n’existe pas encore, le contributeur fait deux choses:
 
-    il lance un appel à créer la page inexistante
-    il facilite la création de cette page puisque les autre participants ont simplement à cliquer sur le lien pour commencer à ajouter du contenu dans cette nouvelle page
+- il lance un appel à créer la page inexistante
+- il facilite la création de cette page puisque les autre participants ont simplement à cliquer sur le lien pour commencer à ajouter du contenu dans cette nouvelle page
 
 Cette modification de l’environnement (créer un lien vers une page qui n’existe pas encore) induit donc l’action suivante (créer la page).
 
 Autre exemple, la page des modifications récentes rend visibles les contributions en cours et induit l’action d’autres contributeurs pour corriger, compléter, annuler.
 la liste des modifications récentes sur Wikipédia, rend visibles contributions en cours et induits l'action d'autres contributeurs pour corriger, compléter, annuler.
 
-la liste des modifications récentes sur Wikipédia,
-
- 
+<!--- la liste des modifications récentes sur Wikipédia,
+---> 
 
 Notez que certaines des ces traces sont générées de façon automatique par l’architecture du système (changements récents), d’autres activement par les contributeurs (bandeau d’infos), d’autres un peu entre les deux (le lien vers une page vide est crée par un utilisateur, mais le système complète automatiquement en créant un lien qui générera la page correspondante).
 
@@ -349,7 +352,8 @@ Ouverture a priori / Transparence:
 
 Sur Wikipédia tout est visible publiquement par défaut: des modifications aux discussions (parfois enflammées) sur le contenu des article, les règles, les budgets, …
 
-wikipedia-discussion
+<!---wikipedia-discussion
+--->
 
 Ceci permet à chacun de s’impliquer, d’apporter suggestions, commentaires, critiques qui enrichissent le projet de l’intelligence collective de la communauté.
 Licence libre:
@@ -365,7 +369,8 @@ Ainsi les corrections se font, si besoin, après modification.
 
 De même certaines pages traitant de sujets controversés (religion, politique) sont parfois temporairement verrouillées, le temps de laisser retomber les tensions, certains participants peuvent être temporairement ou indéfiniment bloqués pour leurs actes, mais à chaque fois le contrôle se fait uniquement a posteriori.
 
-wikipedia-historique
+<!---wikipedia-historique
+--->
 
 Le système d’historique qui enregistre et permet de comparer les différentes versions des pages facilite ce contrôle par la communauté
 Gestion des taches critiques
@@ -377,7 +382,8 @@ Pour assurer la gestion des taches critiques (collecte des fonds qui servent à 
 L’objectif de la Wikimedia Foundation est de « promouvoir la croissance et le développement de projets de diffusion du savoir libre fondés sur le principe du wiki, et d’en distribuer le contenu publiquement et gratuitement ».
 
 Elle ne possède aucun droit éditorial sur les contenus proposés sur le site de Wikipédia mais organise les campagnes de financement et redistribue les dons des utilisateurs pour faire tourner les taches critiques des projets (hébergement des différents projets Wikimedia multilingues, développements informatiques, actions de communication…).
-Auto allocation:
+
+### Autoorganisation:
 
 Sur Wikipédia,chacun est libre de se positionner sur à peu près n’importe quelle tache.
 
@@ -389,7 +395,8 @@ Wikipédia n’existe que grâce au dizaines de milliers de contributeurs qui l�
 Notez que s’il y a une certaine diversité globale (nombreuses langues et cultures), Wikipédia souffre encore d’une disproportion en faveur d’une population de jeunes adultes masculins occidentaux, ce qui explique que les pages sur les jeux vidéos soient très complètes alors que d’autres sujets plus encyclopédiques restent mal traités.
 
 Ceci peut aussi poser parfois problème au niveau de l’intégration des nouveaux ou d’autres groupes culturels qui peuvent se sentir exclus. Accroitre la diversité des contributeurs reste un enjeu pour Wikipédia.
-Accepter les branches parallèles
+
+### Accepter les branches parallèles
 
 Par rapport à ma grille de principes, celui ci ne semble pas être respecté, puisque que chaque article a une version unique et qu’il n’est pas possible de créer une version parallèle d’un article.
 
