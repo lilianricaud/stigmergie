@@ -176,7 +176,8 @@ Comme dans les écosystèmes, la biodiversité est importante: une monoculture e
 
 Petite note: au delà du nombre et de la diversité des talents, il y a une notion d’interactions. Il ne suffit pas d’empiler les talents, il faut aussi qu’il y ait du lien entre les agents (pensez à la différence entre une foule et une communauté, les liens entre les gens ne sont pas du tout les mêmes).
 
-C’est cette diversité interactive qui fera effectivement la force du système (ce point sera développé dans un autre article).
+C’est cette diversité interactive qui fera effectivement la force du système.
+
 
 <!--- network-linkedin
 
@@ -185,7 +186,7 @@ diversité: sur cette représentation graphique de mon réseau LinkedIn on voit 
 ---> 
 
 
-Une question lors d’une rencontre en ligne demandait si la stigmergie pouvait être utilisé dans des contextes de handicap. Ceci est un point très intéressant. Dans les organisations classiques, on fait généralement rentrer les individus dans des rôles prédéfinis et dans notre société en général on distingue les gens qui rentrent dans les normes ou pas.
+Dans les organisations classiques, on fait généralement rentrer les individus dans des rôles prédéfinis et dans notre société en général on distingue les gens qui rentrent dans les normes ou pas.
 
 Or, une personne souffrant d’un handicap dans un domaine peut par ailleurs être extrêmement performante dans d’autres domaines, avoir un point de vue et des idées très différentes. En laissant la personne choisir où s’impliquer on se donne la chance de bénéficier de compétences dont on n’avait même pas idée.
 
