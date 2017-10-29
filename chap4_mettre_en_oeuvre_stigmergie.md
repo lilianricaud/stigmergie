@@ -18,32 +18,42 @@ Enfin les NOEUDS sont les groupes de travail regroupant un nombre plus ou moins 
 
 La mise en œuvre de mécanismes de coopération de type stigmergie au sein d’une organisation humaine est une notion récente que nous essayons encore de comprendre.
 
-Dans une démarche de recherche ouverte, je vais ici explorer le sujet en « pensant à voix haute », c’est à dire partager des réflexions, qui ne sont pas complètement abouties, mais qui permettront peut être à d’autres de rebondir (commentez !)
-
 Voici donc certains principes qui me semblent importants pour rendre possible la stigmergie dans une organisation.
-Laisser des traces/modifier l’environnement pour rendre visible l’action en cours
+
+## Principe1: Des traces de l’action en cours
 
 Dans sa thèse sur la stigmergie comme modèle pour une collaboration a grande échelle, Mark Elliot cite plusieurs exemples dans le monde physique comme les « desire paths », ces chemins initiés autour de la trace laissé par un promeneur dans l’herbe dont l’action est renforcée par les autres promeneurs percevant cette trace.
-"Desire path", le chemin choisi par les promeneurs commence par un trace qui se renforce avec le nombre de passage. Image cc-by-sa-opensourceway
+
+<!--- image desire path 
 
 « Desire path », le chemin choisi par les promeneurs commence par une trace qui se renforce avec le nombre de passages. Image cc-by-sa-opensourceway
 
-La coordination se fait de manière indirecte et le sentier se trace tout seul sans concertation entre les individus. Bien souvent le chemin créé spontanément par les usagers est plus adapté au terrain et plus efficace que celui créé par les « experts » (architectes ou autres concepteurs).
+--->
 
-En ligne, rendre visible le processus de travail, laisser des traces des actions permet à d’autres contributions de s’agréger spontanément.
+
+La coordination se fait de manière indirecte et le sentier se trace tout seul sans concertation entre les individus. Bien souvent le chemin créé spontanément par les usagers est plus adapté au terrain et plus efficace que celui créé par les « experts » (architectes ou autres concepteurs).
 
 L’environnement doit donc pouvoir facilement être modifié et/ou permettre de laisser facilement de traces des actions.
 
 Les traces peuvent être persistantes (perdurent longtemps) ou transitoires (brièvement perceptibles), même si il faut plutôt voir ces deux notions comme faisant parties d’un continuum et qu’il n’y a pas de frontière nette entre les deux.
 
-Les traces persistantes permettent des actions asynchrones, alors que les traces transitoires impliquent obligatoirement des actions synchrones.
+
+
+Les traces persistantes permettent des actions asynchrones (décalées dans le temps), alors que les traces transitoires impliquent obligatoirement des actions synchrones (en même temps).
+
+<!--- la position d'un batiment dans une ville est une trace persistance qui influence les travaux suivants pendant des dizaines à des centaines d'années.
+
+--->
+
+
 
 La visibilité des traces ou leur capacité à être perçues est influencée par la topologie du milieu: selon que les traces sont visibles ou diffusées de façon large ou restreinte elle pourront être perçues par tous les agents ou seulement une partie d’entre eux .
 
 Pour résumer une chose à retenir:
 
 1er principe: les actions doivent laisser des traces perceptibles.
-Ouverture: Transparence et accessibilité des données a priori
+
+## Ouverture: Transparence et accessibilité des données a priori
 
 Ceci suppose une grande transparence. Si l’information est cachée ou difficilement accessible aucun processus d’auto-organisation spontanée ne pourra se faire.
 
