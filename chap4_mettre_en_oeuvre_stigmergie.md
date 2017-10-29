@@ -137,15 +137,18 @@ Il ya deux problèmes de cette approche:
 
 En stigmergie les agents sont libres de choisir où se positionner et sur quelle taches se greffer. Ce libre choix a pour intérêt que chacun va spontanément se positionner là où il connait le mieux le sujet, où il se sent plus adapté, plus en phase avec le projet et où ses compétences seront les plus utiles.
 
+Globalement il y a donc une auto-organisation des agents par rapport aux tâches et les équipes "émergent" du choix individuels des agents.
+
 <!--- stigmergie schema --->
+
+
+<!---
 
 Dans le forum ouvert, c’est la fameuse « loi des deux pieds », où les personnes sont libres de faire usage de leurs pieds pour se rendre dans un endroit plus productif ou plus intéressant à leurs yeux.
 
 Plusieurs entreprises utilisent déja cette « auto-attribution des tâches » (en anglais « open allocation » ) où les équipes « émergent » du choix des individus. 
 
-Globalement il y a donc une auto-organisation
 
-<!---
 Sur la notion d’ « open allocation » / autonomie des agents, je vous encourage à lire ces deux articles:
 
     https://en.wikipedia.org/wiki/Open_allocation
@@ -157,15 +160,15 @@ Voyez aussi les paragraphes sur Valve et Github, deux entreprises qui utilisent 
 
 ## Agents nombreux et divers
 
-Si le nombre d'agents est faible et que chacun à le libre choix de s'impliquer ou non sur une tâche, il est probable que plusieurs tâches ne trouvent pas preneur.
+Si le nombre d'agents est faible et que chacun à le libre choix de s'impliquer ou non sur une tâche, il est probable que plusieurs tâches ne trouveront pas preneur.
 
 Avoir un groupe de grande taille augmente la probabilité d’obtenir une correspondance entre les taches à effectuer et les compétences en présence.
 
 C’est aussi l’idée derrière le concept d’innovation ouverte. Même si une grande organisation possède de nombreux talents en interne, il y a toujours plus de talents à l’extérieur, qu’à l’intérieur de l’organisation.
 
-En fait à notre époque de réseaux, où les clients et usagers ne sont plus simplement consommateurs, mais des contributeurs qui peuvent participer à la conception de produits, de services, à leur promotion et voir même à leur financement, la frontière entre l’intérieur et l’extérieur d’une organisation devient donc de plus en plus poreuse.
+En fait à notre époque de réseaux, où les clients et usagers ne sont plus simplement consommateurs, mais des contributeurs qui peuvent participer à la conception de produits, de services, à leur promotion et voir même à leur financement, la frontière entre l’intérieur et l’extérieur d’une organisation devient donc de plus en plus poreuse (**REF**).
 
-Au delà d’un grand nombre d’agents, le plus important est la diversité de ces agents comme autre moyen d’augmenter la probabilité que les taches puissent trouver les compétences nécessaires pour être traités.
+Avoir un grand nombre d’agents est important mais pas suffisant et la diversité de ces agents d’augmente la probabilité que les taches puissent trouver les compétences nécessaires pour être traités.
 
 Plus le groupe est diversifié, plus il sera riche et plus l’intelligence collective pourra augmenter. C’est ce que l’on observe dans des évènements co-créatifs comme le forum ouvert ou les hackathons.
 
@@ -174,9 +177,13 @@ Comme dans les écosystèmes, la biodiversité est importante: une monoculture e
 Petite note: au delà du nombre et de la diversité des talents, il y a une notion d’interactions. Il ne suffit pas d’empiler les talents, il faut aussi qu’il y ait du lien entre les agents (pensez à la différence entre une foule et une communauté, les liens entre les gens ne sont pas du tout les mêmes).
 
 C’est cette diversité interactive qui fera effectivement la force du système (ce point sera développé dans un autre article).
-network-linkedin
+
+<!--- network-linkedin
 
 diversité: sur cette représentation graphique de mon réseau LinkedIn on voit plusieurs groupes distincts se détacher, correspondant à différents types de réseaux, (recherche en biologie, marketing de la musique, ESS, Angleterre, Inde, …). Un projet au carrefour de plusieurs réseaux très différents à accès à une grande richesse de talents.
+
+---> 
+
 
 Une question lors d’une rencontre en ligne demandait si la stigmergie pouvait être utilisé dans des contextes de handicap. Ceci est un point très intéressant. Dans les organisations classiques, on fait généralement rentrer les individus dans des rôles prédéfinis et dans notre société en général on distingue les gens qui rentrent dans les normes ou pas.
 
