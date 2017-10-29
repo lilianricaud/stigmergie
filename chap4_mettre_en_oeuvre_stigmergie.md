@@ -125,8 +125,30 @@ Si cette approche peut amener des gains à court terme, sur le long terme elle e
 
 --->
 
-3ème principe: usage de **licences libres**
 
+## Auto-organisation
+
+« Open allocation » = autonomie des agents et équipes émergentes
+
+Que ce soit le responsable hiérarchique ou le groupe qui décide, dans les modèles classiques on a tendance à définir des taches et à designer des personnes pour les faire rentrer dans ces taches prédéfinies.
+
+Deux problèmes de cette approche:
+
+- il est impossible pour un individu ou un petit groupe de décideurs de prévoir toute les taches nécessaires ou qui seraient importantes
+- pré-définir en amont des taches force ensuite les agents à rentrer dans les cases et à s’adapter à la tache au lieu d’adapter la tache à leur façon de faire
+
+En stigmergie les agents sont libres de choisir où se positionner et sur quelle taches se greffer. Ce libre choix a pour intérêt que chacun va spontanément se positionner là où il connait le mieux le sujet, où il se sent plus adapté, plus en phase avec le projet et où ses compétences seront les plus utiles.
+
+<!--- stigmergie schema --->
+
+Dans le forum ouvert, c’est la fameuse « loi des deux pieds », où les personnes sont libres de faire usage de leurs pieds pour se rendre dans un endroit plus productif ou plus intéressant à leurs yeux.
+
+Plusieurs entreprises utilisent déja cette « auto-allocation » (en anglais « open allocation » ou allocation ouverte) où les équipes « émergent » du choix des individus. Sur la notion d’ « open allocation » / autonomie des agents, je vous encourage à lire ces deux articles:
+
+    https://en.wikipedia.org/wiki/Open_allocation
+    http://www.forbes.com/sites/quora/2012/11/26/what-is-open-allocation/
+
+Voyez aussi les paragraphes sur Valve et Github, deux entreprises qui utilisent ce mode de fonctionnement dans l’article Coopération stigmergique (1/2): des exemples d’organisations.
 
 
 ## Agents nombreux et divers
@@ -156,39 +178,10 @@ Une question lors d’une rencontre en ligne demandait si la stigmergie pouvait 
 
 Or, une personne souffrant d’un handicap dans un domaine peut par ailleurs être extrêmement performante dans d’autres domaines, avoir un point de vue et des idées très différentes. En laissant la personne choisir où s’impliquer on se donne la chance de bénéficier de compétences dont on n’avait même pas idée.
 
-Ce qui nous amène a un autre point clé, l’auto allocation des taches, à savoir le fait que les agents choisissent eux mêmes où s’impliquer.
-
-5ème principe: **agents nombreux et divers**
+Ce qui nous amène a un autre point clé, l’auto attribution des taches, à savoir le fait que les agents choisissent eux mêmes où s’impliquer.
 
 
-
-## Auto-organisation
-
-« Open allocation » = autonomie des agents et équipes émergentes
-
-Que ce soit le responsable hiérarchique ou le groupe qui décide, dans les modèles classiques on a tendance à définir des taches et à designer des personnes pour les faire rentrer dans ces taches prédéfinies.
-
-Deux problèmes de cette approche:
-
-- il est impossible pour un individu ou un petit groupe de décideurs de prévoir toute les taches nécessaires ou qui seraient importantes
-- pré-définir en amont des taches force ensuite les agents à rentrer dans les cases et à s’adapter à la tache au lieu d’adapter la tache à leur façon de faire
-
-En stigmergie les agents sont libres de choisir où se positionner et sur quelle taches se greffer. Ce libre choix a pour intérêt que chacun va spontanément se positionner là où il connait le mieux le sujet, où il se sent plus adapté, plus en phase avec le projet et où ses compétences seront les plus utiles.
-
-<!--- stigmergie schema --->
-
-Dans le forum ouvert, c’est la fameuse « loi des deux pieds », où les personnes sont libres de faire usage de leurs pieds pour se rendre dans un endroit plus productif ou plus intéressant à leurs yeux.
-
-Plusieurs entreprises utilisent déja cette « auto-allocation » (en anglais « open allocation » ou allocation ouverte) où les équipes « émergent » du choix des individus. Sur la notion d’ « open allocation » / autonomie des agents, je vous encourage à lire ces deux articles:
-
-    https://en.wikipedia.org/wiki/Open_allocation
-    http://www.forbes.com/sites/quora/2012/11/26/what-is-open-allocation/
-
-Voyez aussi les paragraphes sur Valve et Github, deux entreprises qui utilisent ce mode de fonctionnement dans l’article Coopération stigmergique (1/2): des exemples d’organisations.
-
-6ème principe: auto-allocation des taches
-
-### croissance organique, division en noeuds et branches parallèles
+### Croissance organique, division en noeuds et branches parallèles
 
 
 Comme le dit Heather Marsh,
