@@ -7,7 +7,7 @@ Après plusieurs itérations voici les principes tel que je les formule aujourd'
 1. **actions-traces perceptibles**: l'environnement permet aux actions d'être visibles sous forme de traces 
 2. **large ouverture a priori**: tout ce qui n'est pas interdit ou secret est autorisé ou visible
 3. **licences libres**: les productions sont publiées sous un format qui autorise la réutilisation
-4. **auto-attribution des taches/auto-organisation**: les agents sont libres de choisir, où, quand, comment contribuer
+4. **auto-organisation**: auto-attribution des taches: les agents sont libres de choisir, où, quand, comment contribuer
 5. **agents nombreux et divers**: la diversité et le nombre rend le système plus riche et potentiellement plus performant . 
 6. **itérations**: fonctionnement par étapes/itérations/cycles successifs où chaque cycle batit sur le précédent et enrichi les résultats des actions précédentes.
 7. **contrôle a posteriori**: les résultats des actions et leur qualité sont controlés après l'action et non pas avant.

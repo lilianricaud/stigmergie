@@ -407,65 +407,24 @@ Pourtant, on pourrait imaginer une architecture où chaque sujet pourrait avoir 
 Notez cependant qu’il est courant qu’un même article rédigé dans différentes langues montre des différences et des spécificités liées à la culture, au niveau de connaissance… On peut donc aussi voir les différentes Wikipédias multilingues comme des branches parallèles qui peuvent se nourrir mutuellement. C’est une richesse sous exploité à l’heure actuelle. On pourrait imaginer la mise en place de mécanismes pour tirer parti de cette diversité.
 Conclusion
 
-Voici donc en résumé, les onze principes dégagés jusqu’ici.
+Voici donc en résumé, les douze principes dégagés jusqu’ici.
 
-    1er principe: les actions doivent laisser des traces perceptibles.
-    2ème principe: large ouverture a priori
-    3ème principe: usage de licences libres
-    4ème principe: mécanisme de contrôle a posteriori
-    5ème principe: grand nombre et grande diversité des agents
-    6ème principe: auto-allocation des taches
-    7ème principe: croissance organique et division en nœuds
-    8ème principe: gérer les taches critiques
-    9ème principe: accepter les branches de projets développés en parallèle
-    10ème principe: des règles d’interaction simples
-    11ème principe: intention commune autour d’un objectif prépondérant
+1. **actions-traces perceptibles**: l'environnement permet aux actions d'être visibles sous forme de traces 
+2. **large ouverture a priori**: tout ce qui n'est pas interdit ou secret est autorisé ou visible
+3. **licences libres**: les productions sont publiées sous un format qui autorise la réutilisation
+4. **auto-organisation**: auto-attribution des taches: les agents sont libres de choisir, où, quand, comment contribuer
+5. **agents nombreux et divers**: la diversité et le nombre rend le système plus riche et potentiellement plus performant . 
+6. **itérations**: fonctionnement par étapes/itérations/cycles successifs où chaque cycle batit sur le précédent et enrichi les résultats des actions précédentes.
+7. **contrôle a posteriori**: les résultats des actions et leur qualité sont controlés après l'action et non pas avant.
+8. **mécanisme de gestion des taches essentielles**: les taches essentielles, celles dont l'échec menacerait le système si elles échouaient sont prises en charge par un mécanisme spécifique
+9. **règles simples**: comme tout système complexe, la complexité génératrice emerge de l'interaction de règles simples
+10. **objectif prépondérant**: l'objectif prépondérant est le "liant" qui aggrège et relie les agents autour d’une intention commune pour créer un "champ" (au sens anglais field) stigmergique.
+11. **croissance organique et division en nœuds**: les noeuds ne croissent pas de manière illimitée mais au dela d'une certaine taille, ils se divisent et se différentient au fur et a mesure afin de conserver de l'agilité et se spécialiser. Par ailleurs on accepte les branches de projets développés en parallèle sur le même sujet.
+12. **retrospective**: ce point la n'avait pas été identifié précédemment. Mais il équivaut au boucle de feedback, qui dans la nature, stabilisent les systèmes complexes.
 
 Il se peut que cette liste ne soit pas complète ou que certains principes nécessitent d’être précisés ou reformulés. Vos commentaires sont donc les bienvenus.
 
  
-Références/ressources complémentaires:
-
-Des liens cités plus haut, d’autres non cités mais intéressants aussi.
-
-La stigmergie: un nouveau modèle de gouvernance collaborative
-http://www.lilianricaud.com/travail-en-reseau/la-stigmergie-un-nouvelle-modele-de-gouvernance-collaborative/
-
-Réflexion collective sur la stigmergie grâce à la méthode de la connaissance créatrice
-http://www.lilianricaud.com/travail-en-reseau/reflexion-collective-sur-la-stigmergie-grace-a-la-methode-de-la-connaissance-creatrice/
-
-Liens collectés lors de ma veille sur la stigmergie
-https://www.diigo.com/search?adSScope=my&what=stigmergy&snapshot=no
-
-Les passagers clandestins : difficulté ou opportunité ?
-http://ic.fing.org/news/les-passagers-clandestins-difficulte-ou-opportunite
-
-Stigmergic Collaboration: The Evolution of Group Work
-http://journal.media-culture.org.au/0605/03-elliott.php
-
-Stigmergic Collaboration: A Theoretical Framework for Mass Collaboration (Phd, 2007)
-http://mark-elliott.net/blog/?page_id=24
-
-Stigmergy as a Universal Coordination Mechanism: components, varieties and applications (2015, à paraitre)
-
-Note: pour ceux qui veulent en savoir plus sur les mécanismes théoriques, Francis Heylighen montre dans un article de recherche très pointu, comment un système stigmergique s’autorégule via l’activation de boucles de rétroaction positive ou négative au sein du système dans son ensemble, fonctionnement caractéristique des systèmes complexes adaptatifs.
-http://pespmc1.vub.ac.be/papers/stigmergy-varieties.pdf
-
-Article Stigmergy de la P2P foundation
-http://p2pfoundation.net/Stigmergy
-
-Notion d’Organisation émergente sur wikipedia (en anglais)
-https://en.wikipedia.org/wiki/Emergent_organization
-
-A propos du modèle de Github
-http://10innovations.alumniportal.com/startup-innovation/dont-let-your-company-get-in-the-way-of-building-your-product.html
-
-A propos des Forks et de la culture Github
-https://10innovations.alumniportal.com/startup-innovation/forking-a-social-event.html
-
-Article donnant des exemple de modèles d’entreprises auto-organisées notamment Valve et Github:
-http://10innovations.alumniportal.com/startup-innovation.html
-
 
 
 
