@@ -33,7 +33,7 @@ a partir de la défintion de wikipédia et la description de heather marsh, nous
 
 ## Chapitre 5: Peut on mettre en oeuvre la stigmergie ?
 
-6384 mots = 25 pages
+6384 mots = 25 pages -> diviser
 
 Principes de mise en oeuvre
 
@@ -41,6 +41,8 @@ Principes de mise en oeuvre
 
 
 ## Chapitre 6: Applications pratiques
+
+560 mots: 2 pages
 
 asso
 ateliers: méthode SKA
