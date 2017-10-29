@@ -50,6 +50,8 @@ ateliers: méthode SKA
 
 ## Chapitre 7: Exemples d'organisations ?
 
+2949 mots: 12 pages
+
 relus à la lumière de la grille de principe (matrice)
 
 ou bien cités avant la présentation des 12 principes ?
