@@ -25,6 +25,8 @@ présentation du travail des chercheurs sur le sujet et d'exemples de stigmergie
 
 ## Chapitre 4: La stigmergie dans les systèmes humains
 
+1472 mots: 6 pages
+
 Dans un système basé sur l’action, la discussion est rarement nécessaire, car l’opinion de ceux qui ne font pas le travail a probablement peu de valeur, sauf dans le cas ou un conseil est sollicité auprès d’une personne experte et de confiance.
 
 a partir de la défintion de wikipédia et la description de heather marsh, nous regardons des exemples de stigmrgie
