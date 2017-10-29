@@ -191,6 +191,8 @@ traffic routier:
 
 <!---
 la construction d'une ville au niveau global se fait (faisait) en grande partie via un processus stigmergique.
+lien vers steven johnson emergence
+
 --->
 
 
