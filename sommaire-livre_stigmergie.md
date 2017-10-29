@@ -32,6 +32,8 @@ Principes de mise en oeuvre
 
 relus à la lumière de la grille de principe (matrice)
 
+ou bien cités avant la présentation des 12 principes
+
 ## Applications pratiques
 
 asso
