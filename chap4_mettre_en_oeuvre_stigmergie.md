@@ -37,11 +37,13 @@ L’environnement doit donc pouvoir facilement être modifié et/ou permettre de
 
 Les traces peuvent être persistantes (perdurent longtemps) ou transitoires (brièvement perceptibles), même si il faut plutôt voir ces deux notions comme faisant parties d’un continuum et qu’il n’y a pas de frontière nette entre les deux.
 
-
-
 Les traces persistantes permettent des actions asynchrones (décalées dans le temps), alors que les traces transitoires impliquent obligatoirement des actions synchrones (en même temps).
 
 <!--- la position d'un batiment dans une ville est une trace persistance qui influence les travaux suivants pendant des dizaines à des centaines d'années.
+
+sur un terrain de football, sur une route très fréquentée ou dans un vol d'oiseaux, les agents se coordonnent par la position dans l'espace. Cette trace est éphémère et actualisée constamment par les agents pour leur choix de l'action suivante.
+
+Entre les deux, les péhromones déposées par les fourmis, persistent un certain temps avant de s'évaporer.
 
 --->
 
