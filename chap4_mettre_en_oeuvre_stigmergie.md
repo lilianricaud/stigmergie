@@ -20,7 +20,7 @@ La mise en œuvre de mécanismes de coopération de type stigmergie au sein d’
 
 Voici donc certains principes qui me semblent importants pour rendre possible la stigmergie dans une organisation.
 
-## Principe1: Des traces de l’action en cours
+## Principe 1: Des traces perceptibles
 
 Dans sa thèse sur la stigmergie comme modèle pour une collaboration a grande échelle, Mark Elliot cite plusieurs exemples dans le monde physique comme les « desire paths », ces chemins initiés autour de la trace laissé par un promeneur dans l’herbe dont l’action est renforcée par les autres promeneurs percevant cette trace.
 
@@ -53,9 +53,9 @@ La visibilité des traces ou leur capacité à être perçues est influencée pa
 
 Pour résumer une chose à retenir:
 
-1er principe: les actions doivent laisser des traces perceptibles.
+1er principe: les actions doivent laisser des **traces perceptibles** par certains agents
 
-## Ouverture: Transparence et accessibilité des données a priori
+## Principes 2: Ouverture: Transparence et accessibilité des données a priori
 
 Ceci suppose une grande transparence. Si l’information est cachée ou difficilement accessible aucun processus d’auto-organisation spontanée ne pourra se faire.
 
