@@ -1,8 +1,7 @@
 # Peut on mettre en oeuvre la stigmergie ?
 
-# article Principes de mise en oeuvre
 
-## Quelques défintions
+## Quelques définitions
 
 Avant d'aller plus loin, je voudrais préciser quelques termes qui seront utilisés par la suite.
 
@@ -12,7 +11,9 @@ Je parlerai d’AGENTS, à savoir les acteurs qui effectuent un travail ou une a
 
 Par ORGANISATION j’entends n’importe quel groupe humain structuré que ce soit une entreprise, une association, une institution, ces organisations pouvant elles mêmes fonctionner sur un modèle hiérarchique ou de consensus.
 
-Enfin les NOEUDS sont les groupes de travail regroupant un nombre plus ou moins grand d’agents autour d’une tache. Un noeud peut se cliver en différentes branches qui, bien que travaillant sur la même tache, utilisent deux approches différentes en parallèle.
+Enfin les NOEUDS sont les groupes de travail regroupant un nombre plus ou moins grand d’agents autour d’une ACTION. Un noeud peut se cliver en différentes branches qui, bien que travaillant sur la même tache, utilisent deux approches différentes en parallèle.
+
+Une TRACE est une marque laissée par une action.
 
 ## Principes de mise en oeuvre
 
