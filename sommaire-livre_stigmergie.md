@@ -29,7 +29,7 @@ présentation du travail des chercheurs sur le sujet et d'exemples de stigmergie
 
 Dans un système basé sur l’action, la discussion est rarement nécessaire, car l’opinion de ceux qui ne font pas le travail a probablement peu de valeur, sauf dans le cas ou un conseil est sollicité auprès d’une personne experte et de confiance.
 
-a partir de la défintion de wikipédia et la description de heather marsh, nous regardons des exemples de stigmrgie
+a partir de la défintion de wikipédia et la description de heather marsh, nous regardons des exemples de stigmergie
 
 ## Chapitre 5: Peut on mettre en oeuvre la stigmergie ?
 
