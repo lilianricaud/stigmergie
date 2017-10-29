@@ -74,7 +74,7 @@ Mieux vaut donc une approche de large ouverture a priori et ne protéger/cacher 
 
 2ème principe: **large ouverture a priori**
 
-## Principe 3: Usage de licences libres
+## Principe 3: Des licences libres
 
 Si dans le passé les brevets servaient à soutenir l’innovation, aujourd’hui ils sont trop souvent utilisés de manière abusive et constituent de plus en plus un frein à l’innovation.
 
@@ -85,7 +85,9 @@ Pour bénéficier d’un effet stigmergie il est indispensable de réduire les b
 
 Le web a su inventer des moyens de favoriser le partage de connaissances. A l'inverse du copyright classique et des brevets, interdisent et limites les usages sans autorisation du créateur, les licences libres sont des contrats juridiques qui viennent compléter le droit d'auteur pour autoriser certains usages. Certaines de licences permettent de partager et/ou de modifier, en citant l'auteur ou pour un usage commercial...
 
-le livre que vous
+le livre que vous lisez a lui même été écrit sous licence libre ce qui lui a permis de bénéficier de contenus déja rédigés par d'autres et q permet à vous aussi de créer votre propre version.
+
+Attention libre ne signfie pas gratuit en anglais on dit souvent, "free as in free speech, not free beer".
 
 --->
 
@@ -100,9 +102,13 @@ Utiliser, étudier, distribuer, améliorer: les quatre libertés du logiciel lib
 
 Notez bien que les « vraies » licences libres autorisent toute réutilisation et modification y compris commerciale. En effet, une licence « semi-libre » qui restreint l’usage commercial est aussi un grand frein à la valorisation de contenu et qui peut même tuer la vie d’un réseau. A ce sujet, voir:
 
-    Les réseaux qui durent sont sous licence CC BY SA
+<!--- Les réseaux qui durent sont sous licence CC BY SA --->
 
 Enfin pour les innovateurs, que ce soit en des agents en interne (équipes, employés) ou en externe (individus, communautés, autres organisations), l’usage d’une licence libre par les initiateurs du projet représente un engagement moral à ne pas accaparer les résultats du travail au détriment des autres partenaires.
+
+<!---
+
+Note en fin d'ouvrage ?
 
 Notez à ce sujet l’exemple de Tesla. Cette entreprise a fait beaucoup de bruit en annonçant ouvrir ses brevets sur ses voitures électriques. L’idée de cette démarche d’innovation ouverte est d’agrandir l’écosystème autour de ces technologies en bénéficiant de contributions extérieures. Sans en avoir le nom, cette approche est proche d’un mode de travail en stigmergie.
 
@@ -116,8 +122,11 @@ C’est ce qui s’est passé avec Twitter qui avait d’abord ouvert ses donné
 
 Si cette approche peut amener des gains à court terme, sur le long terme elle est vouée à l’échec, car les agents échaudés par ce type d’histoires ne travailleront plus sur de tels projets non libres et dans lesquels il ne pourront pas s’investir en toute confiance.
 
-3ème principe: usage de licences libres
-Mécanisme de contrôle a posteriori
+--->
+
+3ème principe: usage de **licences libres**
+
+## Des mécanisme de contrôle a posteriori
 
 J’ai parlé précédemment d’ouverture a priori, elle même très liée aux principes de transparence, de licences libres (décrites plus haut) et l’autonomie des agents (décrite plus bas). A ceci s’ajoute la nécessité d’un contrôle a posteriori pour les entreprises ou autres organisations qui ont un but précis à atteindre.
 
@@ -127,12 +136,11 @@ En revanche pour une entreprise ou une communauté comme Wikipédia, il y a beso
 
 Contrairement aux modèles de hiérarchie ou de consensus qui sont tout deux des modèles avec contrôle a priori et autorisation a posteriori, la stigmergie est un modèle avec autorisation a priori et contrôle a posteriori.
 
-Plus de détails dans cet article:
+4ème principe: **mécanismes de contrôle a posteriori**
 
-    La coopération ouverte: principes et tentative de définition
+## Agents nombreux et divers
 
-4ème principe: mécanisme de contrôle a posteriori
-Grand nombre et grande diversité d’agents
+Si le nombre d'agents est faible et que chacun à le libre choix de s'impliquer ou non sur une tâche, il est probable que plusieurs tâches ne trouvent pas preneur.
 
 Avoir un groupe de grande taille augmente la probabilité d’obtenir une correspondance entre les taches à effectuer et les compétences en présence.
 
@@ -204,7 +212,8 @@ Quand un groupe grandit, le nombre d’interactions potentielles entre les parti
 Quand les individus sont libres de s’organiser, ils ont naturellement tendance à recréer des petits groupes de travail où tout le monde se connait et où l’interaction et la discussion sont faciles.
 
 7ème principe: croissance organique et division en noeuds
-Gestion des taches critiques
+
+## Mécanisme de gestion des taches essentielles
 
 L’inconvénient de l’auto-allocation est que certaines taches plus pénibles ou rebutantes pourraient rester orphelines. Dans beaucoup de cas c’est un signe que ces taches ne sont pas nécessaires ou ne sont pas le meilleur moyen d’atteindre le but souhaité.
 
