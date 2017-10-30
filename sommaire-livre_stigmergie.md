@@ -47,6 +47,7 @@ Principes de mise en oeuvre
 asso
 ateliers: méthode SKA
 
+mise en application concrètes dans des organisations existantes et au démarrage de nouvelles organisations.
 
 ## Chapitre 7: Exemples d'organisations ?
 
