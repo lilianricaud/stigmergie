@@ -22,5 +22,5 @@ interindividuelles chez Bellicositermes natalensis et Cubitermes sp. La théorie
 
 - gr_concept_stigmergie.md
 - gr_stigmergie_termites.md
-- ALGORITHMES_COLONIES_FOURMIS.MD
+- gr_algorithmes_colonies_fourmis.md
 
