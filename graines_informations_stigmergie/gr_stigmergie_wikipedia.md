@@ -14,4 +14,4 @@ improve and expand the writings of previous contributors
 
 ## Liens
 
-
+- gr_stigmergie_concept.md
