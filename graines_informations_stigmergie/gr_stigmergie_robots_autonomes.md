@@ -14,3 +14,5 @@ Brussel, Kollingbaum, & Bochmann, 2006).
 Heylighen 2015
 
 ## Liens
+
+- gr_stigmergie_concept.md
