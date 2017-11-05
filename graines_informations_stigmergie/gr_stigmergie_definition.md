@@ -32,4 +32,9 @@ Wikipedia definition:
 
 ## sources
 
+Heylighen, 2015
+
+## Liens
+
+- gr_stigmergie_concept.md
 
