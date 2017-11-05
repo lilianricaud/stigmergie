@@ -13,6 +13,7 @@ Il y a plusieurs exemples de stigmergie dans les organisations humaines:
 
 ## Sources
 
+- Heylighen, 2015.
 
 
 
