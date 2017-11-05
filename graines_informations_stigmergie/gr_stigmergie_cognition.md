@@ -11,3 +11,7 @@ mark on theories of cognition and epistemology
 
 (Marsh & Onof, 2008; Ricci, Omicini,
 Viroli, Gardelli, & Oliva, 2006; Susi & Ziemke, 2001).
+
+## Liens
+
+- gr_stigmergie_concept.md
