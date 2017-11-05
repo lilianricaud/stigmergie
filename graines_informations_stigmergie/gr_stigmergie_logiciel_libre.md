@@ -12,3 +12,7 @@ Bolici et al., 2009; Robles, Merelo, & Gonzalez-Barahona,
 Elliot, M.
 
 Heylighen, F. 2015.
+
+## Liens
+
+- gr_stigmergie_concept.md
