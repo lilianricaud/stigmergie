@@ -63,4 +63,8 @@ ou bien cités avant la présentation des 12 principes ?
 
 ### Théorie des systèmes complexes
 
+### A propos de ce livre
+
+Graines d'informations
+
 
