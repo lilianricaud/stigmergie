@@ -1,14 +1,13 @@
 # Stigmergie Tubuline
 
-A similar stigmergic mechanism was recently recognized in molecular biology
-(Tabony, 2006) to explain the self-organization of the microtubules that support many
-functions in the cell. These microscopic tubes change shape and move by absorbing
-tubulin proteins at one end, and releasing them at the other end. The “trail” of tubulin left
-at the shrinking end attracts the growing ends of other microtubules, resulting in the
-formation of a coherent “wave” of microtubules moving in the same direction.
+## L'histoire
+
+En biologie moléculaire, ll a été recemment reconnu que la stigmergie expliquait l'auto-organisation des microtubules qui sont impliquées dans de nombreuses fonctions cellulaires. Ces tubes microscopiques changent de forme et se déplacent en absorbant des proteines de tubuline à une extrémité et les relargant à l'autre extremité. Le "trail" de tubuline restant du coté qui rétrécit attire les extrémités croissantes d'autres microtubules, ce qui résulte dans la formation d'un vague cohérente de microtubules se déplaçant dans la même direction.
 
 ## Source
 
 Ehylighen, F. 2015. Stigmergy as a Universal Coordination Mechanism: components, varieties and applications
+
+Tabony, J. (2006). Microtubules viewed as molecular ant colonies. Biology of the Cell, 98, 603–617.
 
 
