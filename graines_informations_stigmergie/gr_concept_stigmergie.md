@@ -16,5 +16,5 @@ Stigmergy as a universal coordination mechanism I: Definition and components, He
 
 ## Liens
 
-stigmergie_chez_termites.md
+gr_stigmergie_termites.md
 
