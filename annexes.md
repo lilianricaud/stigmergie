@@ -86,6 +86,7 @@ http://mark-elliott.net/blog/?page_id=24
 Stigmergy as a Universal Coordination Mechanism: components, varieties and applications (2015, à paraitre)
 
 Note: pour ceux qui veulent en savoir plus sur les mécanismes théoriques, Francis Heylighen montre dans un article de recherche très pointu, comment un système stigmergique s’autorégule via l’activation de boucles de rétroaction positive ou négative au sein du système dans son ensemble, fonctionnement caractéristique des systèmes complexes adaptatifs.
+
 http://pespmc1.vub.ac.be/papers/stigmergy-varieties.pdf
 
 Article Stigmergy de la P2P foundation
@@ -102,4 +103,7 @@ https://10innovations.alumniportal.com/startup-innovation/forking-a-social-event
 
 Article donnant des exemple de modèles d’entreprises auto-organisées notamment Valve et Github:
 http://10innovations.alumniportal.com/startup-innovation.html
+
+
+La grande majorité des recherches sur la coordination de projets en équipe séparent conceptuellement les mécanismes explicites (plans, feedback) et les mécanismes implicites (cartes mentales, connaissance partagée). Cette distinction comporte des limitations quant il s'agit d'expliquer comment la coordination est atteinte dans des organisations caractérisées par des équipes distribuées, avec des rencontres présentielles limitées et des autorités flous et changeantes comme c'est le cas dans les communautés du logiciel libre (Bolici et al, 2015).
 
