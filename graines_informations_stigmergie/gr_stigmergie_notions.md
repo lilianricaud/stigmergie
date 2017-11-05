@@ -22,3 +22,4 @@
 ## Liens
 
 - gr_stigmergie_concept.md
+- gr_stigmergie_quantitative_qualitative.md
