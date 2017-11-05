@@ -20,3 +20,7 @@ Camazine, S., Deneubourg, J. L., Franks, N. R., Sneyd, J., Theraula, G., & Bonab
 organization in biological systems. Princeton Univ Pr.
 
 Cités par Heylighen, F. 2015
+
+## Liens
+
+
