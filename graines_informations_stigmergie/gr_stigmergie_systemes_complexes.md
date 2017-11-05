@@ -23,4 +23,4 @@ Cités par Heylighen, F. 2015
 
 ## Liens
 
-
+- gr_concept_stigmergie.md
