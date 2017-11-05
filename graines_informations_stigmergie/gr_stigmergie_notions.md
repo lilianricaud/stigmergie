@@ -13,6 +13,9 @@
 3) can be performed on the present medium once the right conditions arise.
 - stigmergie individuelle/stigmergie collective (un vs plusieurs agents)
 - stigmergie quantitative vs stigmergie qualitative
+- Sematectonic vs. marker-based stigmergy
+- Transient vs. persistent traces
+- Broadcast vs. Narrowcast
 
 ## sources
 
