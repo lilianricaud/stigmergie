@@ -16,3 +16,6 @@ surprisingly powerful in tackling a variety of computational problems,
 ## Liens
 
 - gr_stigmergie_concept.md
+- gr_stigmergie_fourmis.md
+- gr_stigmergie_termites.md
+- gr_algorithmes_colonies_fourmis.md
