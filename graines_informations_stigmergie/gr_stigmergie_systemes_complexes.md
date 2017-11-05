@@ -14,4 +14,9 @@ and as such potentially applicable to complex systems other than insect societie
 
 ## Sources 
 
-(Camazine et al., 2003; Deneubourg, 1977), cités par Heylighen, F. 2015
+Deneubourg, J. L. (1977). Application de l’ordre par fluctuations a la description de certaines etapes de la construction du nid chez les termites. Insectes Sociaux, 24(2), 117–130.
+
+Camazine, S., Deneubourg, J. L., Franks, N. R., Sneyd, J., Theraula, G., & Bonabeau, E. (2003). Self-
+organization in biological systems. Princeton Univ Pr.
+
+Cités par Heylighen, F. 2015
