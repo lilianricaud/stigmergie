@@ -11,6 +11,7 @@
 1) is required to achieve the agents' goals;
 2) is not yet performed;
 3) can be performed on the present medium once the right conditions arise.
+- stigmergie individuelle/stigmergie collective
 
 ## sources
 
