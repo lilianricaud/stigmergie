@@ -11,8 +11,10 @@ La notion de Stigmergie a permis à Grassé de résoudre le "paradowe de coordin
 
 ## Sources
 
-Stigmergy as a universal coordination mechanism I: Definition and components, Heylighen, F. 2015.
-
+Heylighen, F. 2015. Stigmergy as a universal coordination mechanism I: Definition and components,Cognitive Systems Research 38 (2016) 4–13.
+ 
+Grassé, P. P. (1959). La reconstruction du nid et les coordinations
+interindividuelles chez Bellicositermes natalensis et Cubitermes sp. La théorie de la stigmergie: Essai d’interprétation du comportement des termites constructeurs. Insectes Sociaux, 6(1), 41–80.
 
 ## Liens
 
