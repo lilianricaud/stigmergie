@@ -1,1 +1,22 @@
 # gr_stigmergie_humaine.md
+
+## Histoire
+
+Il y a plusieurs exemples de stigmergie dans les organisations humaines:
+- chemins 
+- cairns
+- déménagements
+- developpement logiciel libre
+- wikipedia
+- développement de villes
+
+
+## Sources
+
+
+
+
+## Liens
+
+- gr_stigmergie_concept.md
+- gr_stigmergie_wikipedia.md
