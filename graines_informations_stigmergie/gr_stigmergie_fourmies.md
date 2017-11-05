@@ -1,15 +1,17 @@
 # Stigmergie chez les fourmis
 
-Another classic example of stigmergy can be found in
-the pheromone trails left by ants that come back from a
-food source (Sumpter & Beekman, 2003). The pheromone
-stimulates other ants to follow the same path. When they
-find food, they too will reinforce the pheromone trail while
-following the trail back to the nest. This mechanism
-leads to the emergence of an efficient network of trails
+## Histoire
+
+La façon dont les fourmis trouvent de la nourriture est un exemple classique de stigmergie. Lorssqu'elles cherchent de la nourriture, les fourmis laissent une piste de phéromones (molécules odorantes) qui stimulent les autres fourmis à suivre le même chemin. Quand elles trouvent de la nourriture, elles vont renforcer la piste en rentrant au nid, ce cmécanisme conduit à l'émergence d'un réseau très efficace de pistes.
+
+## ChiffreS clés et informations marquantes
+
+L'efficacité de ce mécasnismes a conduit les développeurs a inventer des algorithmes informatiques qui copient ce fonctionnement afin de calculer le chemin le plus court entre plusieurs points (ALGORITHMES_COLONIES_FOURMIS.MD)
 
 
 ## Sources
+
+(Sumpter & Beekman, 2003)
 
 Heylighen, F. 2015. Stigmergy as a universal coordination mechanism I: Definition and components,Cognitive Systems Research 38 (2016) 4–13.
  
@@ -20,3 +22,5 @@ interindividuelles chez Bellicositermes natalensis et Cubitermes sp. La théorie
 
 - gr_concept_stigmergie.md
 - gr_stigmergie_termites.md
+- ALGORITHMES_COLONIES_FOURMIS.MD
+
