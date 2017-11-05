@@ -10,4 +10,7 @@ Ehylighen, F. 2015. Stigmergy as a Universal Coordination Mechanism: components,
 
 Tabony, J. (2006). Microtubules viewed as molecular ant colonies. Biology of the Cell, 98, 603–617.
 
+## Liens
+
+- gr_concept_stigmergie.md
 
