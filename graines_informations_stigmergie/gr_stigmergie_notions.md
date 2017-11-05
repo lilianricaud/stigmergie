@@ -12,6 +12,7 @@
 2) is not yet performed;
 3) can be performed on the present medium once the right conditions arise.
 - stigmergie individuelle/stigmergie collective (un vs plusieurs agents)
+- stigmergie quantitative vs stigmergie qualitative: Quantitative stigmergy (Theraulaz & Bonabeau, 1999) refers to perceived conditions that differ in strength or degree, and where stronger traces typically elicit more forceful (intense, frequent, ...) actions.
 
 ## sources
 
