@@ -10,4 +10,6 @@ optimization of packet routing along communication networks (Kassabalidis et al.
 
 ## Liens
 
-
+- gr_concept_stigmergie.md
+- gr_stigmergie_termites.md
+- gr_stigmergie_fourmis.md
