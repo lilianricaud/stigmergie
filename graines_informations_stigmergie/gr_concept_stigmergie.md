@@ -22,10 +22,12 @@ interindividuelles chez Bellicositermes natalensis et Cubitermes sp. La théorie
 
 ## Liens
 
-gr_stigmergie_definition.md
-gr_stigmergie_termites.md
-gr_stigmergie_fourmis.md
-gr_stigmergie_tubuline.md
-gr_stigmergie_systemes_complexes.md
-gr_intelligence_essaim.md
-gr_stigmergie_humaine.md
+- gr_stigmergie_definition.md
+- gr_stigmergie_termites.md
+- gr_stigmergie_fourmis.md
+- gr_stigmergie_tubuline.md
+- gr_stigmergie_systemes_complexes.md
+- gr_intelligence_essaim.md
+- gr_stigmergie_humaine.md
+
+
