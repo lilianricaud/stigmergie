@@ -2,16 +2,17 @@
 
 ## Histoire
 
-With the advent of the agent-based paradigm in computer simulation, insect
-societies were conceptualized as swarms of simple agents that are able to perform
-complex tasks using various forms of self-organization, and especially stigmergy
-(Deneubourg, Theraulaz, & Beckers, 1992). The general ability to tackle complex
-problems exhibited by such self-organizing multi-agent collectives became known as
-swarm intelligence (Bonabeau, Dorigo, & Theraulaz, 1999; Kennedy, 2006). One class of
-stigmergic mechanisms in particular, so-called ant algorithms, turned out to be
-surprisingly powerful in tackling a variety of computational problems,
+Avec l'avenement du paradigme des simulation informatiques basées sur des agents, les sociétés d'insectes ont été conceptualisés comme des essaims d'agents simples qui sont capables de produire des taches complexes en utilisant des formes variées d'AUTO-ORGANISATION, et particulièrement la Stigmergie.
+
+La capacité générale de résoudre des problèmes complexes montrés par de tels collectives multi-agents auto-organisés est devenue connue sous le intelligence en essaim (swarm intelligence). En particulier, une classe de ces mécanismes stigmergiques appellées algotithmes de fourmis s'est montrée etonnement puissante pour résoudre une variété de problèmes de traitements informatiques.
+
+Le chercheur JF Noubel distingue l'intelligence en essaim de l'intelligence holomidale, mais la stigmergie pourrait créer un pont entre ces deux catégories. 
 
 ## Sources
+- Heylighen, F. 2015
+- Deneubourg, Theraulaz, & Beckers, 1992
+- Bonabeau, Dorigo, & Theraulaz, 1999; 
+- Kennedy, 2006
 
 ## Liens
 
