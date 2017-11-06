@@ -18,8 +18,7 @@ Aujourd'hui la notion de stigmergie est si ubiquitaire qu'il est difficile de tr
 
 Heylighen, F. 2015. Stigmergy as a universal coordination mechanism I: Definition and components,Cognitive Systems Research 38 (2016) 4–13.
  
-Grassé, P. P. (1959). La reconstruction du nid et les coordinations
-interindividuelles chez Bellicositermes natalensis et Cubitermes sp. La théorie de la stigmergie: Essai d’interprétation du comportement des termites constructeurs. Insectes Sociaux, 6(1), 41–80.
+Grassé, P. P. (1959). La reconstruction du nid et les coordinations interindividuelles chez Bellicositermes natalensis et Cubitermes sp. La théorie de la stigmergie: Essai d’interprétation du comportement des termites constructeurs. Insectes Sociaux, 6(1), 41–80.
 
 ## Liens
 
