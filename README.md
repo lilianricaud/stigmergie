@@ -30,6 +30,10 @@ Ce outil héberge :
 
 Parce qu'il est sous licence libre, ce livre peut facilement réutiliser plusieurs autres contenus eux mêmes sous licences libres. De plus le processus ouvert qui a conduit a sa réalisation fait que, plus que tout autre il intègre les contributions de nombreux auteurs et à vocation à continuer à évoluer au fur et à mesure des avancées du sujet.
 
+## Un livre papier
+
+Eventuellement l'objectif final est de produire un livre papier qui sera édité et produit soit via un éditeur classique soit en auto-édition, mais toujours sous licence libre.
+
 
 
 
