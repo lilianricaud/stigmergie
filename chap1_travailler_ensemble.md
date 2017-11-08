@@ -53,7 +53,7 @@ Jean-François Noubel(**REF**) décrit 4 caractéristiques clés de ce qu'il app
 
 Une organisation pyramidale possède une intelligence de dinosaure, un tout petit cerveau dans un corps immense.
 
-![bg original](images/command-and-control.jpeg)
+![ original](images/command-and-control.jpeg)
 
 Ce modèle d'organisation permet de coordonner le travail de plusieurs centaines à plusieurs centaines de milliers d'individus et il est à l'origine de réalisations technologiques importantes.
 
@@ -164,7 +164,7 @@ Par celant j'entends que, par défaut si une chose (connaissance, information, o
 
 Quand on veut lancer quelque chose de nouveau, il faut faire une demande, obtenir une autorisation, … il y a une restriction, un controle a priori, avant même de pouvoir faire quelque chose, d’accéder à une info, l’autorisation se faisant ensuite a posteriori après évaluation et prise de décision (par un individu ou un groupe).
 
-![bg](images/forbidden-symbol.png)
+![](images/forbidden-symbol.png)
 
 ![](images/stigmergie_le_pouvoir_d_agir.jpg)
 
