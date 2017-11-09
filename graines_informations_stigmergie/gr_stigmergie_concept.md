@@ -14,7 +14,7 @@ Depuis 1990, le concept de stigmergie a connu une diffusion rapide à travers un
 
 Le concept de stigmergie a été utilisé pour analyser des activités d'auto-organisation dans un éventail croissant de domaines depuis les insectes sociaux à la société humaine en passant par la robotique et la biologie moléculaire (Heylighen, F. 2015).
 
-Aujourd'hui la notion de stigmergie est si ubiquitaire qu'il est difficile de trouver des cas où elle ne s'applique pas.
+Aujourd'hui la notion de stigmergie est si ubiquitaire qu'il est difficile de trouver des cas où elle ne s'applique pas. Pourtant elle est toujours mal compris et son réel potentiel pas reconnu.
 
 
 ## Sources
