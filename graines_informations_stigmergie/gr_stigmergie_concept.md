@@ -12,7 +12,7 @@ La notion de Stigmergie a permis à Grassé de résoudre le "paradoxe de coordin
 
 Depuis 1990, le concept de stigmergie a connu une diffusion rapide à travers un champ d'application en croissance permanente. Alors que le nombre de publication qui mentionnent le terme "stigmergie" est resté a peu près constant entre 1960 et 1990, avec environ une mention par an, ce nombre est passé de 3 en 1991 à environ 500 en 2006 (mesuré via google scholar). La croissance s'est ralentie atteignant 700 en 2013.
 
-Aujourd'hui la notion de stigmergie est si ubiquitaire qu'il est difficile de trouver des cas ou elle ne s'applique pas.
+Aujourd'hui la notion de stigmergie est si ubiquitaire qu'il est difficile de trouver des cas où elle ne s'applique pas.
 
 ## Sources
 
