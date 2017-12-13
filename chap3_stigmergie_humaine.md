@@ -6,25 +6,19 @@
 
 Nous avons tous vu ces chemins tracés par l’usage et qui apparaissent spontanément à coté des chemins "officiels" conçus par des professionnels. 
 
-La plupart du temps le chemin conçu par l’« expert » est soumis à des contraintes externes à l’utilisateur final (coût, sens esthétique et a prioris de l’architecte ou des commanditaires du projet), il« fonctionne » mais n’est pas optimal car il force les usagers à s’adapter.
+![bg original 100%](images/desire-path-cc-by-sa-opensourceway.jpg)
 
 Le principe est simple, une personne choisit de couper le chemin officiel et prend un raccourci, piétinant légeremment l'herbe. Au fur et à mesure du passage de plusieurs individus, le piétinement de l'herbe devient de plus en plus voyant, ce qui incite d'autres individus à faire de même, ce qui renforce le piétinement, et donc rend le nouveau chemin encore plus visible, incitant d'autres individus à le prendre, etc etc...
 
-On voit la donc un phénomène d'auto-organisation où sans concertation directe entre les personnes, 
+La plupart du temps le chemin conçu par l’"expert" ou le "professionnel" est soumis à des contraintes externes à l’utilisateur final (coût, sens esthétique et a prioris de l’architecte ou des commanditaires du projet), il fonctionne, mais n’est pas optimal car il force les usagers à s’adapter.
 
-Résultant du choix conscient ou inconscient de nombreuses personnes, ils sont plus proche des besoins des utilisateurs finaux que les chemins fabriqués par les "experts".
+Résultant du choix conscient ou inconscient de nombreuses personnes, les chemin tracés par l’usage sont plus proches des besoins des utilisateurs finaux que les chemins fabriqués par les "experts".
 
-<!---
+On voit la donc un phénomène d'auto-organisation où, sans concertation directe entre les personnes, apparait une solution plus efficace que le résultat produit par un expert.
 
-Chemin tracé par l’usage. 
+Les cairns fonctionnent de la même manière. Un randonneur laissent quelques pierres pour marquer un sentier ou une intersection, ce qui incite d'autres randonneurs à faire de même. Après plusieurs passages successifs de randonneurs, le tracé du sentier devient très bien flèché, la encore sans coordination directe entre les randonneurs.
 
-
-
---->
-
-![bg original 100%](images/desire-path-cc-by-sa-opensourceway.jpg)
-
-Les cairns fonctionnent de la même manière
+Dans le premier exemple la trace laissé dans l'environnement c'est le pietinement de l'herbe produit par le passage des marcheurs sans action consciente, dans le deuxième cas il y a en plus une actoin consciente d'empiler des cailloux.
 
 
 ## Coordination stigmergique dans les organisations humaines
