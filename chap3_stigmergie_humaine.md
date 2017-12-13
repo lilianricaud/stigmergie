@@ -1,8 +1,8 @@
-# Stigmergie humaine
+# Quelques exemples de coordination stigmergique chez les humains
 
 *Si la stigmergie est présentes chez les insectes et les animaux, chez les humains aussi ont trouve des exemples de coordination basé sur la stigmergie.*
 
-## Quelques exemples de coordination stigmergique chez les humains
+## Chemin tracés par l'usage
 
 Nous avons tous vu ces chemins tracés par l’usage et qui apparaissent spontanément à coté des chemins "officiels" conçus par des professionnels. 
 
@@ -12,13 +12,39 @@ Le principe est simple, une personne choisit de couper le chemin officiel et pre
 
 La plupart du temps le chemin conçu par l’"expert" ou le "professionnel" est soumis à des contraintes externes à l’utilisateur final (coût, sens esthétique et a prioris de l’architecte ou des commanditaires du projet), il fonctionne, mais n’est pas optimal car il force les usagers à s’adapter.
 
-Résultant du choix conscient ou inconscient de nombreuses personnes, les chemin tracés par l’usage sont plus proches des besoins des utilisateurs finaux que les chemins fabriqués par les "experts".
+Résultant du choix conscient ou inconscient de nombreuses personnes, les chemins tracés par l’usage sont plus proches des besoins des utilisateurs finaux que les chemins fabriqués par les "experts".
 
 On voit la donc un phénomène d'auto-organisation où, sans concertation directe entre les personnes, apparait une solution plus efficace que le résultat produit par un expert.
 
+## Cairns
+
 Les cairns fonctionnent de la même manière. Un randonneur laissent quelques pierres pour marquer un sentier ou une intersection, ce qui incite d'autres randonneurs à faire de même. Après plusieurs passages successifs de randonneurs, le tracé du sentier devient très bien flèché, la encore sans coordination directe entre les randonneurs.
 
-Dans le premier exemple la trace laissé dans l'environnement c'est le pietinement de l'herbe produit par le passage des marcheurs sans action consciente, dans le deuxième cas il y a en plus une actoin consciente d'empiler des cailloux.
+Dans le premier exemple la trace laissé dans l'environnement c'est le piétinement de l'herbe produit par le passage des marcheurs sans action consciente, dans le deuxième cas il y a en plus une actoin consciente d'empiler des cailloux.
+
+## Sports collectifs
+
+Dans les sport collectifs comme le football, la basket, le volley ball ou le handball, les joueurs se coordonnent pour atteindre collectivement un objectif (marquer un but ou mettre un panier malgré les effort de l'équipe adverse). Pour cela ils soivent se coordonner collectivement afin de mettre en oeuvre une attaque ou au contraire de se protéger des attaques des autres. 
+
+Si une partie de la coordination se fait de manière directe par l'échange vocal de personne à personnes. Mais la plupart de la coordination se fait de manière indirecte via la position des joueurs (et du ballon) dans l'espace de jeu. Cette trace 
+
+## Trafic routier
+Le trafic routier donne un autre exemple de coordination stigmergique. Lorsque nous roulons en voiture, nous n'avons ni la possibilité ni le temps de nous coordonner en discutant. Même si on peut voir l'usage de clignotant comme un moyen de communication direct pour informer les autres conducteurs, la plupart de l'organisation du trafic routier se fait de manière indirecte via la position des véhicules dans l'espace, trace éphémère actualisée en permanence.
+
+
+![bg original](images/stigmergie-traffic-routier.jpg)
+
+
+## Organisation d'une ville
+
+![bg original](images/stigmergie-cicatrice-rail-structure-auch.png)
+
+<!---
+la construction d'une ville au niveau global se fait (faisait) en grande partie via un processus stigmergique.
+lien vers steven johnson emergence
+
+--->
+
 
 
 ## Coordination stigmergique dans les organisations humaines
