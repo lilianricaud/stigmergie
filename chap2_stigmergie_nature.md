@@ -126,7 +126,16 @@ Il est donc bien important de comprendre que la stigmergie n'est pas un phénom�
 
 Les chercheurs ont identifiés de nombreux cas de systèmes vivants qui montrent des comportement de type stigmergique dans la nature.
 
-Vous avez déja du voir ces comportements collectifs d'oiseaux en vol ou de bancs de poissons qui ont l'air de réagir et d'ajuster leur déplacements comme un super organisme. Il s'agit la aussi de stigmergie, la coordination se faisant de manière indirecte (ils ne discutent pas entre eux pour faire leur choix), via une trace éphémère (la position des individus dans l'espace)
+Vous avez déja du voir ces comportements collectifs d'oiseaux en vol ou de bancs de poissons qui ont l'air de réagir et d'ajuster leur déplacements comme un super organisme. 
+
+
+![bg original](images/stigmergie-swarm-brid-flock.jpg)
+
+<!---
+essaim d'oiseau: un groupe d'oiseau en vol, l'ensemble se comporte comme un super-organisme
+--->
+
+Il s'agit la aussi de stigmergie, la coordination se faisant de manière indirecte (ils ne discutent pas entre eux pour faire leur choix), via une trace éphémère (la position des individus dans l'espace)
 
 <!---
 - chasse en meute
