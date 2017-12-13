@@ -1,6 +1,6 @@
 # Comment travaillons nous ensemble ?
 
-Comment travaillons nous ensemble et en particulier dans les grands groupes ? Nécessité aujourd'hui résoudre collectivement de nombreux problèmes.
+*Que nous travaillions en coopération ou en collaboration, avec un système pyramidal ou horizontal, nos modes de travail actuels sont en fait très contraignants. S'ils ont eu leur utilité et la conserve encore dans une certaine mesure, il y a nécessité aujourd'hui d'inventer d'autres manières de faire pour résoudre collectivement les nombreux problèmes de notre époque.*
 
 ## La coopération dans les petits groupes
 
