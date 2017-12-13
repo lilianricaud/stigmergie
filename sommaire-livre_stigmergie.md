@@ -19,9 +19,11 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 
 1258 mots: 5 pages
 
-## Chapitre 3: La stigmergie
+## Chapitre 3: La stigmergie chez les humains
 
 présentation du travail des chercheurs sur le sujet et d'exemples de stigmergie dans la nature 
+
+2354 mots
 
 ## Chapitre 4: La stigmergie dans les systèmes humains
 
