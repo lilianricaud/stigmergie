@@ -34,13 +34,14 @@ La coopération permet de coordonner des groupes plus grands, mais devient diffi
 
 Dans les deux cas on est dans des tailles "humaines", moins de 120 personnes, ou chacun est capable de connaitre l'ensemble des personnes. Pour décrire cette échelle, Jean-François Noubel parle d'intelligence collective originelle(**REF**), celle du village ou tout le monde se connait et où la coordination reste relativement simple.
 
+<!---
 HOLOPTISME/PERCEPTION DU TOUT
 CONNAISANCE DE L'AUTRE
-
+--->
 
 ## La coopération dans les grand groupes
 
-Au dela de 120 personnes, nous atteignons une limite cognitive et nous n'arrivons plus connaitre tous nos semblables (*voir dunbar*). Dans l'histoire de nombreuses organisations sont restées limitées à ce nombre (armée, village...).
+Au dela de 120 personnes, nous atteignons une limite cognitive et nous n'arrivons plus connaitre tous nos semblables (**voir dunbar**). Ce n'est pas un hasard si dans l'histoire de nombreuses organisations sont restées limitées à ce nombre (armée, village...).
 
 Pour arriver à surmonter cette contrainte l'humanité à inventer une autre stratégie: le modèle pyramidal.
 
@@ -51,7 +52,7 @@ Jean-François Noubel(**REF**) décrit 4 caractéristiques clés de ce qu'il app
 - QUELQUES PERSONNES A LA TETE
 - MONNAIE RARE
 
-Une organisation pyramidale possède une intelligence de dinosaure, un tout petit cerveau dans un corps immense.
+Une organisation pyramidale possède une intelligence de dinosaure, un tout petit cerveau dans un corps immense et puissant.
 
 ![ original](images/command-and-control.jpeg)
 
@@ -114,7 +115,7 @@ Les contributeurs doivent ensuite être récompensés par le propriétaire, ce q
 
 Les contributeurs n’ont pas d’intérêt particulier à ce que le projet réussisse ou échoue, et n’ont pas la motivation de contribuer plus que ce pour quoi ils sont récompensés.
 
-A aucun moment quelqu'un qui a une idée ne peut spontanément la mettre en oeuvre et doit la faire passer par la hierarchie. Trop souvent le temps d'obtenir l'autorisation d'agir, les contributeurs se sont démotivés.
+Quelqu'un qui a une idée ne peut pas la mettre en oeuvre spontanément et doit quasi-systématiquement la faire passer par la hierarchie. Trop souvent le temps d'obtenir l'autorisation d'agir, les contributeurs se sont démotivés.
 
 ![](images/stigmergie_la_hierarchie_molle.jpg)
 
@@ -131,11 +132,11 @@ La coopération repose généralement sur le principe démocratique que toutes l
 
 Si l’idée est développée de manière coopérative, elle doit d’abord être présentée par son auteur, qui devra essayer de persuader un groupe d’adopter l’idée. Le groupe doit être en accord avec l’idée elle-même, et avec chaque stade de son développement. 
 
-Ce modèle ne permet pas aux leaders, usagers avec une expertise, énergie ou compréhension accrue, d’avoir une influence plus importante que ceux agissant en périphérie.
+Ce modèle ne permet pas aux personnes moteurs, usagers avec une expertise, une énergie ou une compréhension accrue, d’avoir une influence plus importante que ceux agissant en périphérie.
 
 ces méthodes risquent de ne pas produire les meilleurs résultats car beaucoup de gens ne comprendront pas le travail s’ils ne le pratiquent pas, et ils peuvent demander des choses qu’eux mêmes ne voudraient pas faire. 
 
-La majeure partie de l’énergie et des ressources sont dépensées en communication, persuasion et management des susceptibilités, et le climat de travail est tendu par de l’argumentation et des luttes de pouvoir. 
+La majeure partie de l’énergie et des ressources sont dépensées en communication, persuasion et gestion des susceptibilités, et le climat de travail est tendu par de l’argumentation et des luttes de pouvoir. 
 
 La coopération gâche beaucoup de temps et de ressources à discuter et à discuter les discussions. 
 
@@ -151,12 +152,14 @@ Les systèmes basés sur le consensus sont aussi sensibles à « l’esprit de r
 
 La plupart des travailleurs n’apprécient pas un système hiérarchique comme celui montré dans le diagramme ci dessus, car ils perdent de l’autonomie, la maîtrise et le contrôle créatif de leur propre travail; que le système de prise de décision soit hiérarchique ou horizontal (consensus), le sentiment final n’est pas différent.
 
-Par ailleurs, l’histoire n’a pas montré d’idées radicalement innovantes qui aient reçu une acceptation générale immédiate et l’histoire a également fait la preuve que les idées radicalement neuves sont le plus souvent le résultat de vision solitaires. Bien souvent un idée doit pouvoir être testée et améliorer avant de donner quelque chose de valable. Laisser le contrôle du travail au consensus de groupe seulement résulte dans une paralysie de l’innovation.
+Par ailleurs, l’histoire n’a pas montré d’idées radicalement innovantes qui aient reçu une acceptation générale immédiate et l’histoire a également fait la preuve que les idées radicalement neuves sont le plus souvent le résultat de vision solitaires. Bien souvent une idée doit pouvoir être testée et améliorée avant de donner quelque chose de valable. Laisser le contrôle du travail au consensus de groupe seulement résulte dans une paralysie de l’innovation.
 
-Enfin, parce que le projet est conduit par un groupe, et même si c’est un groupe coopératif, le groupe est toujours en compétition avec d’autres projets similaires extérieurs, et gâche toujours des ressources et de l’énergie en secret, évangélisation etc. Les projets, qu’ils soient sur un modèle compétitif ou coopératif, mourront si le groupe qui le fait fonctionner se retire, et dans les deux cas, les personnalités du groupe existant vont attirer ou repousser les contributeurs. Les deux systèmes sont des systèmes hiérarchiques où les individus ont besoin de demander la permission de contribuer. 
+Enfin, parce que le projet est conduit par un groupe, et même si c’est un groupe coopératif, le groupe est toujours en compétition avec d’autres projets similaires extérieurs, et gâche toujours des ressources et de l’énergie pour garder secret ou promouvoir. 
 
 
 # Hiérarchies pyramidales et de consensus sont des modèles de contrôle *a priori* 
+
+Les projets, qu’ils soient sur un modèle compétitif ou coopératif, mourront si le groupe qui le fait fonctionner se retire, et dans les deux cas, les personnalités du groupe existant vont attirer ou repousser les contributeurs. Les deux systèmes sont des systèmes hiérarchiques où les individus ont besoin de demander la permission de contribuer. 
 
 Dans le contexte professionnel actuel, que ce soit les organisations classiques ou les coopératives, que le but soit lucratif ou non, le mode la coopération actuel est plutôt fermé.
 
