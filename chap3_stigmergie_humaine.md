@@ -18,7 +18,7 @@ On voit la donc un phénomène d'auto-organisation où, sans concertation direct
 
 ## Cairns
 
-Les cairns fonctionnent de la même manière. Un randonneur laissent quelques pierres pour marquer un sentier ou une intersection, ce qui incite d'autres randonneurs à faire de même. Après plusieurs passages successifs de randonneurs, le tracé du sentier devient très bien flèché, la encore sans coordination directe entre les randonneurs.
+Les cairns fonctionnent de la même manière. Un randonneur laisse quelques pierres pour marquer un sentier ou une intersection, ce qui incite d'autres randonneurs à faire de même. Après plusieurs passages successifs de randonneurs, le tracé du sentier devient très bien flèché, la encore sans coordination directe entre les randonneurs.
 
 Dans le premier exemple la trace laissé dans l'environnement c'est le piétinement de l'herbe produit par le passage des marcheurs sans action consciente, dans le deuxième cas il y a en plus une actoin consciente d'empiler des cailloux.
 
@@ -26,7 +26,7 @@ Dans le premier exemple la trace laissé dans l'environnement c'est le piétinem
 
 Dans les sport collectifs comme le football, la basket, le volley ball ou le handball, les joueurs se coordonnent pour atteindre collectivement un objectif (marquer un but ou mettre un panier malgré les effort de l'équipe adverse). Pour cela ils soivent se coordonner collectivement afin de mettre en oeuvre une attaque ou au contraire de se protéger des attaques des autres. 
 
-Si une partie de la coordination se fait de manière directe par l'échange vocal de personne à personnes. Mais la plupart de la coordination se fait de manière indirecte via la position des joueurs (et du ballon) dans l'espace de jeu. Cette trace 
+Si une partie de la coordination se fait de manière directe par l'échange vocal de personne à personnes. Mais la plupart de la coordination se fait de manière indirecte via la position des joueurs (et du ballon) dans l'espace de jeu. Cette trace éphémère et actualisée en permanence sert aux joueurs pour se coordonner sans échange direct.
 
 ## Trafic routier
 Le trafic routier donne un autre exemple de coordination stigmergique. Lorsque nous roulons en voiture, nous n'avons ni la possibilité ni le temps de nous coordonner en discutant. Même si on peut voir l'usage de clignotant comme un moyen de communication direct pour informer les autres conducteurs, la plupart de l'organisation du trafic routier se fait de manière indirecte via la position des véhicules dans l'espace, trace éphémère actualisée en permanence.
@@ -37,14 +37,32 @@ Le trafic routier donne un autre exemple de coordination stigmergique. Lorsque n
 
 ## Organisation d'une ville
 
+L'organisation globale d'une ville semble résulter en partie de coordination de type stigmergique. Quand un batiment est construit, il occupe une place qui conditoinne la répartition des batiments batis ensuite. Quand il est détruit, l'emplacement des autres batiment et l'espace libre conditionnent les travaux suivants.
+
+Ainsi si à une certaine echelle le remodelage d'une ville peut etre issu de l'effort concerté d'une personne ou d'un groupe de personne données, à l'échelle globale, on observe aussi un phénomène d'auto-organisation. Dans son livre phare "Emergence", l'auteur Steven Johnson a décrit ce phénomène fascinant par lequel une ville se construit de manière cohérente [ REF steven johnson emergence]
+
+Encore une fois, cette auto-organisation est basée sur une coordination indirecte via des traces laissé dans l'environnement (la position des batiments et des voies de communication). Stigmergie une fois de plus ! 
+
+Si dans les deux exemples précedents, la trace laissée est tres éphémère, dans ce cas de l'organisation d'une ville, la trace (position d'un batiment) peut perdurer extremement longtemps.
+
 ![bg original](images/stigmergie-cicatrice-rail-structure-auch.png)
 
+
+# Les communautés du libre
+
+![bg 80%](images/logiciels-libres-celebres.jpg)
+
 <!---
-la construction d'une ville au niveau global se fait (faisait) en grande partie via un processus stigmergique.
-lien vers steven johnson emergence
+
+Les communautés du libre
+
+Linux, Wikipédia, WordPress, Firefox … longtemps marginaux, les projets rassemblant des volontaires qui travaillent en collaboration à distance sont de plus en plus courants et concurrencent grandes entreprises et institutions pourtant richement dotés en moyens humains et financiers.
+
+C’est le mode de travail des communautés du libre qui a inspiré Mark Ellliot, auteur d’une publication de référence sur la stigmergie comme cadre intellectuel pour la collaboration dans les grand groupes. (Lire: Stigmergic Collaboration: A Theoretical Framework for Mass Collaboration; Phd,2007)
+
+http://mark-elliott.net/blog/?page_id=24%20
 
 --->
-
 
 
 ## Coordination stigmergique dans les organisations humaines
