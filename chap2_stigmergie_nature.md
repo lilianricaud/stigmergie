@@ -56,7 +56,7 @@ Pour mieux comprendre ce mécanisme, il est intéressant de voir comment les fou
 
 ## Les fourmis championnes de l'optimisation de trajets
 
-L'image ci dessous décrit de manière scématique les étapes de la recherche d'une source de nourriture par une colonie de fourmis.
+L'image ci dessous décrit de manière schématique les étapes de la recherche d'une source de nourriture par une colonie de fourmis.
 
 ![Source: https://commons.wikimedia.org/wiki/File:Aco_branches.svg?uselang=fr](images/stigmergie-fourmis-choix-chemin.png)
 
@@ -71,7 +71,7 @@ Comme les termites, les fourmis utilisent l’environnement comme support de com
 <!---L’information échangée a une portée locale, seule une fourmi située à l’endroit où les phéromones ont été déposées y a accès. Un aspect clé est donc que les traces doivent être perceptibles
 --->
 
-Collectivement, les fourmis ont tellement bien résolé l'optimisation de parcours que chercheurs et informaticiens ont copié le mécanisme pour optimiser les temps de parcours entre plusieurs points, allant même jusqu'à créer de fourmis virtuelles et simuler leur comportement pour trouver la meilleure solution.
+Collectivement, les fourmis ont tellement bien résolu l'optimisation de parcours que chercheurs et informaticiens ont copié leur fonctionnement pour optimiser les temps de parcours entre plusieurs points, allant même jusqu'à créer de fourmis virtuelles et simuler leur comportement pour trouver la meilleure solution.
 
 (**REF**:Algorithme de colonies de fourmis https://fr.wikipedia.org/wiki/Algorithme_de_colonies_de_fourmis)
 
@@ -126,12 +126,16 @@ Il est donc bien important de comprendre que la stigmergie n'est pas un phénom�
 
 Les chercheurs ont identifiés de nombreux cas de systèmes vivants qui montrent des comportement de type stigmergique dans la nature.
 
-- oiseaux
-- bancs de poissons
+Vous avez déja du voir ces comportements collectifs d'oiseaux en vol ou de bancs de poissons qui ont l'air de réagir et d'ajuster leur déplacements comme un super organisme. Il s'agit la aussi de stigmergie, la coordination se faisant de manière indirecte (ils ne discutent pas entre eux pour faire leur choix), via une trace éphémère (la position des individus dans l'espace)
+
+<!---
 - chasse en meute
+--->
+
+Le chercheurs ont même trouvé des exemples de stigmergie dans nos cellules, certains assemblage moléculaire se faisant aussi par un mécanisme stigmergique.
 
 **REF** Francis Heyl
 
-Y a t-il des exemples de stigmergie dans nos organisations ? Pourrait on appliquer ce modèle pour nous coordonner ? 
+Existe t-il des exemples de stigmergie dans nos organisations ? Pourrait on appliquer ce modèle pour nous coordonner ? 
 
 
