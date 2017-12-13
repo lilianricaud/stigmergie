@@ -10,30 +10,29 @@ Un des exemples les plus connus est celui des insectes sociaux commes les fourmi
 
 Comment s'organisent elles pour fonctionner ensemble et se coordonner ?
 
-Y aurait-il comme chez nous un chef des termites ? Une sorte de roi ou de reine omnisciente qui à tout moment connaitrait l'état de la termitière, les lieux qui nécessitent des réparations, un aggradissement, ou bien encore ou trouver de la nourriture et qui dans son omniscience delaguerait à chaque individu une tache à effectuer ?
+Y aurait-il comme chez nous un chef des termites ? Une sorte de roi ou de reine omnisciente qui à tout moment connaitrait l'état de la termitière, les lieux qui nécessitent des réparations, un aggradissement, ou bien encore ou trouver de la nourriture et qui dans son omniscience déléguerait à chaque individu une tache à effectuer ?
 
 !["je vous ai compris"](images/stigmergie_roi_termites.jpg)
 
-Si les chercheurs ont identifié des "reines" celle ci ont été nommées ainsi en rapport avec leur taille et leur position au coeur de la cité. En fait ce nom est bien trompeur puisque celle ci ont pour principal pouvoir de concevoir des larves pour peupler la société. Enfermées profondemment elles n'ont qu'une connaissance limité de ce qui passe dans la cité et à l'extérieur et non pas de pouvoir sur la majorité des individus (**REF** trouver doc et verifier).
+Si les chercheurs ont identifié des "reines" celle ci ont été nommées ainsi en rapport avec leur taille et leur position au coeur de la "cité". En fait ce nom est bien trompeur puisque celle ci ont pour principal pouvoir de concevoir des larves pour peupler la société. Enfermées profondemment elles ne peuvent avoir qu'une connaissance limité de ce qui passe dans la cité et à l'extérieur et n'ont pas de pouvoir sur la majorité des individus (**REF** trouver doc et verifier).
 
-Chez nous l'alternative au modèle hierarchique on l'a vu c'est la coopération. Y'aurait-il une sorte de conseil des termites, qui déciderait collectivement des actions à mener ? 
+Chez nous l'alternative au modèle hierarchique on l'a vu c'est la coopération. Pourrait-il exister une sorte de conseil des termites, qui déciderait collectivement des actions à mener ? 
 
 ![](images/stigmergie_conseil_termites.jpg)
 
-Nous l'avons vu chez l'espèce humaine pourtant doté d'un langage et d'une intelligence complexe, ceci est extremement difficile. Comment pourrait elle arriver à se coordonner à si grande échelle ?
+Nous l'avons vu chez l'espèce humaine pourtant doté d'un langage et d'une intelligence complexe, ceci est extremement difficile. Comment les termites pourraient elles arriver à se coordonner à si grande échelle ?
 
 Sans surprises les chercheurs n'ont trouvé aucun fonctionnement de ce style.
 
-Ce qu'ils ont trouvé en revanche est surprenant et extremement interessant.
+Ce qu'ils ont trouvé en revanche est surprenant et extrèmement intéressant.
 
-
-Quand les termites construisent leur nid, elle utisent principalement une commnication indirecte.
+Quand les termites construisent leur nid, elle utilisent principalement une commnication indirecte.
 
 Chaque termite ramasse un peu de boue autour de lui, y incorporant des phéromones, et la dépose par terre. Comme les termites sont attirés par l’odeur, ils déposent plus souvent leur paquet là où d’autres l’ont déjà déposé, ce qui forme des piliers, des arches, des tunnels et des chambres, qui eux-mêmes encouragent d'autres termites à batir.
 
 Le résultat est un processus auto-organisé où l'information qui dirige l'activité des termites résulte de changement de l'environnement plutot que de contacts directs entre les individus.
 
-Ainsi, aucune termite seule n'est en charge d'un projet de construction particulier. Les individus réagissent plutot qu'ils ne pensent, mais au niveau du groupe, ils font preuve d'une sorte de cognition (capacité à pense) collective.
+Ainsi, aucune termite seule n'est en charge d'un projet de construction particulier. Les individus réagissent plutot qu'ils ne pensent, mais au niveau du groupe, ils font preuve d'une sorte de cognition (capacité à penser) collective.
 
 
 (**REF**Source:https://en.wikipedia.org/wiki/Termite#Communication)
@@ -41,7 +40,9 @@ Ainsi, aucune termite seule n'est en charge d'un projet de construction particul
 ## La stigmergie, mécanisme de coordination indirecte
 
 
-ce processus a été nomme Stigmergie par le biologiste français Pierre-Paul Grassé en 1959, en référence à ce comportement des termites. Il le définit comme : « Stimulation des travailleurs par l'œuvre qu'ils réalisent. » Le terme provient des mots grecs στιγμα (stigma) « marque, signe » et εργον (ergon) « travail, action », exprimant la notion que les actions d'un agent laissent des signes dans l'environnement, signes perçus par lui-même et les autres agents et qui déterminent leurs prochaines actions1.
+Ce processus a été nomme "Stigmergie" par le biologiste français Pierre-Paul Grassé en 1959, en référence à ce comportement des termites. 
+
+Il le définit comme : « Stimulation des travailleurs par l'œuvre qu'ils réalisent. » Le terme provient des mots grecs στιγμα (stigma) « marque, signe » et εργον (ergon) « travail, action », exprimant la notion que les actions d'un agent laissent des signes dans l'environnement, signes perçus par lui-même et les autres agents et qui déterminent leurs prochaines actions.
 
 
 Selon Wikipedia : 
