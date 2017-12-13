@@ -159,11 +159,11 @@ Enfin, parce que le projet est conduit par un groupe, et même si c’est un gro
 
 # Hiérarchies pyramidales et de consensus sont des modèles de contrôle *a priori* 
 
-Les projets, qu’ils soient sur un modèle compétitif ou coopératif, mourront si le groupe qui le fait fonctionner se retire, et dans les deux cas, les personnalités du groupe existant vont attirer ou repousser les contributeurs. Les deux systèmes sont des systèmes hiérarchiques où les individus ont besoin de demander la permission de contribuer. 
-
 Dans le contexte professionnel actuel, que ce soit les organisations classiques ou les coopératives, que le but soit lucratif ou non, le mode la coopération actuel est plutôt fermé.
 
 Par celant j'entends que, par défaut si une chose (connaissance, information, outils) n’ a pas explicitement besoin d’être partagée, elle est verrouillée, cachée, protégée, inaccessible, interdite ou soumise à autorisation…
+
+Les deux systèmes sont des systèmes hiérarchiques où les individus ont besoin de demander la permission de contribuer. 
 
 Quand on veut lancer quelque chose de nouveau, il faut faire une demande, obtenir une autorisation, … il y a une restriction, un controle a priori, avant même de pouvoir faire quelque chose, d’accéder à une info, l’autorisation se faisant ensuite a posteriori après évaluation et prise de décision (par un individu ou un groupe).
 
@@ -195,7 +195,12 @@ En réduisant les freins à la participation l’ouverture a priori libère la c
 
 --->
 
-Malgré leur opposition apparente, les deux modèles sont focalisés sur l’autorité de personnalités qui approuvent une décision au lieu de se focaliser sur l’idée et l’action elle-même.
+Les projets, qu’ils soient sur un modèle compétitif ou coopératif, mourront si le groupe qui le fait fonctionner se retire, et dans les deux cas, les personnalités du groupe existant vont attirer ou repousser les contributeurs. 
+
+Malgré leur opposition apparente, les deux modèles sont focalisés sur l’autorité de personnalités qui approuvent une décision au lieu de se focaliser sur l’idée et l’action elle-même. 
+
+
+
 
 ![](images/roulement_de_tambour.jpg)
 Y a t-il une autre option ? Et bien il semble que les insectes sociaux ont réussis à résoudre ce problème, c'est ce que nous verrons dans le prochain chapitre.
