@@ -24,6 +24,15 @@ Notez que Wikipedia a une section sur le « Valve time », le fait que les produ
     http://www.lilianricaud.com/web-strategy/meet-valve-the-company-managing-without-managers/
     http://www.gamasutra.com/view/feature/131815/the_cabal_valves_design_process_.php?print=1
 
+## Blogosphère
+
+Weblogs: Why does communicating through a weblog work? Stigmergy. Using a weblog is communcicating through stigmergy. Just like an ant, as I blog I leave a trail of information and links to other information I find interesting.
+
+## Google Page rank
+
+Google: Why is Google's PageRank algorithm so good? It is just following the Ant Trails. If links represent a dropping of pheromone then Google is just following the trails laid down to the tastiest morsels." (http://bitworking.org/news/Stigmergy) 
+
+
  
 ## Le management autogéré de Github
 
