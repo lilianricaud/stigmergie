@@ -14,17 +14,20 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 ## Chapitre 1: Comment travaillons nous ensemble ?
 
 1776 mots 7 pages
+14699
+
 
 ## Chapitre 2: Comment se coordonnent les insectes sociaux ?
 
 1258 mots: 5 pages
+10172
 
 ## Chapitre 3: La stigmergie chez les humains
 
 présentation du travail des chercheurs sur le sujet et d'exemples de stigmergie dans la nature 
 
 2354 mots
-
+14572
 ## Chapitre 4: La stigmergie dans les systèmes humains
 
 1472 mots: 6 pages
