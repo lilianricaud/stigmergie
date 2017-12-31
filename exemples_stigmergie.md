@@ -4,6 +4,8 @@
 Cette première partie donne des exemples d’organisations utilisant un modèle stigmergique. Dans la deuxième partie je reviendrai sur les principes et les conditions de mise en œuvre de la stigmergie pour une organisation.
 Exemples d’organisation stigmergiques:
 
+## Communautés du logiciels libres
+
 Linux, Wikipédia, WordPress, Firefox … longtemps marginaux, les projets rassemblant des volontaires qui travaillent en collaboration à distance sont de plus en plus courants et concurrencent grandes entreprises et institutions pourtant richement dotés en moyens humains et financiers.
 
 C’est le mode de travail des communautés du libre qui a inspiré Mark Ellliot, auteur d’une publication de référence sur la stigmergie comme cadre intellectuel pour la collaboration dans les grand groupes. (Lire: Stigmergic Collaboration: A Theoretical Framework for Mass Collaboration; Phd, 2007)
@@ -13,7 +15,8 @@ Dans les communautés du libre, le travail se fait de manière très ouverte et 
 Si le modèle du libre était vu comme utopique il y a encore quelque années, aujourd’hui même les grosses entreprises le prenne très au sérieux.
 
 Ce n’est pas un hasard si Microsoft, qui a été battue à plate couture par Linux dans le domaine des serveurs et des supercalculateurs malgré ses énormes moyens humains et financiers, vient tout juste d’annoncer qu’elle va mettre en open source les plans de ses serveurs (une mini-révolution en soi!) afin de permettre un travail stigmergique et bénéficier de l’effet réseau de cette innovation ouverte.
-Valve, entreprise sans manager
+
+## Valve, entreprise sans manager
 
 Valve est une entreprise  qui produits des jeux vidéos à succès. Entreprise sans chefs,  elle clame avoir une meilleure rentabilité par employé que Google, Amazon ou Facebook.
 
@@ -59,14 +62,14 @@ Aujourd’hui les Shan Zhai, c’est un écosystème d’innovation unique et ex
 
 Les Shan Zhai ont plusieurs principes dont deux importants pour la stigmergie:
 
-    Partager le plus d’informations pour que l’écosystème puisse ajouter de la valeur à votre processus.
-    Ne rien concevoir ex nihilo : s’appuyer sur ce que les autres ont déjà fait.
+- Partager le plus d’informations pour que l’écosystème puisse ajouter de la valeur à votre processus.
+- Ne rien concevoir ex nihilo : s’appuyer sur ce que les autres ont déjà fait.
 
 Voir à ce sujet:
 
     http://www.internetactu.net/2012/07/04/un-ecosyteme-d%E2%80%99innovation-singulier-les-shan-zhai/
 
-Les MOOCs, cours massif ouverts en ligne:
+## Les MOOCs, cours massif ouverts en ligne:
 
 Les MOOCs, sont un nouveau modèles de ces cours ouverts en ligne où l’apprentissage se fait de manière auto-organisé, favorisant l’auto-apprentissage et la sérendipité.
 
@@ -103,7 +106,8 @@ De même des innovations sociales, les RT (retweets = faire suivre), les #hashta
 Twitter a eu l’intelligence (au moins a ses débuts, c’est moins vrai maintenant) d’utiliser cette innovation spontanée en l’incorporant dans la plateforme principale.
 
 Concise, publique, asymétrique, la conversation elle même sur Twitter se prête à une coopération stigmergique.
-La plateforme de crowdmapping Ushahidi
+
+## La plateforme de crowdmapping Ushahidi
 
 Plus récemment dans un article scientifique publié en 2013, la chercheuse Janet Marsden a étudié le développement de la plateforme logicielle de crowdmapping Ushahidi en la regardant sous un angle stigmergique.
 
@@ -111,9 +115,9 @@ Ushahidi est une plateforme open source qui permet de collecter, d’agréger et
 
 Le développement d’Ushahidi est remarquable pour plusieurs raisons:
 
-    La version originale d’Ushahidi a été développée et mise en place en une semaine.
-    Le système a été largement développée par des kenyans, au Kenya, un pays africain avec des ressources techniques et une infrastructure limitées.
-    Quelques jours après son lancement, Ushahidi était utilisé par des milliers d’utilisateurs.
+- La version originale d’Ushahidi a été développée et mise en place en une semaine.
+- Le système a été largement développée par des kenyans, au Kenya, un pays africain avec des ressources techniques et une infrastructure limitées.
+- Quelques jours après son lancement, Ushahidi était utilisé par des milliers d’utilisateurs.
 
 L’auteur explique que l’avancée des réseaux de communication distribués comme l’internet et les réseaux ubiquitaires ont rendus obsolète l’approche top-down de développement de logiciels.
 
