@@ -51,7 +51,20 @@ Principes de mise en oeuvre
 ## Chapitre 6: Wikipédia comme système stigmergique
 
 
-## Chapitre 6: Applications pratiques
+
+
+## Chapitre 7: Exemples d'organisations ?
+
+avant proposition de principes et après proposition d'heather marsh?
+
+2949 mots: 12 pages
+21189
+
+relus à la lumière de la grille de principe (matrice)
+
+ou bien cités avant la présentation des 12 principes ?
+
+## Chapitre 8: Applications pratiques
 
 560 mots: 2 pages
 3786
@@ -62,14 +75,13 @@ ateliers: méthode SKA
 
 mise en application concrètes dans des organisations existantes et au démarrage de nouvelles organisations.
 
-## Chapitre 7: Exemples d'organisations ?
+## un livre sur la stigmergie rédigé avec de la stigmergie
 
-2949 mots: 12 pages
-21189
+- traduction stigmergique contenu heather marsh
+- usage de licence libre et récupération de contenus (cornu, collectifs citoyens, heather marsh, wikipedia)
+- graines d'informations
+- github + publication continue du travail
 
-relus à la lumière de la grille de principe (matrice)
-
-ou bien cités avant la présentation des 12 principes ?
 
 ## conclusion
 
