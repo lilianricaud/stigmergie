@@ -1,4 +1,4 @@
-# Comment travaillons nous ensemble ?
+# Nos modes de travail actuels sont basés sur les personnes
 
 *Que nous travaillions en coopération ou en collaboration, avec un système pyramidal ou horizontal, nos modes de travail actuels sont des systèmes basés sur les personnes et sont en fait très contraignants.*
 
@@ -47,7 +47,7 @@ CONNAISANCE DE L'AUTRE
 
 Au dela de 120 personnes, nous atteignons une limite cognitive et nous n'arrivons plus connaitre tous nos semblables (**voir dunbar**). Ce n'est pas un hasard si dans l'histoire de nombreuses organisations sont restées limitées à ce nombre (armée, village...).
 
-Pour arriver à surmonter cette contrainte l'humanité à inventer une autre stratégie: le modèle pyramidal.
+*Pour arriver à surmonter la contrainte de la taille des groupes, l'humanité à inventer une autre stratégie: le modèle pyramidal.*
 
 Jean-François Noubel(**REF**) décrit 4 caractéristiques clés de ce qu'il appelle l'intelligence collective pyramidale:
  
@@ -67,7 +67,7 @@ S'il marche très bien pour coordonner de très larges groupes, en revanche il a
 *Dans un modèle pyramidal ce n'est plus vraiment un jeu et les individus ont tendance à être traités comme des rouages d'une machine.*
 
 
-## Inconvénients des modes d'organisation actuels / systèmes basés sur les personnes
+## Inconvénients des systèmes basés sur les personnes
 
 Dans un article brillant (**REF**), Heather Marsh à décrit les inconvénients des modes d'organisations actuels qu'elle décrit comme des systèmes basés sur les personnes (par opposition à des systèmes basé sur l'action que nous verrons plus tard).
 
@@ -77,11 +77,11 @@ A l’heure actuelle, la réponse habituelle à une situation qui nécessite une
 
 ![](images/stigmergie_les_problemes.jpg)
 
-Trop souvent l’action n’apparait jamais car il y a à la place une focalisation sur l’organisation et les personnes impliquées.
+*Trop souvent l’action n’apparait jamais car il y a à la place une focalisation sur l’organisation et les personnes impliquées, au détriment de l'action elle même.*
 
 ![](images/stigmergie_blabla.jpg)
 
-induit une focalisation sur l'organisation et les personnes impliquées, les titres, **l'organigramme** au détriment de l'action.
+induit une focalisation sur l'organisation et les personnes impliquées, les titres, **l'organigramme** 
 
 **@melanie: faire dessin organigramme et territoire**
 
@@ -168,7 +168,7 @@ Dans le contexte professionnel actuel, que ce soit les organisations classiques 
 
 Par celant j'entends que, par défaut si une chose (connaissance, information, outils) n’ a pas explicitement besoin d’être partagée, elle est verrouillée, cachée, protégée, inaccessible, interdite ou soumise à autorisation…
 
-*Les deux systèmes sont des systèmes hiérarchiques où les individus ont besoin de demander la permission de contribuer.* 
+*Les deux systèmes sont des systèmes hiérarchiques où les individus ont besoin de demander la permission de contribuer avant de pouvoir le faire.* 
 
 Quand on veut lancer quelque chose de nouveau, il faut faire une demande, obtenir une autorisation, … il y a une restriction, un controle a priori, avant même de pouvoir faire quelque chose, d’accéder à une info, l’autorisation se faisant ensuite a posteriori après évaluation et prise de décision (par un individu ou un groupe).
 
