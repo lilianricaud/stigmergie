@@ -121,7 +121,7 @@ ANNEXES
 2354 mots
 14572
 
-## 4. La stigmergie est un système basé sur l'action
+## 4. La stigmergie est un système puissant basé sur l'action
 
 *Contrairement aux systèmes basés sur les personnes la stigmergie est un système basé sur l'action.*
 
