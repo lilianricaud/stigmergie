@@ -14,7 +14,7 @@ La plupart du temps le chemin conçu par l’"expert" ou le "professionnel" est 
 
 Résultant du choix conscient ou inconscient de nombreuses personnes, les chemins tracés par l’usage sont plus proches des besoins des utilisateurs finaux que les chemins fabriqués par les "experts".
 
-On voit la donc un phénomène d'auto-organisation où, sans concertation directe entre les personnes, apparaît une solution plus efficace que le résultat produit par un expert.
+*Il s'agit d'un phénomène d'auto-organisation où, sans concertation directe entre les personnes, apparaît une solution plus efficace que le résultat produit par un expert.*
 
 ## Cairns
 
