@@ -10,7 +10,7 @@ Un des exemples les plus connus est celui des insectes sociaux commes les fourmi
 
 Comment s'organisent elles pour fonctionner ensemble et se coordonner ?
 
-Y aurait-il comme chez nous un chef des termites ? Une sorte de roi ou de reine omnisciente qui à tout moment connaitrait l'état de la termitière, les lieux qui nécessitent des réparations, un aggradissement, ou bien encore ou trouver de la nourriture et qui dans son omniscience déléguerait à chaque individu une tache à effectuer ?
+Y aurait-il comme chez nous un chef des termites ? Une sorte de roi ou de reine omnisciente qui à tout moment connaitrait l'état de la termitière, les lieux qui nécessitent des réparations, un aggradissement, ou bien encore ou trouver de la nourriture et qui, dans son omniscience, déléguerait à chaque individu une tache à effectuer ?
 
 !["je vous ai compris"](images/stigmergie_roi_termites.jpg)
 
@@ -26,7 +26,7 @@ Sans surprises les chercheurs n'ont trouvé aucun fonctionnement de ce style.
 
 Ce qu'ils ont trouvé en revanche est surprenant et extrèmement intéressant.
 
-Quand les termites construisent leur nid, elle utilisent principalement une commnication indirecte.
+*Quand les termites construisent leur nid, elle utilisent principalement une commnication indirecte.*
 
 Chaque termite ramasse un peu de boue autour de lui, y incorporant des phéromones, et la dépose par terre. Comme les termites sont attirés par l’odeur, ils déposent plus souvent leur paquet là où d’autres l’ont déjà déposé, ce qui forme des piliers, des arches, des tunnels et des chambres, qui eux-mêmes encouragent d'autres termites à batir.
 
@@ -44,10 +44,7 @@ Ce processus a été nomme "Stigmergie" par le biologiste français Pierre-Paul 
 
 Il le définit comme : « Stimulation des travailleurs par l'œuvre qu'ils réalisent. » Le terme provient des mots grecs στιγμα (stigma) « marque, signe » et εργον (ergon) « travail, action », exprimant la notion que les actions d'un agent laissent des signes dans l'environnement, signes perçus par lui-même et les autres agents et qui déterminent leurs prochaines actions.
 
-
-Selon Wikipedia : 
-
-> "La stigmergie est une méthode de **communication indirecte** dans un environnement **émergent auto-organisé**, où les individus communiquent entre eux **en modifiant leur environnement**."
+*"La stigmergie est une méthode de **communication indirecte** dans un environnement **émergent auto-organisé**, où les individus communiquent entre eux **en modifiant leur environnement**." (Wikipedia)*
 
 Pour mieux comprendre ce mécanisme, il est intéressant de voir comment les fourmis se coordonnent pour trouver leur nourriture.
 
@@ -64,9 +61,9 @@ Dans l'étape 1) la première fourmi trouve la source de nourriture (F), via un 
 
 Dans l'étape 2) les fourmis empruntent indifféremment les 4 chemins possibles, mais le renforcement de la piste rend plus attractif le chemin le plus court. 
 
-Au final à l'tape 3) les fourmis empruntent le chemin le plus court, les portions longues des autres chemins voient la piste de phéromones s'évaporer.
+Au final à l'étape 3) les fourmis empruntent le chemin le plus court, les portions longues des autres chemins voient la piste de phéromones s'évaporer.
 
-Comme les termites, les fourmis utilisent l’environnement comme support de communication : elles échangent indirectement de l’information en déposant des phéromones, le tout décrivant l’état de leur « travail ». 
+*Comme les termites, les fourmis utilisent l’environnement comme support de communication : elles échangent indirectement de l’information en déposant des phéromones, le tout décrivant l’état de leur « travail ».* 
 
 <!---L’information échangée a une portée locale, seule une fourmi située à l’endroit où les phéromones ont été déposées y a accès. Un aspect clé est donc que les traces doivent être perceptibles
 --->
