@@ -4,7 +4,7 @@
 
 ## La coopération dans les petits groupes
 
-On parle souvent de coopération et de collaboration, mais la distinction entre les deux n'est pas toujours claire.
+*On parle souvent de coopération et de collaboration, mais la distinction entre les deux n'est pas toujours claire.*
 
 Certains auteurs distinguent les deux selon la façon dont les taches sont réparties. Selon ce critère, la collaboration est une création en commun *sans répartition préalable* des taches, tandis que la coopération est création en commun *impliquant une division préalable* des taches.
 
@@ -16,7 +16,9 @@ On peut comprendre la collaboration en pensant à l'image d'un jazz band en trai
 
 ![**->trouver image CC-BY-SA / image @melanie**](images/jazz-band-jam.jpg) 
 
-Dans ce cas, on "joue" ensemble (sans règles du jeu strictes ou explicites). Pour bien fonctionner la collaboration nécessite que chacun ait une perception de l'ensemble (que chacun entende les autres).
+*Quant on collabore, on "joue" ensemble (sans règles du jeu strictes ou explicites).* 
+
+Pour bien fonctionner la collaboration nécessite que chacun ait une perception de l'ensemble (que chacun entende les autres).
 
 Parce que les taches ne sont pas formellement prédéfinies, la collaboration permet de bien réagir aux changements de l'environnement.
 
@@ -28,11 +30,13 @@ Pour comprendre la coopération on peut prendre une autre image musicale, celle 
 ![source de l'image: https://upload.wikimedia.org/wikipedia/commons/e/e6/Concert_orchestre_symphonique_Arsenal_Metz.jpg
 ](images/orchestre-chef.jpg)
 
-on "joue" ensemble mais comme on jouerai dans le cadre d'un jeu (avec des règles du jeu explicites et communes à toustes).
+*Quand on coopère, on "joue" ensemble mais comme on jouerai dans le cadre d'un jeu (avec des règles du jeu explicites et communes à toustes).*
 
 La coopération permet de coordonner des groupes plus grands, mais devient difficile au fur et à mesure que la taille du groupe augmente avec une taille optimale au dessous de 25 personnes. Au dela de ce nombre, il devient nécessaire d'avoir un chef, un guide pour aider à coordonner.
 
-Dans les deux cas on est dans des tailles "humaines", moins de 120 personnes, ou chacun est capable de connaitre l'ensemble des personnes. Pour décrire cette échelle, Jean-François Noubel parle d'intelligence collective originelle(**REF**), celle du village ou tout le monde se connait et où la coordination reste relativement simple.
+*Dans les deux cas on est dans des tailles "humaines", moins de 120 personnes, où chacun est capable de connaitre l'ensemble des personnes.* 
+
+Pour décrire cette échelle, Jean-François Noubel parle d'intelligence collective originelle(**REF**), celle du village ou tout le monde se connait et où la coordination reste relativement simple.
 
 <!---
 HOLOPTISME/PERCEPTION DU TOUT
@@ -60,10 +64,10 @@ Ce modèle d'organisation permet de coordonner le travail de plusieurs centaines
 
 S'il marche très bien pour coordonner de très larges groupes, en revanche il a tendance à uniformiser les individus, les enfermer dans une tache et les rends interchangeables.
 
-Cela n'est plus vraiment un jeu et les individus ont tendance à être traités comme des rouages d'une machine.
+*Dans un modèle pyramidal ce n'est plus vraiment un jeu et les individus ont tendance à être traités comme des rouages d'une machine.*
 
 
-## Inconvénients des modes d'organisation actuels:
+## Inconvénients des modes d'organisation actuels / systèmes basés sur les personnes
 
 Dans un article brillant (**REF**), Heather Marsh à décrit les inconvénients des modes d'organisations actuels qu'elle décrit comme des systèmes basés sur les personnes (par opposition à des systèmes basé sur l'action que nous verrons plus tard).
 
@@ -79,7 +83,7 @@ Trop souvent l’action n’apparait jamais car il y a à la place une focalisat
 
 induit une focalisation sur l'organisation et les personnes impliquées, les titres, **l'organigramme** au détriment de l'action.
 
-**@melanie: faire dessin organigramme et teritoire**
+**@melanie: faire dessin organigramme et territoire**
 
 
 ## Organisations pyramidales concurentielles 
@@ -138,7 +142,7 @@ ces méthodes risquent de ne pas produire les meilleurs résultats car beaucoup 
 
 La majeure partie de l’énergie et des ressources sont dépensées en communication, persuasion et gestion des susceptibilités, et le climat de travail est tendu par de l’argumentation et des luttes de pouvoir. 
 
-La coopération gâche beaucoup de temps et de ressources à discuter et à discuter les discussions. 
+*La coopération gâche beaucoup de temps et de ressources à discuter et à discuter les discussions.*
 
 La coopération et les systèmes basés sur la coopération sont donc généralement dominés par des personnalités extraverties qui prennent des décisions pour contrôler le travail des autres et crée un ressentiment justifié auprès de ceux qui font le travail. 
 
@@ -157,7 +161,7 @@ Par ailleurs, l’histoire n’a pas montré d’idées radicalement innovantes 
 Enfin, parce que le projet est conduit par un groupe, et même si c’est un groupe coopératif, le groupe est toujours en compétition avec d’autres projets similaires extérieurs, et gâche toujours des ressources et de l’énergie pour garder secret ou promouvoir. 
 
 
-# Hiérarchies pyramidales et de consensus sont des modèles de contrôle *a priori* 
+## Hiérarchies pyramidales et de consensus sont des modèles de contrôle *a priori* 
 
 Dans le contexte professionnel actuel, que ce soit les organisations classiques ou les coopératives, que le but soit lucratif ou non, le mode la coopération actuel est plutôt fermé.
 
