@@ -1,6 +1,6 @@
 # Comment travaillons nous ensemble ?
 
-*Que nous travaillions en coopération ou en collaboration, avec un système pyramidal ou horizontal, nos modes de travail actuels sont en fait très contraignants. S'ils ont eu leur utilité et la conserve encore dans une certaine mesure, il y a nécessité aujourd'hui d'inventer d'autres manières de faire pour résoudre collectivement les nombreux problèmes de notre époque.*
+*Que nous travaillions en coopération ou en collaboration, avec un système pyramidal ou horizontal, nos modes de travail actuels sont des systèmes basés sur les personnes et sont en fait très contraignants.*
 
 ## La coopération dans les petits groupes
 
@@ -16,7 +16,7 @@ On peut comprendre la collaboration en pensant à l'image d'un jazz band en trai
 
 ![**->trouver image CC-BY-SA / image @melanie**](images/jazz-band-jam.jpg) 
 
-*Quant on collabore, on "joue" ensemble (sans règles du jeu strictes ou explicites).* 
+*Quant on collabore, on "joue" ensemble sans règles du jeu strictes ou explicites.* 
 
 Pour bien fonctionner la collaboration nécessite que chacun ait une perception de l'ensemble (que chacun entende les autres).
 
