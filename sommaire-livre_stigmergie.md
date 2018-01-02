@@ -18,6 +18,8 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 
 ## Chapitre 1: Comment travaillons nous ensemble ?
 
+*Que nous travaillions en coopération ou en collaboration, avec un système pyramidal ou horizontal, nos modes de travail actuels sont en fait très contraignants. S'ils ont eu leur utilité et la conserve encore dans une certaine mesure, il y a nécessité aujourd'hui d'inventer d'autres manières de faire pour résoudre collectivement les nombreux problèmes de notre époque.*
+
 ### La coopération dans les petits groupes / Collaboration et coopération dans les petits groupes 
 ### Systèmes hierachique dand les grands groupes
 ### Inconvénients des modes d'organisation actuels / Inconvénients des systèmes basés sur les personnes
@@ -31,6 +33,14 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 
 
 ## Chapitre 2: Comment se coordonnent les insectes sociaux ?
+
+*L'observation de la nature nous offre des exemples fascinant de coopération à grande échelle. Les inssectes sociaux se coordonnent à travers un processus de communication indirecte via des traces laissées dans l'environnement et nommée stigmergie.* 
+
+### Comment se coordonnent les termites ?
+
+*Quand les termites construisent leur nid, elle utilisent principalement une commnication indirecte.*
+
+### La stigmergie, mécanisme de coordination indirecte
 
 1258 mots: 5 pages
 10172
