@@ -171,24 +171,24 @@ ANNEXES
 
 --->
 
-## Principe 1: Traces perceptibles
+### Principe 1: Traces perceptibles
 
 *1er principe: les actions doivent laisser des **traces perceptibles** par certains agents.*
 
-## Principes 2: Large ouverture a priori
+### Principes 2: Large ouverture a priori
 
 *Avoir une approche de large ouverture a priori et ne protéger/cacher/interdire que lorsque c'est strictement nécessaire.*
 
-## Principe 3: Licences libres
+### Principe 3: Licences libres
 
 
-## Auto-organisation
+### Auto-organisation
 
 3825 mots = 12 pages
 24000
 
 
-## Chapitre 6: Wikipédia comme système stigmergique
+## 6. Wikipédia vue comme système stigmergique
 
 
 
