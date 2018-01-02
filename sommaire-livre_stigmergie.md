@@ -85,7 +85,7 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 1258 mots: 5 pages
 10172
 
-## 3. une coordination stigmergique existe chez les humains
+## 3. Une coordination stigmergique existe chez les humains
 
 *Si la stigmergie est présentes chez les insectes et les animaux, chez les humains aussi on trouve des exemples de coordination basés sur la stigmergie.*
 
@@ -121,7 +121,7 @@ ANNEXES
 2354 mots
 14572
 
-## 4. La stigmergie comme système basé sur l'action
+## 4. La stigmergie est un système basé sur l'action
 
 *Contrairement aux systèmes basés sur les personnes la stigmergie est un système basé sur l'action.*
 
@@ -138,12 +138,20 @@ ANNEXES
 
 *La stigmergie met aussi les individus en situation de contrôler leur propre travail.*
 
+### Un système qui offre une grande liberté individuelle
+
 *Les travailleurs sont libres de créer sans prendre en compte l’acceptation ou le rejet.*
 
+*Négocier ou se mettre d'accord n'est pas une obligation*
 
-## Un système ouvert qui appartient à toustes
+
+## Un système ouvert et résilient
 
 *Parce que le système est ouvert et n'impose rien, il est très résilient aux divergence de vues et aux querelles de personnes.* 
+
+
+## Un système qui s'auto-régule
+
 
 
 1472 mots: 6 pages
