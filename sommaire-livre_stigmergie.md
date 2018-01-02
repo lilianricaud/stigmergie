@@ -217,6 +217,11 @@ mise en application concrètes dans des organisations existantes et au démarrag
 
 ## un livre sur la stigmergie rédigé avec de la stigmergie
 
+<!---
+
+mettre en préambule ?
+--->
+
 - traduction stigmergique contenu heather marsh
 - usage de licence libre et récupération de contenus (cornu, collectifs citoyens, heather marsh, wikipedia)
 - graines d'informations
@@ -224,6 +229,10 @@ mise en application concrètes dans des organisations existantes et au démarrag
 
 
 ## conclusion
+
+Rappel de ce qu'est la Stigmergie,
+
+mise en perspective plus globale sur ce qu'elle peut amener en matière de faire ensemble.
 
 6806
 
