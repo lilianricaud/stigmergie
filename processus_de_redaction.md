@@ -33,6 +33,10 @@ Si ce qui écrit est énnuyeux à écrire ou à lire c'est vraisemblablement mau
 
 Par conséquent, il est donc important de savoir s'arreter quand  onsent que c'est pesant, faire une pause et ne pas hésiter a recommencer à éliminer, à tourner différemment en partant sur une piste qui "sent" bon.
 
+## PATTERNS
+
+from patterns to details: des grandes lignes, au détails, usage de pattern dans le processus de rédaction et de relecture.
+
 ## ECRITURE OUVERTE
 
 
