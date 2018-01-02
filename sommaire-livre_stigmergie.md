@@ -60,7 +60,7 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 14699
 
 
-## 2. Comment se coordonnent les insectes sociaux ?
+## 2. La coordination chez les insectes sociaux se fait sans négociation sociale
 
 *L'observation de la nature nous offre des exemples fascinant de coopération à grande échelle. Les insectes sociaux se coordonnent à travers un processus de communication indirecte via des traces laissées dans l'environnement et nommée stigmergie.* 
 
@@ -85,7 +85,7 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 1258 mots: 5 pages
 10172
 
-## 3. La stigmergie chez les humains/Quelques exemples de coordination stigmergique chez les humains
+## 3. une coordination stigmergique existe chez les humains
 
 *Si la stigmergie est présentes chez les insectes et les animaux, chez les humains aussi on trouve des exemples de coordination basés sur la stigmergie.*
 
@@ -121,9 +121,30 @@ ANNEXES
 2354 mots
 14572
 
-## Chapitre 4: La stigmergie comme système basé sur l'action
+## 4. La stigmergie comme système basé sur l'action
 
 *Contrairement aux systèmes basés sur les personnes la stigmergie est un système basé sur l'action.*
+
+### Un système basé sur les idées, pas les personnes
+
+*Avec la stigmergie, une idée initiale est donnée librement, et le projet est conduit par l’idée, pas par une personnalité ou un groupe de personnalités.*
+
+*Toutes les idées sont acceptées ou rejetées en fonction des besoins du système, pas des personnes qui les portent.*
+
+
+### Un système basé sur l'action, pas les rôles
+
+*Dans un modèle basé sur la stigmergie,tous les travailleurs ont une autonomie complète pour créer comme ils le souhaitent.*
+
+*La stigmergie met aussi les individus en situation de contrôler leur propre travail.*
+
+*Les travailleurs sont libres de créer sans prendre en compte l’acceptation ou le rejet.*
+
+
+## Un système ouvert qui appartient à toustes
+
+*Parce que le système est ouvert et n'impose rien, il est très résilient aux divergence de vues et aux querelles de personnes.* 
+
 
 1472 mots: 6 pages
 
@@ -182,7 +203,7 @@ mise en application concrètes dans des organisations existantes et au démarrag
 
 ### les différents types de stigmergie définies par les chercheurs
 
-semi tectoniques, ...
+semi tectoniques, ... -> graine
 
 ### Les communs
 20 000
