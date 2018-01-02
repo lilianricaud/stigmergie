@@ -65,6 +65,22 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 
 *Il s'agit d'un phénomène d'auto-organisation où, sans concertation directe entre les personnes, apparaît une solution plus efficace que le résultat produit par un expert.*
 
+### Cairns
+
+### Sports collectifs
+
+### Trafic routier
+
+### Organisation d'une ville
+
+### Productions humaine d'artefacts via la stigmergie
+
+### Les communautés du libre
+
+### Wikipédia
+
+### Ushahidi
+
 2354 mots
 14572
 
@@ -124,6 +140,10 @@ mise en application concrètes dans des organisations existantes et au démarrag
 6806
 
 ## Annexe
+
+### les différents types de stigmergie définies par les chercheurs
+
+semi tectoniques, ...
 
 ### Les communs
 20 000
