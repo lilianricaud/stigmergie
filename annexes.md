@@ -1,5 +1,11 @@
 # Annexes
 
+## glossaire
+
+open source
+- approche descendante top-down 
+- affordance: la capacité d’un système ou d’un produit à suggérer sa propre utilisation
+
 ## Les communs
 
 ## Théorie des systèmes complexes
