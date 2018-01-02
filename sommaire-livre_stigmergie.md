@@ -30,14 +30,30 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 *Pour arriver à surmonter la contrainte de la taille des groupes, l'humanité à inventer une autre stratégie: le modèle pyramidal.*
 *Dans un modèle pyramidal ce n'est plus vraiment un jeu et les individus ont tendance à être traités comme des rouages d'une machine.*
 
-### Inconvénients des systèmes basés sur les personnes
+### Nos systèmes sont centrés sur les personnes
 
 *Un système basé sur les personnes ne permet jamais de collaboration à grande échelle sans un système de représentation, comme on en voit dans les organisations comme les nations unies.* 
 *Trop souvent l’action n’apparait jamais car il y a à la place une focalisation sur l’organisation et les personnes impliquées, au détriment de l'action elle même.*
 
 ### Organisations pyramidales concurentielles / Modèles compétitifs et hiérarchie pyramidale
+
+*La plupart des systèmes actuels sont gérés par des organisations concurrentielles.*
+*La compétition crée des redondances, ralentit et gâche des ressources sur la protection des idées, la publicité et autre taches non essentielles au développement de l'idée.*
+*Un système hiérachique ne permet jamais une contribution spontanée des personnes les plus expertes ou les plus passionnées.*
+
+
 ### Organisations coopératives ou basées sur la coopération / Modèles coopératifs et hiérarchie de consensus
+
+*Traditionnellement l’alternative à la compétition a été la coopération.*
+*Ce modèle ne permet pas aux personnes moteurs, usagers avec une expertise, une énergie ou une compréhension accrue, d’avoir une influence plus importante que ceux agissant en périphérie.*
+*La coopération gâche beaucoup de temps et de ressources à discuter et à discuter les discussions.*
+
+
 ### Hiérarchies pyramidales et de consensus sont des modèles de contrôle a priori
+
+*Les deux systèmes sont des systèmes hiérarchiques où les individus ont besoin de demander la permission de contribuer avant de pouvoir le faire.* 
+*Malgré leur opposition apparente, les deux modèles sont focalisés sur l’autorité de personnalités qui approuvent une décision au lieu de se focaliser sur l’idée et l’action elle-même.*
+
 
 
 1776 mots 7 pages
