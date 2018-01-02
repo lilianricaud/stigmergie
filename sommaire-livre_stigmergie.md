@@ -16,12 +16,20 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 
 
 
-## Chapitre 1: Comment travaillons nous ensemble ?
+## Chapitre 1: Nos mode de travail actuels sont basés sur les personnes
 
 *Que nous travaillions en coopération ou en collaboration, avec un système pyramidal ou horizontal, nos modes de travail actuels sont des systèmes basés sur les personnes et sont en fait très contraignants.*
 
 ### La coopération dans les petits groupes / Collaboration et coopération dans les petits groupes 
+*Quant on collabore, on "joue" ensemble sans règles du jeu strictes ou explicites.* 
+*Quand on coopère, on "joue" ensemble mais comme on jouerai dans le cadre d'un jeu (avec des règles du jeu explicites et communes à toustes).*
+*Dans les deux cas on est dans des tailles "humaines", moins de 120 personnes, où chacun est capable de connaitre l'ensemble des personnes.* 
+
 ### Systèmes hierachique dans les grands groupes
+
+*Pour arriver à surmonter la contrainte de la taille des groupes, l'humanité à inventer une autre stratégie: le modèle pyramidal.*
+*Dans un modèle pyramidal ce n'est plus vraiment un jeu et les individus ont tendance à être traités comme des rouages d'une machine.*
+
 ### Inconvénients des modes d'organisation actuels / Inconvénients des systèmes basés sur les personnes
 ### Organisations pyramidales concurentielles / Modèles compétitifs et hiérarchie pyramidale
 ### Organisations coopératives ou basées sur la coopération / Modèles coopératifs et hiérarchie de consensus
