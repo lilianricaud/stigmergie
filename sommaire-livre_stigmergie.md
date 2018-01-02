@@ -145,28 +145,39 @@ ANNEXES
 *Négocier ou se mettre d'accord n'est pas une obligation*
 
 
-## Un système ouvert et résilient
+### Un système ouvert et résilient
 
 *Parce que le système est ouvert et n'impose rien, il est très résilient aux divergence de vues et aux querelles de personnes.* 
 
 
-## Un système qui s'auto-régule
+### Un système qui s'auto-régule
 
 
 
 1472 mots: 6 pages
 
 
-Dans un système basé sur l’action, la discussion est rarement nécessaire, car l’opinion de ceux qui ne font pas le travail a probablement peu de valeur, sauf dans le cas ou un conseil est sollicité auprès d’une personne experte et de confiance.
 
-a partir de la défintion de wikipédia et la description de heather marsh, nous regardons des exemples de stigmergie
 
-## Chapitre 5: Mettre en oeuvre la stigmergie
+## 5. Des principes pour mettre en oeuvre la stigmergie
 
-6384 mots = 25 pages -> diviser
-41967
+*La mise en œuvre de mécanismes de coopération de type stigmergie au sein d’une organisation humaine est une notion récente que nous essayons encore de comprendre. Voici donc certains principes qui semblent importants pour rendre possible la stigmergie dans une organisation.*
 
-Principes de mise en oeuvre
+### Quelques définitions
+
+*Environnement, actions, traces, agents, organisation, noeuds, branches, la stigmergie a un langage spécifique.*
+
+### Principes de mise en oeuvre
+
+## Principe 1: Des traces perceptibles
+
+*1er principe: les actions doivent laisser des **traces perceptibles** par certains agents.*
+
+## Principes 2: large ouverture a priori
+
+3825 mots = 12 pages
+24000 
+
 
 ## Chapitre 6: Wikipédia comme système stigmergique
 
