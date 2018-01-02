@@ -1,6 +1,6 @@
-## Coordination stigmergique dans les organisations humaines
+## Coordination stigmergique dans les organisations humaines / La stigmergie comme système basé sur l'action
 
-
+*Les système stigmergiques ne sont pas basés sur les personnes ou les individus qui les composent, mais sur les actions.*
 
 A quoi ressemblerait une organisation qui se coordonnerait avec des mécanismes de stigmergie. C'est ce que décrit Heather Marsh dans un article brillant. Je n'insisterai jamais assez sur l'importance de lire cet article brillant et précurseur. Une grande partie de ce qui écrit ici est issue d'une traduction de cet article:
 
