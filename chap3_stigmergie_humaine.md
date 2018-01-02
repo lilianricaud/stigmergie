@@ -1,6 +1,6 @@
 # Quelques exemples de coordination stigmergique chez les humains
 
-*Si la stigmergie est présentes chez les insectes et les animaux, chez les humains aussi ont trouve des exemples de coordination basé sur la stigmergie.*
+*Si la stigmergie est présentes chez les insectes et les animaux, chez les humains aussi on trouve des exemples de coordination basés sur la stigmergie.*
 
 ## Chemin tracés par l'usage
 
@@ -16,11 +16,17 @@ Résultant du choix conscient ou inconscient de nombreuses personnes, les chemin
 
 *Il s'agit d'un phénomène d'auto-organisation où, sans concertation directe entre les personnes, apparaît une solution plus efficace que le résultat produit par un expert.*
 
+<!---
+
 ## Cairns
 
 Les cairns fonctionnent de la même manière. Un randonneur laisse quelques pierres pour marquer un sentier ou une intersection, ce qui incite d'autres randonneurs à faire de même. Après plusieurs passages successifs de randonneurs, le tracé du sentier devient très bien fléché, la encore sans coordination directe entre les randonneurs.
 
 Dans le premier exemple la trace laissé dans l'environnement c'est le piétinement de l'herbe produit par le passage des marcheurs sans action consciente, dans le deuxième cas il y a en plus une action consciente d'empiler des cailloux.
+
+## Déménagements
+
+Un carton est posé quelque part, parfois griffoné d'une indication. quelqu'un le rapproche du camion, quelqu'un d'autre le charge. Même s'il y a un peu de discussion, la plupart de la coordination se fait de manière indirecte via les objets et leur position.
 
 ## Sports collectifs
 
@@ -48,6 +54,8 @@ Si dans les deux exemples précédents, la trace laissée est très éphémère,
 
 ![bg original](images/stigmergie-cicatrice-rail-structure-auch.png)
 
+--->
+
 ## Productions humaine d'artefacts via la stigmergie
 
 On pensait jusqu'ici que nos sociétés humains produisaient par des mécanismes décrits au chapitre 1.
@@ -63,7 +71,14 @@ Pourtant celles ci existent. Dans une thèse de doctorat, des chercheurs ont mon
 
 ![bg 80%](images/logiciels-libres-celebres.jpg)
 
-Les communautés du libre
+
+Le logiciel libre désigne les projets 
+
+Il y a plus de 20 ans, Linus Torvald, un étudiant finlandais réutilise un morceau de code informatique existant, l’améliore et choisit de le rendre disponible pour que n’importe qui puisse le réutiliser et le corriger.
+
+Aujourd’hui Linux est un système informatique essentiel, indispensable au fonctionnement d’un grand nombre de machines, des téléphones portables aux super ordinateurs et il concurrence directement les systèmes produits par de puissantes entreprises comme Microsoft.
+
+Parti de quelques passionnés travaillant bénévolement, le projet Linux attire aujourd’hui de grandes entreprises comme IBM qui payent des personnes pour travailler à plein temps à son développement afin de ne pas réinventer la roue et de tirer parti des innovations existantes pour son propre bénéfice.
 
 Linux, Wikipédia, WordPress, Firefox … longtemps marginaux, les projets rassemblant des volontaires qui travaillent en collaboration à distance sont de plus en plus courants et concurrencent grandes entreprises et institutions pourtant richement dotés en moyens humains et financiers.
 
@@ -71,12 +86,43 @@ C’est le mode de travail des communautés du libre qui a inspiré Mark Ellliot
 
 http://mark-elliott.net/blog/?page_id=24%20
 
+*Dans le monde du logiciel libre, le code produit par une personne ou un groupe est la trace qui sert de support de coordination.* 
 
 ## Wikipédia
 
-## Ushahidi
+Il y a plus de 10 ans, un entrepreneur philanthrope publie quelques articles encyclopédique rédigés à grand prix par des « experts ». Après avoir abandonné ce modèle couteux et inefficace, il choisi d’ouvrir le processus éditorial à tous les internautes, et attire une communauté de volontaires passionnés qui s’organisent et produisent une grande quantité d’articles.
+
+Aujourd’hui Wikipédia  c’est l’un des site les plus gros et plus populaire du web (365 millions de lecteurs!). Possèdant plus de 22 millions d’articles (4 millions en anglais, 1,4 millions en allemand, 1, 3 millions en français, et des centaines de milliers dans d’autres langues), Wikipédia est disponible en 285 langues, et et offre à tous un accès gratuit à la connaissance.
+
+Controversée au départ, sa qualité ne cesse de s’améliorer et rivalise avec celle de ses puissants concurrents au point de les menacer (Microsoft fermé Encarta, son encyclopédie électronique et Encyclopédia Britannica a cessé l’impression de son encyclopédie papier).
+
+Wikipédia s’est développé sans aucune aide des institutions ou des entreprises, le logiciel qui fait tourner le site ayant été développé par des volontaires et l’argent pour les frais d’hébergement provenant de dons.
+
+Mieux, dans le processus de création de contenus encyclopédiques, la communauté a inventé des méthodes de gouvernance et de gestion des conflits pour fonctionner et se développer.
+
+## La plateforme de cartographie Ushahidi
+
+Plus récemment dans un article scientifique publié en 2013, la chercheuse Janet Marsden a étudié le développement de la plateforme logicielle Ushahidi en la regardant sous un angle stigmergique.
+
+Ushahidi est une plateforme open source qui permet de collecter, d’agréger et de cartographier de l’information en situation d’urgence ou de crise.
+
+Le développement d’Ushahidi est remarquable pour plusieurs raisons:
+
+- La version originale d’Ushahidi a été développée et mise en place en une semaine.
+- Le système a été largement développée par des kenyans, au Kenya, un pays africain avec des ressources techniques et une infrastructure limitées.
+- Quelques jours après son lancement, Ushahidi était utilisé par des milliers d’utilisateurs.
+
+L’auteur explique que l’avancée des réseaux de communication distribués comme l’internet et les réseaux ubiquitaires ont rendus obsolète l’**approche descendante top-down** de développement de logiciels.
+
+A la place, les outils utilisés sont des composants modulaires adaptables, autogérés et combinés. De même les équipes de développement logiciels et les participants sont spontanées et à la volée, fonctionnant comme des organisations virtuelles.
+
+L’environnement de travail qui facilite la coordination des agents est fourni par la plateforme logicielle Ushahidi, incluant ses composants, interfaces et leur affordance pour les participants (l’affordance est la capacité d’un système ou d’un produit à suggérer sa propre utilisation).
+
+Notez que Ushahidi s’est propagé de façon spontanée et a été depuis été utilisé dans de nombreux endroits dans le monde pour cartographier des situations de crises de façon participative.
+
+Plus sur Ushahidi comme système stigmergique dans cet article très intéressant: Stigmergic self-organization and the improvisation of Ushahidi
 
 
-<!--- nouveau chapitre--->
+<!--- ushahidi insister sur coordination indirecte via des traces laissées--->
 
 
