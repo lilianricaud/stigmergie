@@ -57,9 +57,13 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 1258 mots: 5 pages
 10172
 
-## Chapitre 3: La stigmergie chez les humains
+## Chapitre 3: La stigmergie chez les humains/Quelques exemples de coordination stigmergique chez les humains
 
-présentation du travail des chercheurs sur le sujet et d'exemples de stigmergie dans la nature 
+*Si la stigmergie est présentes chez les insectes et les animaux, chez les humains aussi ont trouve des exemples de coordination basé sur la stigmergie.*
+
+## Chemin tracés par l'usage
+
+*Il s'agit d'un phénomène d'auto-organisation où, sans concertation directe entre les personnes, apparaît une solution plus efficace que le résultat produit par un expert.*
 
 2354 mots
 14572

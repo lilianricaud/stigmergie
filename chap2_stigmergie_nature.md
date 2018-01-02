@@ -95,7 +95,7 @@ De cette façon, les actions suivantes tendent à se et renforcer et bâtir sur 
 --->
 
 
-## La stigmergie produit des structures complexes
+## La stigmergie produit des structures complexes / la stigmergie produit de l'intelligence collective
 
 Des chercheurs ont chercher à mieux comprendre le travail des fourmis. Pour cela, ils ont rempli de béton une fourmilière pour pouvoir la déterrer et visualiser sa structure habituellement invisible.
 
@@ -115,7 +115,7 @@ Pourtant toutes les fourmis ne sont pas actives, une récente étude américaine
 
 (**REF**http://www.atlantico.fr/decryptage/verite-fourmis-60-entre-elles-sont-grosses-paresseuses-qui-ne-font-rien-et-est-pas-tout-jean-luc-mercier-2228365.html)
 
-Il est donc bien important de comprendre que la stigmergie n'est pas un phénomène anecdotique, mais un mécanisme puissant capable de produire des structures d'une incroyable complexité et très finement adaptée.
+Il est donc bien important de comprendre que *la stigmergie n'est pas un phénomène anecdotique, mais un mécanisme puissant capable de produire des structures d'une incroyable complexité et très finement adaptée à leur environnement.*
 
 
 
