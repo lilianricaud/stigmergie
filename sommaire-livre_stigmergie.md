@@ -18,10 +18,10 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 
 ## Chapitre 1: Comment travaillons nous ensemble ?
 
-*Que nous travaillions en coopération ou en collaboration, avec un système pyramidal ou horizontal, nos modes de travail actuels sont en fait très contraignants. S'ils ont eu leur utilité et la conserve encore dans une certaine mesure, il y a nécessité aujourd'hui d'inventer d'autres manières de faire pour résoudre collectivement les nombreux problèmes de notre époque.*
+*Que nous travaillions en coopération ou en collaboration, avec un système pyramidal ou horizontal, nos modes de travail actuels sont des systèmes basés sur les personnes et sont en fait très contraignants. S'ils ont eu leur utilité et la conserve encore dans une certaine mesure, il y a nécessité aujourd'hui d'inventer d'autres manières de faire pour résoudre collectivement les nombreux problèmes de notre époque.*
 
 ### La coopération dans les petits groupes / Collaboration et coopération dans les petits groupes 
-### Systèmes hierachique dand les grands groupes
+### Systèmes hierachique dans les grands groupes
 ### Inconvénients des modes d'organisation actuels / Inconvénients des systèmes basés sur les personnes
 ### Organisations pyramidales concurentielles / Modèles compétitifs et hiérarchie pyramidale
 ### Organisations coopératives ou basées sur la coopération / Modèles coopératifs et hiérarchie de consensus
@@ -84,7 +84,9 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 2354 mots
 14572
 
-## Chapitre 4: La stigmergie dans les systèmes humains
+## Chapitre 4:Coordination stigmergique dans les organisations humaines / La stigmergie comme système basé sur l'action
+
+*A coté des systèmes basés sur les personnes la stigmergie est un système basé sur l'action.*
 
 1472 mots: 6 pages
 
