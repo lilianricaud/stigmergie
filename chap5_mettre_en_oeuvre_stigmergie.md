@@ -19,7 +19,7 @@ Enfin les NOEUDS sont les groupes de travail regroupant un nombre plus ou moins 
 Une TRACE est une marque laissée par une action et qui potentiellement est capable d'induire un autre action.
 
 
-## Principe 1: Des traces perceptibles
+## Principe 1: Traces perceptibles
 
 Dans sa thèse sur la stigmergie comme modèle pour une collaboration a grande échelle, Mark Elliot cite plusieurs exemples dans le monde physique comme les « desire paths », ces chemins initiés autour de la trace laissé par un promeneur dans l’herbe dont l’action est renforcée par les autres promeneurs percevant cette trace.
 
@@ -53,7 +53,7 @@ Pour résumer une chose à retenir:
 
 *1er principe: les actions doivent laisser des **traces perceptibles** par certains agents.*
 
-## Principes 2: Une large ouverture a priori
+## Principes 2: Large ouverture a priori
 
 Si l’information est cachée ou difficilement accessible aucun processus d’auto-organisation spontanée ne pourra se faire.
 
@@ -73,7 +73,7 @@ Cela ne veut pas dire qu’il faut tout ouvrir ou tout montrer, mais en tout cas
 
 2ème principe: **large ouverture a priori** *Avoir une approche de large ouverture a priori et ne protéger/cacher/interdire que lorsque c'est strictement nécessaire.*
 
-## Principe 3: Des licences libres
+## Principe 3: Licences libres
 
 Si dans le passé les brevets servaient à soutenir l’innovation, aujourd’hui ils sont trop souvent utilisés de manière abusive et constituent de plus en plus un frein à l’innovation.
 
