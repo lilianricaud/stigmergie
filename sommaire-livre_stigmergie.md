@@ -8,6 +8,8 @@
 1 page 	250 mots
 100 pages 	25 000 mots
 
+
+
 ## Préambule
 
 Ce livre est sous licence libre, ce qui permet de réutiliser des contenus existant et de ne pas repartir de zéro. Ainsi par exemple la première partie de livre est fortement influencé par le travail d'Heather Marsh.
@@ -15,6 +17,10 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 
 
 ## Chapitre 1: Comment travaillons nous ensemble ?
+
+### La coopération dans les petits groupes
+### La coopération dans les grands groupes
+### Inconvénients des modes d'organisation actuels:
 
 1776 mots 7 pages
 14699
