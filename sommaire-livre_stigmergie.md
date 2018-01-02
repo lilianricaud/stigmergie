@@ -60,7 +60,7 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 14699
 
 
-## Chapitre 2: Comment se coordonnent les insectes sociaux ?
+## 2. Comment se coordonnent les insectes sociaux ?
 
 *L'observation de la nature nous offre des exemples fascinant de coopération à grande échelle. Les insectes sociaux se coordonnent à travers un processus de communication indirecte via des traces laissées dans l'environnement et nommée stigmergie.* 
 
@@ -85,7 +85,7 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 1258 mots: 5 pages
 10172
 
-## Chapitre 3: La stigmergie chez les humains/Quelques exemples de coordination stigmergique chez les humains
+## 3. La stigmergie chez les humains/Quelques exemples de coordination stigmergique chez les humains
 
 *Si la stigmergie est présentes chez les insectes et les animaux, chez les humains aussi on trouve des exemples de coordination basés sur la stigmergie.*
 
