@@ -59,9 +59,9 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 
 ## Chapitre 3: La stigmergie chez les humains/Quelques exemples de coordination stigmergique chez les humains
 
-*Si la stigmergie est présentes chez les insectes et les animaux, chez les humains aussi ont trouve des exemples de coordination basé sur la stigmergie.*
+*Si la stigmergie est présentes chez les insectes et les animaux, chez les humains aussi on trouve des exemples de coordination basés sur la stigmergie.*
 
-## Chemin tracés par l'usage
+## Chemins tracés par l'usage
 
 *Il s'agit d'un phénomène d'auto-organisation où, sans concertation directe entre les personnes, apparaît une solution plus efficace que le résultat produit par un expert.*
 <!---
@@ -83,7 +83,10 @@ ANNEXES
 
 ### Les communautés du libre
 
+*Dans le monde du logiciel libre, le code produit par une personne ou un groupe est la trace qui sert de support de coordination.* 
+
 ### Wikipédia
+
 
 ### Ushahidi
 
