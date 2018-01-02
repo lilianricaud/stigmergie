@@ -18,7 +18,7 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 
 ## Chapitre 1: Comment travaillons nous ensemble ?
 
-*Que nous travaillions en coopération ou en collaboration, avec un système pyramidal ou horizontal, nos modes de travail actuels sont des systèmes basés sur les personnes et sont en fait très contraignants. S'ils ont eu leur utilité et la conserve encore dans une certaine mesure, il y a nécessité aujourd'hui d'inventer d'autres manières de faire pour résoudre collectivement les nombreux problèmes de notre époque.*
+*Que nous travaillions en coopération ou en collaboration, avec un système pyramidal ou horizontal, nos modes de travail actuels sont des systèmes basés sur les personnes et sont en fait très contraignants.*
 
 ### La coopération dans les petits groupes / Collaboration et coopération dans les petits groupes 
 ### Systèmes hierachique dans les grands groupes
@@ -34,7 +34,7 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 
 ## Chapitre 2: Comment se coordonnent les insectes sociaux ?
 
-*L'observation de la nature nous offre des exemples fascinant de coopération à grande échelle. Les inssectes sociaux se coordonnent à travers un processus de communication indirecte via des traces laissées dans l'environnement et nommée stigmergie.* 
+*L'observation de la nature nous offre des exemples fascinant de coopération à grande échelle. Les insectes sociaux se coordonnent à travers un processus de communication indirecte via des traces laissées dans l'environnement et nommée stigmergie.* 
 
 ### Comment se coordonnent les termites ?
 
@@ -64,8 +64,12 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 ## Chemin tracés par l'usage
 
 *Il s'agit d'un phénomène d'auto-organisation où, sans concertation directe entre les personnes, apparaît une solution plus efficace que le résultat produit par un expert.*
+<!---
+ANNEXES
 
 ### Cairns
+
+### Déménagements
 
 ### Sports collectifs
 
@@ -74,6 +78,8 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 ### Organisation d'une ville
 
 ### Productions humaine d'artefacts via la stigmergie
+
+--->
 
 ### Les communautés du libre
 
@@ -84,9 +90,9 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 2354 mots
 14572
 
-## Chapitre 4:Coordination stigmergique dans les organisations humaines / La stigmergie comme système basé sur l'action
+## Chapitre 4: La stigmergie comme système basé sur l'action
 
-*A coté des systèmes basés sur les personnes la stigmergie est un système basé sur l'action.*
+*Contrairement aux systèmes basés sur les personnes la stigmergie est un système basé sur l'action.*
 
 1472 mots: 6 pages
 
