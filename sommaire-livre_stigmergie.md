@@ -18,9 +18,13 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 
 ## Chapitre 1: Comment travaillons nous ensemble ?
 
-### La coopération dans les petits groupes
-### La coopération dans les grands groupes
-### Inconvénients des modes d'organisation actuels:
+### La coopération dans les petits groupes / Collaboration et coopération dans les petits groupes 
+### Systèmes hierachique dand les grands groupes
+### Inconvénients des modes d'organisation actuels / Inconvénients des systèmes basés sur les personnes
+### Organisations pyramidales concurentielles / Modèles compétitifs et hiérarchie pyramidale
+### Organisations coopératives ou basées sur la coopération / Modèles coopératifs et hiérarchie de consensus
+### Hiérarchies pyramidales et de consensus sont des modèles de contrôle a priori
+
 
 1776 mots 7 pages
 14699
