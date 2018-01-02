@@ -90,6 +90,8 @@ http://mark-elliott.net/blog/?page_id=24%20
 
 ## Wikipédia
 
+Un exemple typique de stigmergie est représenté par Wikipedia, l'encyclopédie gratuite qui grandie jusqu'à devenir la plus grande encyclopédie au monde. son existence est due au fait que chaque lecteur est stimulé pour améliorer et faire grandir les écrits des contributeurs précédents.
+
 Il y a plus de 10 ans, un entrepreneur philanthrope publie quelques articles encyclopédique rédigés à grand prix par des « experts ». Après avoir abandonné ce modèle couteux et inefficace, il choisi d’ouvrir le processus éditorial à tous les internautes, et attire une communauté de volontaires passionnés qui s’organisent et produisent une grande quantité d’articles.
 
 Aujourd’hui Wikipédia  c’est l’un des site les plus gros et plus populaire du web (365 millions de lecteurs!). Possèdant plus de 22 millions d’articles (4 millions en anglais, 1,4 millions en allemand, 1, 3 millions en français, et des centaines de milliers dans d’autres langues), Wikipédia est disponible en 285 langues, et et offre à tous un accès gratuit à la connaissance.
@@ -99,6 +101,8 @@ Controversée au départ, sa qualité ne cesse de s’améliorer et rivalise ave
 Wikipédia s’est développé sans aucune aide des institutions ou des entreprises, le logiciel qui fait tourner le site ayant été développé par des volontaires et l’argent pour les frais d’hébergement provenant de dons.
 
 Mieux, dans le processus de création de contenus encyclopédiques, la communauté a inventé des méthodes de gouvernance et de gestion des conflits pour fonctionner et se développer.
+
+
 
 ## La plateforme de cartographie Ushahidi
 
