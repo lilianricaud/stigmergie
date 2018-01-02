@@ -42,6 +42,18 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 
 ### La stigmergie, mécanisme de coordination indirecte
 
+*"La stigmergie est une méthode de **communication indirecte** dans un environnement **émergent auto-organisé**, où les individus communiquent entre eux **en modifiant leur environnement**." (Wikipedia)*
+
+### Les fourmis championnes de l'optimisation de trajets
+
+*Comme les termites, les fourmis utilisent l’environnement comme support de communication : elles échangent indirectement de l’information en déposant des phéromones, le tout décrivant l’état de leur « travail ».* 
+
+### La stigmergie produit des structures complexes / la stigmergie produit de l'intelligence collective
+
+*la stigmergie n'est pas un phénomène anecdotique, mais un mécanisme puissant capable de produire des structures d'une incroyable complexité et très finement adaptée à leur environnement.*
+
+### Stigmergie chez les animaux
+
 1258 mots: 5 pages
 10172
 
