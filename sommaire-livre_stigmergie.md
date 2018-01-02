@@ -30,7 +30,11 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 *Pour arriver à surmonter la contrainte de la taille des groupes, l'humanité à inventer une autre stratégie: le modèle pyramidal.*
 *Dans un modèle pyramidal ce n'est plus vraiment un jeu et les individus ont tendance à être traités comme des rouages d'une machine.*
 
-### Inconvénients des modes d'organisation actuels / Inconvénients des systèmes basés sur les personnes
+### Inconvénients des systèmes basés sur les personnes
+
+*Un système basé sur les personnes ne permet jamais de collaboration à grande échelle sans un système de représentation, comme on en voit dans les organisations comme les nations unies.* 
+*Trop souvent l’action n’apparait jamais car il y a à la place une focalisation sur l’organisation et les personnes impliquées, au détriment de l'action elle même.*
+
 ### Organisations pyramidales concurentielles / Modèles compétitifs et hiérarchie pyramidale
 ### Organisations coopératives ou basées sur la coopération / Modèles coopératifs et hiérarchie de consensus
 ### Hiérarchies pyramidales et de consensus sont des modèles de contrôle a priori
