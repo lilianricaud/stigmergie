@@ -10,14 +10,13 @@ Bonabeau, et al. [1999], distinguent:
 - Qualitative: le stimuli diffère par type de signal
 - Quantitative: le stimuli diffère par l'intensité de signal
 
-Wilson [1975], font une distinction entre
+Wilson [1975], font une distinction entre:
 
 - Sematectonique: la trace est issue d'un changement dans l'état résultant d'une action précédente liée à la tache.
 - Basée sur un signe/marqueur: la trace issue de quelque chose qui ne contribue pas à la tache. 
 
 Comme les auteurs le souligne, l'interprétation de la stigmergie initiale décrite par Grassé peut être redéfinie comme Active (les actions affectent les perceptions sensorielles des autres), Qualitative (le stimuli diffère par type de signal), Sematectonique: la trace est issue d'un changement dans l'état résultant d'une action précédente liée à la tache.
 
-As the authors of the poster point out, Grassé's original understanding of stigmergy then becomes further defined as: Active (actions affect sensory inputs of others), Qualitative (sensory inputs differ by type) Sematectonic (change in state result of task-related action) stigmergy 
 
 ---
 
