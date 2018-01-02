@@ -20,10 +20,10 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 
 *Que nous travaillions en coopération ou en collaboration, avec un système pyramidal ou horizontal, nos modes de travail actuels sont des systèmes basés sur les personnes et sont en fait très contraignants.*
 
-### La coopération dans les petits groupes / Collaboration et coopération dans les petits groupes 
-*Quant on collabore, on "joue" ensemble sans règles du jeu strictes ou explicites.* 
+### La coopération dans les petits groupes / Collaboration et coopération dans les petits groupes
+*Quant on collabore, on "joue" ensemble sans règles du jeu strictes ou explicites.*
 *Quand on coopère, on "joue" ensemble mais comme on jouerai dans le cadre d'un jeu (avec des règles du jeu explicites et communes à toustes).*
-*Dans les deux cas on est dans des tailles "humaines", moins de 120 personnes, où chacun est capable de connaitre l'ensemble des personnes.* 
+*Dans les deux cas on est dans des tailles "humaines", moins de 120 personnes, où chacun est capable de connaitre l'ensemble des personnes.*
 
 ### Systèmes hierachique dans les grands groupes
 
@@ -32,7 +32,7 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 
 ### Nos systèmes sont centrés sur les personnes
 
-*Un système basé sur les personnes ne permet jamais de collaboration à grande échelle sans un système de représentation, comme on en voit dans les organisations comme les nations unies.* 
+*Un système basé sur les personnes ne permet jamais de collaboration à grande échelle sans un système de représentation, comme on en voit dans les organisations comme les nations unies.*
 *Trop souvent l’action n’apparait jamais car il y a à la place une focalisation sur l’organisation et les personnes impliquées, au détriment de l'action elle même.*
 
 ### Organisations pyramidales concurentielles / Modèles compétitifs et hiérarchie pyramidale
@@ -51,7 +51,7 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 
 ### Hiérarchies pyramidales et de consensus sont des modèles de contrôle a priori
 
-*Les deux systèmes sont des systèmes hiérarchiques où les individus ont besoin de demander la permission de contribuer avant de pouvoir le faire.* 
+*Les deux systèmes sont des systèmes hiérarchiques où les individus ont besoin de demander la permission de contribuer avant de pouvoir le faire.*
 *Malgré leur opposition apparente, les deux modèles sont focalisés sur l’autorité de personnalités qui approuvent une décision au lieu de se focaliser sur l’idée et l’action elle-même.*
 
 
@@ -62,7 +62,7 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 
 ## 2. La coordination chez les insectes sociaux se fait sans négociation sociale
 
-*L'observation de la nature nous offre des exemples fascinant de coopération à grande échelle. Les insectes sociaux se coordonnent à travers un processus de communication indirecte via des traces laissées dans l'environnement et nommée stigmergie.* 
+*L'observation de la nature nous offre des exemples fascinant de coopération à grande échelle. Les insectes sociaux se coordonnent à travers un processus de communication indirecte via des traces laissées dans l'environnement et nommée stigmergie.*
 
 ### Comment se coordonnent les termites ?
 
@@ -74,7 +74,7 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 
 ### Les fourmis championnes de l'optimisation de trajets
 
-*Comme les termites, les fourmis utilisent l’environnement comme support de communication : elles échangent indirectement de l’information en déposant des phéromones, le tout décrivant l’état de leur « travail ».* 
+*Comme les termites, les fourmis utilisent l’environnement comme support de communication : elles échangent indirectement de l’information en déposant des phéromones, le tout décrivant l’état de leur « travail ».*
 
 ### La stigmergie produit des structures complexes / la stigmergie produit de l'intelligence collective
 
@@ -89,7 +89,7 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 
 *Si la stigmergie est présentes chez les insectes et les animaux, chez les humains aussi on trouve des exemples de coordination basés sur la stigmergie.*
 
-## Chemins tracés par l'usage
+### Chemins tracés par l'usage
 
 *Il s'agit d'un phénomène d'auto-organisation où, sans concertation directe entre les personnes, apparaît une solution plus efficace que le résultat produit par un expert.*
 <!---
@@ -111,7 +111,7 @@ ANNEXES
 
 ### Les communautés du libre
 
-*Dans le monde du logiciel libre, le code produit par une personne ou un groupe est la trace qui sert de support de coordination.* 
+*Dans le monde du logiciel libre, le code produit par une personne ou un groupe est la trace qui sert de support de coordination.*
 
 ### Wikipédia
 
@@ -147,7 +147,7 @@ ANNEXES
 
 ### Un système ouvert et résilient
 
-*Parce que le système est ouvert et n'impose rien, il est très résilient aux divergence de vues et aux querelles de personnes.* 
+*Parce que le système est ouvert et n'impose rien, il est très résilient aux divergence de vues et aux querelles de personnes.*
 
 
 ### Un système qui s'auto-régule
@@ -185,7 +185,7 @@ ANNEXES
 ## Auto-organisation
 
 3825 mots = 12 pages
-24000 
+24000
 
 
 ## Chapitre 6: Wikipédia comme système stigmergique
@@ -245,5 +245,3 @@ semi tectoniques, ... -> graine
 20 000
 
 Graines d'informations
-
-
