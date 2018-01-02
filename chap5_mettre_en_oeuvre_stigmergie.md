@@ -1,7 +1,10 @@
-# Peut on mettre en oeuvre la stigmergie ?
+# Des principes pour mettre en oeuvre la stigmergie
 
+*La mise en œuvre de mécanismes de coopération de type stigmergie au sein d’une organisation humaine est une notion récente que nous essayons encore de comprendre. Voici donc certains principes qui semblent importants pour rendre possible la stigmergie dans une organisation.*
 
 ## Quelques définitions
+
+*Environnement, actions, traces, agents, organisation, noeuds, branches, la stigmergie a un langage spécifique.*
 
 Avant d'aller plus loin, je voudrais préciser quelques termes qui seront utilisés par la suite.
 
@@ -11,15 +14,10 @@ Je parlerai d’AGENTS, à savoir les acteurs qui effectuent un travail ou une a
 
 Par ORGANISATION j’entends n’importe quel groupe humain structuré que ce soit une entreprise, une association, une institution, ces organisations pouvant elles mêmes fonctionner sur un modèle hiérarchique ou de consensus.
 
-Enfin les NOEUDS sont les groupes de travail regroupant un nombre plus ou moins grand d’agents autour d’une ACTION. Un noeud peut se cliver en différentes branches qui, bien que travaillant sur la même tache, utilisent deux approches différentes en parallèle.
+Enfin les NOEUDS sont les groupes de travail regroupant un nombre plus ou moins grand d’agents autour d’une ACTION. Un noeud peut se cliver en différentes BRANCHES qui, bien que travaillant sur la même tache, utilisent deux approches différentes en parallèle.
 
-Une TRACE est une marque laissée par une action.
+Une TRACE est une marque laissée par une action et qui potentiellement est capable d'induire un autre action.
 
-## Principes de mise en oeuvre
-
-La mise en œuvre de mécanismes de coopération de type stigmergie au sein d’une organisation humaine est une notion récente que nous essayons encore de comprendre.
-
-Voici donc certains principes qui me semblent importants pour rendre possible la stigmergie dans une organisation.
 
 ## Principe 1: Des traces perceptibles
 
@@ -53,9 +51,9 @@ La visibilité des traces ou leur capacité à être perçues est influencée pa
 
 Pour résumer une chose à retenir:
 
-1er principe: les actions doivent laisser des **traces perceptibles** par certains agents.
+*1er principe: les actions doivent laisser des **traces perceptibles** par certains agents.*
 
-## Principes 2: large ouverture a priori
+## Principes 2: Une large ouverture a priori
 
 Si l’information est cachée ou difficilement accessible aucun processus d’auto-organisation spontanée ne pourra se faire.
 
@@ -71,9 +69,9 @@ Dans une vrai démarche de stigmergie l’intérêt est de voir fleurir des init
 
 Cela ne veut pas dire qu’il faut tout ouvrir ou tout montrer, mais en tout cas on ne peut plus rester entre soi derrière ses murs et tout vouloir contrôler, au risque de casser l’émergence de toute auto-organisation stigmergique et de perdre tous les bénéfices potentiels.
 
-Mieux vaut donc une approche de large ouverture a priori et ne protéger/cacher que le strict nécessaire.
 
-2ème principe: **large ouverture a priori**
+
+2ème principe: **large ouverture a priori** *Avoir une approche de large ouverture a priori et ne protéger/cacher/interdire que lorsque c'est strictement nécessaire.*
 
 ## Principe 3: Des licences libres
 
