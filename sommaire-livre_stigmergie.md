@@ -16,7 +16,7 @@ Ce livre est sous licence libre, ce qui permet de réutiliser des contenus exist
 
 
 
-## Chapitre 1: Nos mode de travail actuels sont basés sur les personnes
+## 1. Nos mode de travail actuels sont basés sur les personnes
 
 *Que nous travaillions en coopération ou en collaboration, avec un système pyramidal ou horizontal, nos modes de travail actuels sont des systèmes basés sur les personnes et sont en fait très contraignants.*
 
