@@ -89,7 +89,7 @@ induit une focalisation sur l'organisation et les personnes impliquées, les tit
 ## Organisations pyramidales concurentielles / Modèles compétitifs et hiérarchie pyramidale
 
 
-La plupart des systèmes actuels sont gérés par des organisations concurrentielles. La compétition crée des redondance, ralentit et gâche des ressources sur la protection des idées, la publicité et autre.
+*La plupart des systèmes actuels sont gérés par des organisations concurrentielles.*
 
 Dans un environnement compétitif, une nouvelle idée est jalousement gardée, légalement protégée et entourée de secret. Ce secret ce bloque progrès, évaluation et fait perdre des idées et des opportunités. Brevets et droits d’auteurs réduisent encore plus la vitesse et le potentiel de suggestion d’idées. 
 
@@ -97,8 +97,9 @@ De gros efforts sont faits pour trouver des soutiens à l’idée, en même temp
 
 Les organisations sont donc prise dans une sorte de schizophrénie où elles doivent à la fois partager leur idées et les ouvrir et en même temps les protéger de peur de perdre leur avantage concurentiel.
 
-![](images/stigmergie_la_schizophrenie.jpg)
+*La compétition crée des redondances, ralentit et gâche des ressources sur la protection des idées, la publicité et autre taches non essentielles au développement de l'idée.*
 
+![](images/stigmergie_la_schizophrenie.jpg)
 
 
 Par ailleurs, du fait du cloisonnement des entreprises, les gens qui ont la plus grande expertise ne collaborent pas à moins d’être recrutés sur le même projet.
@@ -106,7 +107,7 @@ Par ailleurs, du fait du cloisonnement des entreprises, les gens qui ont la plus
 ![](images/stigmergie_la_concurrence.jpg)
 
 
-Dans un monde globalisé et connecté, même les plus grosses entreprises ne peuvent prétendre avoir les  personnes les plus expertes dans leurs effectifs.
+Dans un monde globalisé et connecté, même les plus grosses entreprises ne peuvent prétendre avoir les personnes les plus expertes dans leurs effectifs.
 
 ![](images/stigmergie_la_propriete_intellectuelle.jpg)
 
@@ -118,7 +119,9 @@ Les contributeurs doivent ensuite être récompensés par le propriétaire, ce q
 
 Les contributeurs n’ont pas d’intérêt particulier à ce que le projet réussisse ou échoue, et n’ont pas la motivation de contribuer plus que ce pour quoi ils sont récompensés.
 
-Quelqu'un qui a une idée ne peut pas la mettre en oeuvre spontanément et doit quasi-systématiquement la faire passer par la hierarchie. Trop souvent le temps d'obtenir l'autorisation d'agir, les contributeurs se sont démotivés.
+Quelqu'un qui a une idée ne peut pas la mettre en oeuvre spontanément et doit quasi-systématiquement la faire passer par la hiérarchie. Trop souvent le temps d'obtenir l'autorisation d'agir, les contributeurs se sont démotivés.
+
+*Un système hiérachique ne permet jamais une contribution spontanée des personnes les plus expertes ou les plus passionnées.*
 
 ![](images/stigmergie_la_hierarchie_molle.jpg)
 
@@ -128,13 +131,13 @@ Quelqu'un qui a une idée ne peut pas la mettre en oeuvre spontanément et doit 
 
 ## Organisations coopératives ou basées sur la coopération / Modèles coopératifs et hiérarchie de consensus
 
-Traditionnellement l’alternative à la compétition a été la coopération. 
+*Traditionnellement l’alternative à la compétition a été la coopération.*
 
 La coopération repose généralement sur le principe démocratique que toutes les voix sont égales et utilisent fréquemment le consensus ou le vote pour prendre des décisions pour tout le groupe.
 
 Si l’idée est développée de manière coopérative, elle doit d’abord être présentée par son auteur, qui devra essayer de persuader un groupe d’adopter l’idée. Le groupe doit être en accord avec l’idée elle-même, et avec chaque stade de son développement. 
 
-Ce modèle ne permet pas aux personnes moteurs, usagers avec une expertise, une énergie ou une compréhension accrue, d’avoir une influence plus importante que ceux agissant en périphérie.
+*Ce modèle ne permet pas aux personnes moteurs, usagers avec une expertise, une énergie ou une compréhension accrue, d’avoir une influence plus importante que ceux agissant en périphérie.*
 
 ces méthodes risquent de ne pas produire les meilleurs résultats car beaucoup de gens ne comprendront pas le travail s’ils ne le pratiquent pas, et ils peuvent demander des choses qu’eux mêmes ne voudraient pas faire. 
 
@@ -165,7 +168,7 @@ Dans le contexte professionnel actuel, que ce soit les organisations classiques 
 
 Par celant j'entends que, par défaut si une chose (connaissance, information, outils) n’ a pas explicitement besoin d’être partagée, elle est verrouillée, cachée, protégée, inaccessible, interdite ou soumise à autorisation…
 
-Les deux systèmes sont des systèmes hiérarchiques où les individus ont besoin de demander la permission de contribuer. 
+*Les deux systèmes sont des systèmes hiérarchiques où les individus ont besoin de demander la permission de contribuer.* 
 
 Quand on veut lancer quelque chose de nouveau, il faut faire une demande, obtenir une autorisation, … il y a une restriction, un controle a priori, avant même de pouvoir faire quelque chose, d’accéder à une info, l’autorisation se faisant ensuite a posteriori après évaluation et prise de décision (par un individu ou un groupe).
 
