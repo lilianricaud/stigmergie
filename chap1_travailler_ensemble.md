@@ -71,7 +71,7 @@ S'il marche très bien pour coordonner de très larges groupes, en revanche il a
 
 Dans un article brillant (**REF**), Heather Marsh à décrit les inconvénients des modes d'organisations actuels qu'elle décrit comme des systèmes basés sur les personnes (par opposition à des systèmes basé sur l'action que nous verrons plus tard).
 
-Un système basé sur les personnes ne permet jamais de collaboration à grande échelle sans un système de représentation, comme on en voit dans les organisations comme les nations unies. 
+*Un système basé sur les personnes ne permet jamais de collaboration à grande échelle sans un système de représentation, comme on en voit dans les organisations comme les nations unies.* 
 
 A l’heure actuelle, la réponse habituelle à une situation qui nécessite une action c’est de créer une entité nominale, sous la forme d’un comité, une commission, une organisation, une entreprise, une organisation non gouvernementale, une agence gouvernementale, etc… 
 
@@ -86,8 +86,7 @@ induit une focalisation sur l'organisation et les personnes impliquées, les tit
 **@melanie: faire dessin organigramme et territoire**
 
 
-## Organisations pyramidales concurentielles 
-## Modèles compétitifs et hiérarchie pyramidale
+## Organisations pyramidales concurentielles / Modèles compétitifs et hiérarchie pyramidale
 
 
 La plupart des systèmes actuels sont gérés par des organisations concurrentielles. La compétition crée des redondance, ralentit et gâche des ressources sur la protection des idées, la publicité et autre.
@@ -127,8 +126,7 @@ Quelqu'un qui a une idée ne peut pas la mettre en oeuvre spontanément et doit 
 
 
 
-## Organisations coopératives ou basées sur la coopération
-## Modèles coopératifs et hiérarchie de consensus
+## Organisations coopératives ou basées sur la coopération / Modèles coopératifs et hiérarchie de consensus
 
 Traditionnellement l’alternative à la compétition a été la coopération. 
 
@@ -201,7 +199,7 @@ En réduisant les freins à la participation l’ouverture a priori libère la c
 
 Les projets, qu’ils soient sur un modèle compétitif ou coopératif, mourront si le groupe qui le fait fonctionner se retire, et dans les deux cas, les personnalités du groupe existant vont attirer ou repousser les contributeurs. 
 
-Malgré leur opposition apparente, les deux modèles sont focalisés sur l’autorité de personnalités qui approuvent une décision au lieu de se focaliser sur l’idée et l’action elle-même. 
+*Malgré leur opposition apparente, les deux modèles sont focalisés sur l’autorité de personnalités qui approuvent une décision au lieu de se focaliser sur l’idée et l’action elle-même.*
 
 
 
