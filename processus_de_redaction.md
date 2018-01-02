@@ -27,7 +27,15 @@ A travers l'ouvrage, les élements clés sont mis en avant en italique, ce qu pe
 
 # PROCESSUS
 
+## ÉCRITURE VIVIFIANTE
+
+Si ce qui écrit est énnuyeux à écrire ou à lire c'est vraisemblablement mauvais. si c'est lourd, pesant et que ça ne donne pas envie de continuer c'est qu'il y a probablement un problème. Le plaisir, la joie le vivifiant sont absent.
+
+Par conséquent, il est donc important de savoir s'arreter quand  onsent que c'est pesant, faire une pause et ne pas hésiter a recommencer à éliminer, à tourner différemment en partant sur une piste qui "sent" bon.
+
 ## ECRITURE OUVERTE
 
 
 ## ITÉRATIONS
+
+## MARKDOWN
