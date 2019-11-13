@@ -2,9 +2,7 @@
 
 ## Histoire
 
-Via the related conceptions of
-distributed cognition and the extended mind, stigmergy has now also started to make its
-mark on theories of cognition and epistemology 
+Via the related conceptions of distributed cognition and the extended mind, stigmergy has now also started to make its mark on theories of cognition and epistemology.
 
 
 ## Sources
