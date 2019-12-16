@@ -55,7 +55,8 @@ la liste des modifications récentes sur Wikipédia, rend visibles contributions
 Notez que certaines des ces traces sont générées de façon automatique par l’architecture du système (changements récents), d’autres activement par les contributeurs (bandeau d’infos), d’autres un peu entre les deux (le lien vers une page vide est crée par un utilisateur, mais le système complète automatiquement en créant un lien qui générera la page correspondante).
 
 Notez aussi que certaines traces sont plutôt transitoires (les changements récents, même s’il restent consultables sont rapidement moins visibles et donc probablement moins consultés après coup) tandis que d’autres perdurent (liens, bandeaux) et permettent donc une collaboration asynchrone (un lien appelant à créer une page peut rester inutilisée pendant des années avant qu’ un nouveau contributeur suive la trace pour compléter le travail entamé précédemment).
-Autorisation a priori:
+
+## Autorisation a priori:
 
 Sur Wikipédia, n’importe qui peut modifier les contenus pour les améliorer et chacun est même encouragé à le faire.
 
@@ -70,12 +71,14 @@ Sur Wikipédia tout est visible publiquement par défaut: des modifications aux 
 --->
 
 Ceci permet à chacun de s’impliquer, d’apporter suggestions, commentaires, critiques qui enrichissent le projet de l’intelligence collective de la communauté.
-Licence libre:
+
+## Licence libre:
 
 Sur Wikipedia tous les contenus postés doivent être libres de droits et sont eux mêmes places sous licence Creative Commons paternité partage à l’identique.
 
 Ceci permet à chacun de s’impliquer sachant que son travail ne sera pas enclos/accaparé, mais aussi de mutualiser du contenu (photos, documents, sons…) avec d’autres projets eux aussi libres.
-Contrôle a posteriori:
+
+## Contrôle a posteriori:
 
 Il n’y a pas besoin de demander l’autorisation pour voir ou agir et la correction ou le blocage de vandales se fait a posteriori sur la base de ce qui a été fait.
 
