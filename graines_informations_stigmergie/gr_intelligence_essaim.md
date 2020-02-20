@@ -16,7 +16,7 @@ Le chercheur JF Noubel distingue l'intelligence en essaim de l'intelligence holo
 
 ## Liens
 
-- gr_stigmergie_concept.md
-- gr_stigmergie_fourmis.md
+- [[gr_stigmergie_concept]]
+- [[gr_stigmergie_fourmis.md]]
 - gr_stigmergie_termites.md
 - gr_algorithmes_colonies_fourmis.md

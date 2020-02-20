@@ -1,6 +1,6 @@
 # Mise en application
 
-Dans mon dernier article j'avais étudie Wikipédia comme un système stigmergique et identifié plusieurs principes clés qui permettent à la stigmergie de se mettre en place.
+Dans mon dernier article j'avais étudie Wikipédia comme un système stigmergique et identifié plusieurs principes clés qui permettent à la stigmergie de se mettre en place. 
 
 Après plusieurs itérations voici les principes tel que je les formule aujourd'hui:
 
