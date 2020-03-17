@@ -16,6 +16,8 @@ On peut comprendre la collaboration en pensant à l'image d'un jazz band en trai
 
 ![**->trouver image CC-BY-SA / image @melanie**](images/jazz-band-jam.jpg) 
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 *Quant on collabore, on "joue" ensemble sans règles du jeu strictes ou explicites.* 
 
 Pour bien fonctionner la collaboration nécessite que chacun ait une perception de l'ensemble (que chacun entende les autres).
