@@ -1,0 +1,5 @@
+# FREE RIDERS
+
+the classical free rider problem does not exist for non-rival resources. A free rider is defined as an individual who profits from investments made by others but without doing an equivalent effort in return. Most users of open access information fall under that category: they utilize products made by others, but contribute little or nothing themselves. This apparent “parasitism” or non-reciprocity in this case is not a problem, though: the producers do not benefit less from the information they produced because others access it too. This already explains why open access communities lack the typical controls and penalties that social groups throughout history have evolved to discourage profiteering. Moreover, as we are about to show, the producers receive benefits that the mere “consumers” fail to get, and as such maintain a competitive advantage over free riders.
+
+Why is Open Access Development so Successful? Stigmergic organization and the economics of information, Heylighen F. 2007.

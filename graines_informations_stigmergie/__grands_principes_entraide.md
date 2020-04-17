@@ -1,0 +1,29 @@
+# Grands principes de l'entraide
+
+- **L'entraide est partout depuis la nuit des temps**, de manière bien plus claire que nous ne l'imaginions au départ de cette recherche.
+- **L'entraide acquiert sa puissance en milieu hostile.** Il en découle un avantage compétitif :  elle permet de mieux survivre aux menaces.
+- **L'entraide ne saurait être pensée sans prendre en compte les différents niveaux d'organisation**, ce qui peut etre résumé par la phrase de D.S. Wilson et E/O. Wilson : "Au sein d'un groupe, l’égoïsme supplante l'altruisme, les groupes altruistes supplantent les groupes égoïstes, tout le reste n'est que commentaire."
+- **L'entraide atteint des niveaux exceptionnels chez l'être humain** : elle est puissante, profondément ancrée en nous, peut se déployer à très grande échelle, mais reste souple (haute sensibilité aux conditions extérieures grâce à l’épigénétique et à la culture).
+- **L'entraide est une force puissante, mais fragile et parfois dangereuse**, qui apparait dans des conditions bien précises, et qui disparaît ou devient toxique (pathologies, fermetures, etc.) lorsque les conditions ne sont plus réunies.
+- **L'entraide se déploie dans le monde vivant sous de nombreuses formes couleurs** (symbiodiversité), à la fois dans les mécanismes et dans les chemins évolutifs qui la font émerger.
+- **L'architecture de l'entraide** (y compris humaine) ressemble donc à des poupées russes où chaque poupée supérieure est plus complexe, et où les différentes tailles de poupées peuvent coopérer entre elles. L'ensemble de ces poupées forment un réseau de réseaux multicolores en perpétuelle évolution.
+- **L'entraide est la principale source d'innovation du vivant**, à toutes les échelles, depuis l'apparition de la vie. C'est la clé de la diversification du vivant, et l'un des piliers de la sélection naturelle.
+- Enfin, **la compétition trouve sa place dans ce cadre**. Elle reste le deuxième grand pilier de la sélection naturelle, permet de renforcer l'entraide entre organismes et sert aux organismes à délimiter leur territoires ou à faire connaître leurs besoins. Mais elle est couteuse en énergie et risquée, ce qui la rend hasardeuse lorsqu'il s'agit s'engager dans une "lutte pour la vie" efficace et durable.
+
+Principes secondaires:
+
+- **Plusieurs chemins sont possibles pour faire émerger un comportement altruiste** chez une personne : la plonger dans un bain culturel altruiste pour pousser à fond son système 1, la placer en condition de stress, la faire participer à une extase collective (le mode "abeille"), lui proposer des voies spirituelles "d'extension du soi" et de compassion… De même sur le long terme, il a été fondamental de comprendre que l'entraide apparaissait aussi en suivant différents entiers évolutifs
+- Au même moment **plusieurs formes manières de faire société co-existent** : des grandes sociétés ultrasociales liées par la réciprocité invisible aux petits groupes de chasseurs cueilleurs à la réciprocité très "chaude", sans compte ce qui se passe chez les autres espèces.
+- Il existe **divers degrés d'intensité chez l'humain**, des relations légères et ponctuelles, où chacun garde son indépendance, à celles qui mènent à la solidarité (interdépendance), voire à la fusion ou à la dépendance asymétrique.
+- **L'être humain est simultanément capable d'altruisme et de cruauté extrême** Ça n'est nullement incompatible. Cela dépend où il situe la frontière de ce qu'il considère comme "son" groupe et de l'attitude qu'il adopte à l'égard des autres groupes.
+- il est vain de tenter de faire des généralités sur nos capacités d'entraide si nous ne pensons pas **l'implication simultanée des niveaux supérieurs** dans lesquels se meuvent les individus : la famille, la culture, la tribu (quartier, village, groupe affinitaire..), la région, le pays, la langue, etc...
+- Enfin pour ne pas se perdre il est important de **ne pas systématiquement voir l'entraide comme un acte naturellement bon** (même si elle peut l'être!) S'associer n'est pas forcément bien en soi : on peut s'entraider pour massacrer l'autre, pour survivre, pour protéger des limites, pour réaliser de grandes choses ou pour respecter des ressources communes.
+- les **principes de punition et de réputation peuvent être de précieux alliés** pour mettre en pratique l'entraide. Mais pour qu'ils soient juste et bien dosés, ces mécanismes doivent d'abord être connus, acceptés et maîtrisés.
+- Enfin, l'entraide **ne doit pas être vue comme une panacée** qu'il faudrait appliquer aveuglément. Ses écueils (pathologies, risques de fermeture du groupe, création d'un grand méchant loup, extases collectives, démesure, etc...) sont autant de raisons de rester lucides pour éviter une fois de plus les "mauvaises surprises" des utopies réalisées à la va-vite avec de grand moyens… L'équilibre est délicat : il suffit d'un ingrédient oublié ou mal dosé pour que la recette soit totalement ratée. subtil est le parfum de cette loi de la jungle.
+- il est aussi apparu essentiel de **distinguer l'action (l'entraide), de l'intention (altruiste)**. D'un point de vue évolutif, l'intention ne compte pas, seuls comptent les actes et les résultats. Mais d'un point de vue concret, ici et maintenant, les intentions comptent aussi!
+
+
+ Pour l'entraide nous sommes arrivé à un point où le "bon sens populaire" ne suffit plus. La taille de nos sociétés et l'uniformisation des modes d'organisation (sans parler des leur indigences) ne permettent pas de compter sur le "bon fond" des plus altruistes. Si nous voulons créer une véritable culture de l'entraide, il peut être intéressant de rendre ces processus intelligibles et cohérents.
+
+## sources
+Servigne et Chapelle p290.

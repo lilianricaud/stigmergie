@@ -1,0 +1,11 @@
+# Plombier stigmergique
+
+Dans un travail récent le chercheur Francis Heylighen explique cela très bien:
+
+Dans les exemples de stigmergie comme celui des fourmis ou les termites "les différents agents vérifient régulièrement la situation sur le lieu de travail et, dès qu’ils rencontrent les conditions adéquates, commencent leur travail. Par exemple, une fois que les plombiers ont constaté que le toit et les fenêtres sont en place, ils commencent à effectuer la plomberie. Simultanément mais indépendamment, les électriciens feraient leur travail. Les plâtriers commenceraient dès que le plombage et l'électricité seraient terminés. D'autre part, le travailleur municipal ne comblerait un trou que s'il contenait un arbre. Bien que cette approche puisse sembler naturelle aux termites, qui errent de toute façon autour du site de construction de leur nid, vous pourriez vous demander s'il ne serait pas inefficace d'exiger que des ouvriers spécialisés visitent le site tous les jours, alors qu'ils ne sont pas encore nécessaires. Cependant, cela peut être facilement résolu avec la technologie moderne, en fournissant un site Web sur lequel l’état du travail est enregistré en temps réel.
+
+De cette manière, les plombiers peuvent voir immédiatement s'ils sont nécessaires, sans perdre de temps pour se rendre sur le site. Le site Web joue le rôle de support fournissant des repères spéciaux pour guider l'exécution du travail, semblables aux phéromones utilisées par les fourmis. C’est ainsi qu’une communauté de programmeurs résidant dans différentes régions du monde développent en collaboration une suite complexe de logiciels à source ouverte: ils vérifient régulièrement leur site Web partagé à la recherche de nouveaux modules, mises à jour, demandes de fonctionnalités ou publications de bogues. Ils répondent à ces défis en écrivant du code supplémentaire ou en suggérant des solutions, puis en affichant ces résultats sur le site Web pour que les autres le voient et le développent.
+
+Un tel développement open source s’est avéré au moins aussi efficace que le développement logiciel planifié traditionnel exécuté dans les grandes entreprises sans nécessiter de supervision centrale. (Heylighen, 2015)
+
+
