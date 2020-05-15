@@ -17,6 +17,19 @@ Dans l'étape 2) les fourmis empruntent indifféremment les 4 chemins possibles,
 
 Au final à l'étape 3) les fourmis empruntent le chemin le plus court, les portions longues des autres chemins voient la piste de phéromones s'évaporer.
 
+Auto organisation  chez les fourmis pour la recherche de nourriture
+
+On interprète ainsi les phénomènes d'auto-organisation
+chez les insectes sociaux à la lumière de quatre
+mécanismes principaux 3 :
+1. L'existence d'interactions multiples  (nombreuses fourmis se déplaçant au hasard à la recherche de nourriture).
+2. L'amplification par la rétroaction positive. (phéromones déposées attirent d'autre qui fourmis qui déposent des nouvelles phéromones: effet boule de neige)
+3. La rétroaction négative (évaporation des phéromones et/ou nourriture épuisée n'attirant plus de nouveau dépots de phéromones).
+4. L'amplification des fluctuations. (Exemple, la
+fluctuation engendrée par une fourmi quittant la piste et
+découvrant une ressource riche est amplifiée par la boucle
+de rétroaction positive qui se met ensuite en place).
+
 ## Essaims oiseaux
 
 
@@ -34,7 +47,7 @@ Ces deux règles expliquent la formation des centres d'affaires, avec chacun leu
 2. Ajouter au milieu de chaque coté un autre triangle équilatéral, d'un tiers de la taille du premier.
 3. Ajouter à chacun des nouveaux cotés un autre triangle, un tiers plus petit. 
 
-Répétez l'opération plusisuers fois et vous obtiendrez  un flocon de Koch.
+Répétez l'opération plusieurs fois et vous obtiendrez  un flocon de Koch.
 
 ## Graines
 - processus_construction_termitiere.md

@@ -1,0 +1,19 @@
+## 5 principes convivialisme
+
+La seule politique légitime mais aussi la seule éthique acceptable sont celles qui s’inspirent des cinq principes suivants : les principes de commune naturalité, de commune humanité, de commune socialité, de légitime individuation, d’opposition créatrice. Ces cinq principes sont subordonnés à l’impératif absolu de maîtrise de l’hubris.
+
+- **principe de commune naturalité** : les humains ne vivent pas en extériorité par rapport à une Nature dont ils devraient se rendre “maîtres et possesseurs”. Comme tous les êtres vivants, ils en font partie et sont en interdépendance avec elle. Ils ont la responsabilité d’en prendre soin. À ne pas la respecter, c’est leur survie éthique et physique qu’ils mettent en péril.
+
+- **principe de commune humanité** : par-delà les différences de couleur de peau, de nationalité, de langue, de culture, de religion ou de richesse, de sexe ou d’orientation sexuelle, il n’y a qu’une seule humanité, qui doit être respectée en la personne de chacun de ses membres.
+
+- **principe de commune socialité** : les êtres humains sont des êtres sociaux pour qui la plus grande richesse est la richesse des rapports concrets qu’ils entretiennent entre eux dans le cadre d’associations, de sociétés ou de communautés de taille et de nature variables.
+
+- **principe de légitime individuation** : dans le respect de ces trois premiers principes, la politique légitime est celle qui permet à chacun de développer au mieux son individualité singulière en développant ses capacités, sa puissance d’être et d’agir, sans nuire à celle des autres, dans la perspective d’une égale liberté. À la différence de l’individualisme qui débouche sur le chacun pour soi et la lutte de tous contre tous, le principe d’individuation ne reconnaît de la valeur qu’aux individus qui affirment leur singularité dans le respect de leur interdépendance avec les autres et avec la nature.
+
+- **principe d’opposition créatrice** : parce que chacun a vocation à manifester son individualité singulière, il est normal que les humains s’opposent. Mais il ne leur est légitime de le faire qu’aussi longtemps que cela ne met pas en danger le cadre de commune humanité, de commune socialité et de commune naturalité qui rend la rivalité féconde et non destructrice. La politique bonne est donc celle qui permet aux êtres humains de se différencier en mettant la rivalité au service du bien commun. La même chose est vraie de l’éthique.
+
+À ces cinq principes, les traversant tous, s’ajoute un impératif :
+
+- **impératif de maîtrise  de l’hubris**.  La condition première pour que rivalité et émulation servent au bien commun est de faire en sorte qu’elles échappent au désir de toute-puissance, à la démesure, à l’hubris (et a fortiori à la pléonexie, au désir de posséder toujours plus). Elles deviennent alors rivalité pour mieux coopérer. Dit autrement : tenter d’être le meilleur est hautement recommandable s’il s’agit d’exceller, à la mesure de ses moyens, dans la satisfaction des besoins des autres, de leur donner le plus et le mieux possible. Voilà qui est bien différent du désir de l’emporter à tout prix en prenant aux autres ce qui leur revient. Ce principe de maîtrise de l’hubris est en réalité un méta-principe, le principe des principes. Il imprègne tous les autres et doit leur servir de régulateur et de garde-fou. Car chaque principe, poussé à son extrême et non tempéré par les autres, risque de s’inverser en son contraire : l’amour de la Nature ou celle de l’humanité abstraite en haine des hommes concrets ; la commune socialité en corporatisme, en clientélisme, en nationalisme ou en racisme ; l’individuation en un individualisme indifférent aux autres ; l’opposition créatrice en combat des ego, en narcissisme de la petite différence, en conflits destructeurs. Cet impératif peut donc être dit “catégorique”. 
+
+source: http://convivialisme.org/extraits/chapitre2/

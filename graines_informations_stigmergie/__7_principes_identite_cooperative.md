@@ -1,0 +1,16 @@
+# Les sept principes coopératifs
+
+La **déclaration sur l'identité coopérative** a été formulée par l’[Alliance coopérative internationale](<https://fr.wikipedia.org/wiki/Alliance_coop%C3%A9rative_internationale> "Alliance coopérative internationale") en 1895. Après avoir défini les [coopératives](<https://fr.wikipedia.org/wiki/Coop%C3%A9ratives> "Coopératives") et leurs valeurs, la déclaration énonce les sept principes de la coopération:
+
+1. **Adhésion volontaire et ouverte à tous.** Les coopératives sont des organisations fondées sur le volontariat et ouvertes à toutes les personnes aptes à utiliser leurs services et déterminées à prendre leurs responsabilités en tant que membres, et ce sans discrimination fondée sur le sexe, l'origine sociale, la race, l'allégeance politique ou la religion.
+2. **Pouvoir démocratique exercé par les membres.** Les coopératives sont des organisations démocratiques dirigées par leurs membres qui participent activement à l'établissement des politiques et à la prise de décisions. Les hommes et les femmes élus comme représentants des membres sont responsables devant eux. Dans les coopératives de premier niveau, les membres ont des droits de vote égaux en vertu de la règle « un membre, une voix » : les coopératives d'autres niveaux sont aussi organisées de manière démocratique.
+3. **Participation économique des membres.** Les membres contribuent de manière équitable au capital de leurs coopératives et en ont le contrôle. Une partie au moins de ce capital est habituellement la propriété commune de la coopérative. Les membres ne bénéficient habituellement que d'une rémunération limitée du capital souscrit comme condition de leur adhésion. Les membres affectent les excédents à tout ou partie des objectifs suivants : le développement de leur coopérative, éventuellement par la dotation de réserves dont une partie au moins est impartageable, des ristournes aux membres en proportion de leurs transactions avec la coopérative et le soutien d'autres activités approuvées par les membres.
+4. **Autonomie et indépendance.** Les coopératives sont des organisations autonomes d'entraide, gérées par leurs membres. La conclusion d'accords avec d'autres organisations, y compris des gouvernements, ou la recherche de fonds à partir de sources extérieures, doit se faire dans des conditions qui préservent le pouvoir démocratique des membres et maintiennent l'indépendance de leur coopérative.
+5. **Éducation, formation et information.** Les coopératives fournissent à leurs membres, leurs dirigeants élus, leurs gestionnaires et leurs employés, l'éducation et la formation requises pour pouvoir contribuer effectivement au développement de leur coopérative. Elles informent le grand public, en particulier les jeunes et les dirigeants d'opinion, sur la nature et les avantages de la coopération.
+6. **Coopération entre les coopératives**. Pour apporter un meilleur service à leurs membres et renforcer le mouvement coopératif, les coopératives œuvrent ensemble au sein de structures locales, nationales, régionales et internationales.
+7. **Engagement envers la communauté.** Les coopératives contribuent au développement durable de leur communauté dans le cadre d'orientations approuvées par leurs membres.
+
+## Source
+
+https://fr.wikipedia.org/wiki/D%C3%A9claration_sur_l%27identit%C3%A9_coop%C3%A9rative
+
