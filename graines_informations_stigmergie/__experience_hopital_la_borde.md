@@ -5,18 +5,18 @@ intention:  décloisonner les fonctions et les tâches, lutter contre les formes
 
 - égalisation des salaires
 - porosité entre les tâches et les fonctions
-- chevauchement des spécialisation avec des dominantes
+- chevauchement des spécialisations avec des dominantes
 - autoroganisation
 - grille: dispositif de gestion collective des tâches et des personnes. permettra de briser petit à petit le cloisonnement des secteurs et d’assurer un début de mobilité entre les postes
-- personne transversalle: responsable générale de la grille, se balade entre le sréunions du personnel des services et celles des moniteurs. « En se déplaçant d’une réunion à l’autre, elle joue le jeu, bouscule les limites, matérialise le déplacement de la problématique générale (celle du décloisonnement), tout en déplaçant les termes mêmes des problèmes qui se posent.
+- personne transversale: responsable générale de la grille, se balade entre les réunions du personnel des services et celles des moniteurs. « En se déplaçant d’une réunion à l’autre, elle joue le jeu, bouscule les limites, matérialise le déplacement de la problématique générale (celle du décloisonnement), tout en déplaçant les termes mêmes des problèmes qui se posent.
 
 Source: MICROPOLITIQUEDESGROUPES Pour une écologie des pratiques collectives David VERCAUTEREN Éditions HB,  2007, Politique(s) p23-27.
 
 ## Contexte
 
-Installée dans le Loir-et-Cher, cette clinique psychiatrique s’inscrivait dans l’élan d’après-guerre qui voulait révolutionner les manières dont était traitée et soignée la maladiementale. Les grands axes de la psychothérapie institutionnelle [4] y sont présents dèsl’ouverture : la perméabilité des espaces, la liberté de circuler, la critique des rôles et desqualifications   professionnelles,   la   nécessité   d’un   club   thérapeutique   des   malades...
+Installée dans le Loir-et-Cher, cette clinique psychiatrique s’inscrivait dans l’élan d’après-guerre qui voulait révolutionner les manières dont était traitée et soignée la maladie mentale. Les grands axes de la psychothérapie institutionnelle [4] y sont présents dèsl’ouverture : la perméabilité des espaces, la liberté de circuler, la critique des rôles et desqualifications   professionnelles,   la   nécessité   d’un   club   thérapeutique   des   malades...
 
-### 1. UNEHISTOIRETRANSVERSALE
+### 1. UNE HISTOIRE TRANSVERSALE
 
 La volonté fixée en 1953 semble clairement tracer les perspectives selon lesquelles il s’agirait de penser la charpente du projet : décloisonner les fonctions et les tâches, lutter contre les formes de spécialisation, favoriser, tant au niveau de l’organisation du travail qu’au niveau des patients, une circulation, une fluidité dans les différents secteurs, enconsidérant que la maladie mentale est autant un problème pour les patients que pour l’ensemble des travailleurs. 
 

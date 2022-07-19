@@ -1,12 +1,12 @@
 # Paradigm change
 
 Comment changer les paradigmes ? Thomas Kuhn qui a écrit un livre référence à propos des grands changement de paradigme dans la science, a beaucoup a dire la dessus:
-- Pointez de manière répétée les anomalies et les échecs du vieux paradigme
-- Parlez et agissez, bruyamment et avec assurance depuis le nouveau paradigme
+- Pointez de manière répétée les anomalies et les échecs du vieux paradigme.
+- Parlez et agissez, bruyamment et avec assurance ancré dans le nouveau paradigme.
 - Insérez des personnes du nouveau paradigme dans des lieux de visibilité publique et de pouvoir.
 - Ne perdez pas de temps avec les réactionnaires, mais travaillez plutot avec les agents actifs du changement et la vaste majorité de personnes entre deux à l'esprit ouvert.
 
-Les modélisateurs de système disent que onus changeons les paradigme en bâtissant/concevant un modèle du système, ce qui nous sort du système et nous force à le voir dans son ensemble.
+Les modélisateurs de systèmes disent que nous changeons les paradigmes en bâtissant/concevant un modèle du système, ce qui nous sort du système et nous force à le voir dans son ensemble.
 
 ## Source
 

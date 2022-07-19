@@ -1,5 +1,7 @@
 # EXEMPLES DE RÈGLES D'AUTO-ORGANISATION
 
+
+
 ## Termites
 Pierre-Paul Grassé publia ses travaux en 1959. Selon lui, les termites ne sont pas assez intelligents pour communiquer de manière symbolique et coordoner leur actions. Ils se contente plutot d'appliquer mécaniquement trois règles.
 
@@ -19,8 +21,7 @@ Au final à l'étape 3) les fourmis empruntent le chemin le plus court, les port
 
 Auto organisation  chez les fourmis pour la recherche de nourriture
 
-On interprète ainsi les phénomènes d'auto-organisation
-chez les insectes sociaux à la lumière de quatre
+On interprète ainsi les phénomènes d'auto-organisation chez les insectes sociaux à la lumière de quatre
 mécanismes principaux 3 :
 1. L'existence d'interactions multiples  (nombreuses fourmis se déplaçant au hasard à la recherche de nourriture).
 2. L'amplification par la rétroaction positive. (phéromones déposées attirent d'autre qui fourmis qui déposent des nouvelles phéromones: effet boule de neige)
@@ -49,8 +50,17 @@ Ces deux règles expliquent la formation des centres d'affaires, avec chacun leu
 
 Répétez l'opération plusieurs fois et vous obtiendrez  un flocon de Koch.
 
+## __Rules for self-organization
+*complex and delightful patterns can evolve from quite simple sets of rules.**
+
+**Self-organization is basically a matter of an evolutionnary raw material - a highly variable stock of information from which to select possible patterns - and a mean for experimentation, for selecting and testing new patterns.**
+
+iterations_complexity.md
+
+
 ## Graines
 - processus_construction_termitiere.md
 - regles_autoorganisation_villes.md
 - koch_snowflake_self-organization.md
-
+- __Rules for self-organization
+- iterations_complexity.md

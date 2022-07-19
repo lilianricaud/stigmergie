@@ -1,4 +1,4 @@
-Tradiionnal collaboration relies on SOCIAL NEGOCIATION. 
+Traditionnal collaboration relies on SOCIAL NEGOCIATION. 
 
 Economics assumes that individuals competing in a market will start to formally cooperate, thus forming an organization or firm, in order to reduce TRANSACTION COSTS. 
 

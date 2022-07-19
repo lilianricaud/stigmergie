@@ -9,7 +9,7 @@ En biologie moléculaire, ll a été recemment reconnu que la stigmergie expliqu
 Ehylighen, F. 2015. Stigmergy as a Universal Coordination Mechanism: components, varieties and applications
 
 Tabony, J. (2006). Microtubules viewed as molecular ant colonies. Biology of the Cell, 98, 603–617.
-
+https://onlinelibrary.wiley.com/doi/epdf/10.1042/BC20050087
 ## Liens
 
 - gr_concept_stigmergie.md

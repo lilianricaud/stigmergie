@@ -1,6 +1,6 @@
 # Rules for self-organization
 
-These rules basically govern how, where, and what the system can add onto or substract from  itself under what conditions. As hundreds of computer models have demonstrated, **complex and delightful patterns can evolve from quite simple sets of rules.**
+These rules basically govern how, where, and what the system can add onto or substract from itself under what conditions. As hundreds of computer models have demonstrated, **complex and delightful patterns can evolve from quite simple sets of rules.**
 
 The genetic code within the DNA that is the basis of all biological evolution contains just four different letters, coimbined into words of three letters each. that pattern, and the rules for replicating and rearranging it, has been constant for something like three billions years during which it spewed out an unimaginable variety of failed and successful self-evolved creatures.
 

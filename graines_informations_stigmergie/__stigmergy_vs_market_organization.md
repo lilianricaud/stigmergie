@@ -45,3 +45,6 @@ engendered by an altruistic deed.
 **Such stigmergic prioritization is arguably even more efficient than a market, since there is no need for the complex and often irrational processes of buying, selling, bargaining and speculation that determine the eventual price of a commodity—leading to the typically chaotic movements of commodity prices on the stock exchange.** 
 
 Moreover, **although price could be interpreted as a— very abstract—stigmergic signal, this variable is merely one-dimensional**. On the other hand, **open access tasks could be ranked on a website according to independent stigmergic criteria**, such as urgency, difficulty, expected utility, required expertise, etc. In that way, potential contributors would be helped in finding the task that suits them best
+
+Heylighen
+WITT,  U.  (2006),  Coordination  of  individual  economic  activities  as  an  evolving  process  of  self-organization. The evolving economy: essays on the evolutionary approach to economics, 62.

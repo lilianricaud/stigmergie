@@ -1,4 +1,4 @@
-# Regles Organisation des villes
+# Règles Organisation des villes
 
 Nos villes, surtout pour la plupart nos villes d'art, ne résultent d'aucune planification systématique. (...)
 
